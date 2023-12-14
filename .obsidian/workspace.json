@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5bffc798f4755a21",
@@ -161,7 +162,9 @@
   },
   "active": "ada3b67b826653d3",
   "lastOpenFiles": [
+    "docs/attachments/Pasted image 20231215004015.png",
     "docs/How to create new blog.md",
+    "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
     "docs/_coverpage.md",
     "_media/favicon.svg.md",
     "_media",
@@ -170,7 +173,6 @@
     "docs/_sidebar.md",
     "docs/README.md",
     "docs/course_note/_sidebar.md",
-    "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/2023-12-03.md",
     "docs/others/_sidebar.md",
@@ -192,7 +194,6 @@
     "course_note/human_computer_interaction/_sidebar.md",
     "course_note/human_computer_interaction/Tutorial-8-Interface-Design-Principles.md",
     "course_note/human_computer_interaction/Tutorial-7-Specification-for-interface-design.md",
-    "course_note/human_computer_interaction/Tutorial-9-Usability-by-examples.md",
     "course_note/human_computer_interaction",
     "course_note/data_mining_and_data_warehouse",
     "HCI",

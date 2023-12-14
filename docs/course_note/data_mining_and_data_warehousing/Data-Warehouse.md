@@ -29,23 +29,23 @@
 # What is a Data Warehouse Used for?
 - in many organizations, we want a <mark>central "store"</mark> of all of our entities, concepts, metadata, and historical information
 	- for doing data validation, complex mining, analysis, prediction, etc.
-- one of the =="modern" use== of the data warehouse is not only to support analytics but to serve as reference to all of entities in organization
+- one of the <mark>"modern" use</mark> of the data warehouse is not only to support analytics but to serve as reference to all of entities in organization
 	- A cleaned, validated repository of what we know ... which can be linked to by data sources...which may help data cleaning... and which may be basis of **data governance** (processes by which data is created and modified in a systematic way, e.g., to comply with gov't regulations)
-- ==Knowledge discovery==
+- <mark>Knowledge discovery</mark>
 	- making consolidated reports
 	- finding relationships and correlations
 	- data mining
 	- examples
 		- banks identifying credit risk
 		- insurance companies searching for fraud
-- ==OLAP== (online analytical processing)
+- <mark>OLAP</mark> (online analytical processing)
 	- it contrasts with OLTP used to deal with the everyday running of one aspect of an enterprise
 	- OLTP systems are usually designed independently of each other and it is difficult for them to share information
 # Characteristics of Data Warehouse: 
 - Subject-Oriented
-	- organized around major subjects, such as ==customer, product, sale==
+	- organized around major subjects, such as <mark>customer, product, sale </mark>
 	- focusing on the modeling and analysis of data for decision makers, not on daily operations or transcation processing
-	- provide a simple and concise view around particular subject issues by ==excluding data that are not useful in the decision support process==
+	- provide a simple and concise view around particular subject issues by <mark>excluding data that are not useful in the decision support process</mark>
 - Integrated
 	- constructed by integrating multiple, heterogeneous data sources
 		- relational databases, flat files, on-line transcation records
@@ -62,10 +62,10 @@
 		- but the key of operational data may or may not contain "time element"
 - Nonvolatile
 	- a physically seperate store of data tranformed from the operational environment 
-	- operational ==update of data does not occur== in the data ware environment
+	- operational <mark>update of data does not occur</mark> in the data ware environment
 		- does not requirement transcation processing, recovery, and concurrency control mechanisms
 		- requires only two operations in data accessing
-			- ==initial loading of data and access of data==
+			- <mark>initial loading of data and access of data</mark>
 
 # History of Data warehouse
 ![](../../attachments/Pasted%20image%2020231214224558.png)
@@ -91,8 +91,12 @@
 	- DBMS - turned for OLTP: access methods, indexing, concurrence control, recovery
 	- Warehouse - turned for OLAP: complex OLAP queries, multidimensional view, consolidation
 - Different functions and different data:
-	- ==missing data==: decision support requires historical data which operational DBs do not typically maintain
-	- ==data consolidation==: decision support requires consolidation (aggregation, summarization) of data from heterogeneous sources
-	- ==data quality==: different sources typpically use inconsistent data representations, codes and formats which have to be reconciled
+	- <mark>missing data</mark>: decision support requires historical data which operational DBs do not typically maintain
+	- <mark>data consolidation</mark>: decision support requires consolidation (aggregation, summarization) of data from heterogeneous sources
+	- <mark>data quality</mark>: different sources typpically use inconsistent data representations, codes and formats which have to be reconciled
 - Note: there are more and more systems which perform OLAP analysis directly on relational databases
-- 
+
+# Data Warehouse's Multi-Tiered Architecture
+![](../../attachments/Pasted%20image%2020231215004015.png)
+
+# DW modeling - Data Cube and OLAP
