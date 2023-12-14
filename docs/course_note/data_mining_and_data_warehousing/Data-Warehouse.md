@@ -122,3 +122,32 @@
 # More Data Cube example: 3-D data Cube
 ![](../../attachments/Pasted%20image%2020231215010653.png)
 ....
+
+# Conceptual Modeling of Data Warehouses
+- Modeling data warehouses: <mark>dimensions</mark> and <mark>measures</mark>
+- DW shcema
+	- <mark>star shcema</mark>: A fact table in the middle connected to a set of dimension tables
+		- ![](../../attachments/Pasted%20image%2020231215012126.png)
+	- <mark>Snowflake shcema</mark>: A reinement of star schema where some dimensional hierarchy is normalized into a set of smaller dimension tables, forming a shape similiar to snowflake
+		- ![](../../attachments/Pasted%20image%2020231215012156.png)
+	- <mark>Facy constellations</mark>: Multiple fact tables share dimension tables, view as a collection of stars, therefore called galaxy shcema or fact constellation
+		- ![](../../attachments/Pasted%20image%2020231215012217.png)
+# Multiple Facts Tables $\Rightarrow$ Galaxy schema
+- For performance or other reasons, we can define multiple fact tables in a given star shcema
+	- e.g. varous users require different levels of aggregation
+- performance can be improved by defining a different fact table for each lebel of aggrregation (see the example in next slide)
+- Designers of DW need decide whether incresed storage requirements are justify by the propective performance inprovement
+
+# Snowflake Schema
+- sometimes a dimension in a star shema forms a natural hierarchy
+	- e.g. dimension named market has geographic hierarchy
+		- several markets within a state
+		- several markets with a region
+		- several markets within a country
+	- when a dimension participates in a hierarchy, the designer has two basic choices
+		- include all the information for hierarchy in a single table
+			- big flat table
+		- normalize the tables
+			- resulting in an expanded schema $\Rightarrow$ the <mark>snowflake shema</mark>
+	- A snowflake schema is an expanded version of a star shcema in which all  of the tables are fully normalized
+
