@@ -1,0 +1,5 @@
+- [HOME](../../)
+- [COURSE NOTE](../)
+  - [HUMAN COMPUTER INTERACTION](./)
+    - [Introducing HCI](Lecture-1-Introducting-HCI.md)
+    - [Human info proc](Lecture-2-Human-info-proc.md)
