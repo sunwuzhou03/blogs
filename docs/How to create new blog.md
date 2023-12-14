@@ -3,6 +3,27 @@
 
 [神器docsify 用MarkDown 来写自己的网站_markdown docsify-CSDN博客⁤](https://blog.csdn.net/shiliang97/article/details/110500387)
 
+全局安装 docsify-cli 工具
+```
+npm i docsify-cli -g
+```
+
+如果想在项目的 ./docs 目录里写文档，直接通过 init 初始化项目。
+```
+docsify init ./docs
+```
+
+直接编辑 docs/README.md 就能更新文档内容
+预览效果
+```
+docsify serve docs
+```
+
+浏览器输入
+```
+localhost:3000
+```
+
 [docsify的学习 - 一只蹒跚学编程的猴子 - 博客园 (cnblogs.com)](https://www.cnblogs.com/monkey-yty/p/15396201.html)
 
 [欢迎回来！ (cnblogs.com)](https://www.cnblogs.com/xhemj/p/How-to-Use-Docsify.html)

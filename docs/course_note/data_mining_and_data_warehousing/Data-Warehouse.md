@@ -68,7 +68,7 @@
 			- ==initial loading of data and access of data==
 
 # History of Data warehouse
-![[Pasted image 20231214224558.png]]
+![](../../attachments/Pasted%20image%2020231214224558.png)
 
 # Data warehouse vs. Operational DBMS
 - OLTP (on-line transaction processing)
@@ -84,7 +84,7 @@
 	- view: current, local vs evolutionary, integrated
 	- access patterns: update vs. read-only but complex queries
 - comprasion figure
-	- ![[Pasted image 20231214225141.png]]
+	- ![](../../attachments/Pasted%20image%2020231214225141.png)
 
 # Why a separate Data Warehouse?
 - High performance for both systems
