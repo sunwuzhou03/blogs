@@ -4,4 +4,6 @@
 		- [Introducing HCI](Lecture-1-Introducting-HCI.md)
 		- [Human info proc](Lecture-2-Human-info-proc.md)
 	- [DATA MINING AND DATA WAREHOUSING](../data_mining_and_data_warehousing/)
-		- [Data Warehousing](Data-Warehouse.md)
+		- [Data Warehousing-1](../data_mining_and_data_warehousing/Data-Warehouse-1.md)
+		- [Data Warehousing-2](../data_mining_and_data_warehousing/Data-Warehouse-2.md)
+		- 

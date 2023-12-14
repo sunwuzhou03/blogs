@@ -1,4 +1,4 @@
-# Data Warehouse
+# Data Warehouse 1
 # Basic concepts
 
 # Why do we need data warehouses?
@@ -150,4 +150,33 @@
 		- normalize the tables
 			- resulting in an expanded schema $\Rightarrow$ the <mark>snowflake shema</mark>
 	- A snowflake schema is an expanded version of a star shcema in which all  of the tables are fully normalized
+
+# A concept hierarchy: Dimension (location)
+![](../../attachments/Pasted%20image%2020231215013736.png)
+
+# Data cube Measures: Three Categories
+- <mark>distributive</mark>： if the result derived by applying the function to n aggregate values is the smae as that derived by applting the function on all data without partitioning
+	- E.g., count(), sum(), min(), max() <mark>(total) units_sold</mark>
+- <mark>Algebraic</mark>: if it can be computed by an algebraic function with M arguments (where M is a nounded integer), each of which is obtained by applying a distributive aggregate function
+	- E.g. avg(), min_N(), standard_deviation() <mark>(average)units_sold</mark>
+- <mark>Holistic</mark>: if there is no constant bound on the storage size needed to describe a sub-aggregate
+	- e.g. median(), mode(), rank() <mark>units_sold</mark>
+
+# Typical OLAP Operations
+![](../../attachments/Pasted%20image%2020231215015157.png)
+
+# Roll-up Operation
+![](../../attachments/Pasted%20image%2020231215015222.png)
+
+# Drill Down Operation
+![](../../attachments/Pasted%20image%2020231215015315.png)
+
+# Slicing and Dicing a Cube
+![](../../attachments/Pasted%20image%2020231215015339.png)
+
+# Browing a Data Cube
+![](../../attachments/Pasted%20image%2020231215015518.png)
+
+# Part I's Summary
+![](../../attachments/Pasted%20image%2020231215015539.png)
 
