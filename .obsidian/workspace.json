@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/How to create new blog.md",
+                "file": "docs/course_note/data_mining_and_data_warehouse/Data Warehouse.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5bffc798f4755a21",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/How to create new blog.md",
+                "file": "docs/course_note/data_mining_and_data_warehouse/Data Warehouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/How to create new blog.md",
+                "file": "docs/course_note/data_mining_and_data_warehouse/Data Warehouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/How to create new blog.md"
+                "file": "docs/course_note/data_mining_and_data_warehouse/Data Warehouse.md"
               }
             }
           }
@@ -148,11 +149,13 @@
   },
   "active": "73999954e759fc41",
   "lastOpenFiles": [
+    "docs/2023-12-03.md",
+    "docs/README.md",
+    "docs/How to create new blog.md",
     "docs/course_note/human_computer_interaction/README.md",
     "docs/course_note/data_mining_and_data_warehouse/Data Warehouse.md",
     "docs/course_note/data_mining_and_data_warehouse/Untitled.md",
     "docs/Untitled.md",
-    "docs/How to create new blog.md",
     "_sidebar.md",
     "course_note/README.md",
     "course_note/_sidebar.md",
@@ -172,8 +175,6 @@
     "course_note/human_computer_interaction/Lecture-3-Visual.md",
     "course_note/human_computer_interaction/Lecture-2-Human-info-proc.md",
     "course_note/human_computer_interaction/Lecture-2-Human-info-proc 1.md",
-    "course_note/human_computer_interaction/Lecture-1-Introducting-HCI.md",
-    "course_note/human_computer_interaction/HCI paper Review.md",
     "course_note/human_computer_interaction",
     "course_note/data_mining_and_data_warehouse",
     "HCI",
