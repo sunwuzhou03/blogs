@@ -27,7 +27,7 @@
 - Data warehousing
 	- The process of constructing and using data warehouses
 # What is a Data Warehouse Used for?
-- in many organizations, we want a ==central "store"== of all of our entities, concepts, metadata, and historical information
+- in many organizations, we want a <mark>central "store"</mark> of all of our entities, concepts, metadata, and historical information
 	- for doing data validation, complex mining, analysis, prediction, etc.
 - one of the =="modern" use== of the data warehouse is not only to support analytics but to serve as reference to all of entities in organization
 	- A cleaned, validated repository of what we know ... which can be linked to by data sources...which may help data cleaning... and which may be basis of **data governance** (processes by which data is created and modified in a systematic way, e.g., to comply with gov't regulations)

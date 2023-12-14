@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/How to create new blog.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/How to create new blog.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/How to create new blog.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/How to create new blog.md"
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "ada3b67b826653d3",
   "lastOpenFiles": [
-    "docs/_coverpage.md",
     "docs/How to create new blog.md",
+    "docs/_coverpage.md",
     "_media/favicon.svg.md",
     "_media",
     "docs/_media",
