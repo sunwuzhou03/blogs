@@ -100,3 +100,25 @@
 ![](../../attachments/Pasted%20image%2020231215004015.png)
 
 # DW modeling - Data Cube and OLAP
+
+- A **data warehouse** is based on a <mark>multidimensional data model</mark> which views data in the form of a data cube
+- A data cube , such as sales, allows data to be modeled and viewed in multiple dimensions
+	- **dimension tables**, such as item (item_name, brand, type), or time (day,week, month, quarter, year)
+	- **Fact table** contains **measures** (such as dollars_sold) and keys to each of the related dimension tables
+- in data warehousing literature, an n-D base cube is called a <mark>base cuboid</mark>. the top most 0-D cuboid, which holds the highest-level of summarization, is called the <mark>apex cuboid</mark>. the lattice of cuboids forms <mark>data cube</mark>
+
+# Cube A lattice of Cuboids
+![](../../attachments/Pasted%20image%2020231215010329.png)
+
+# Multidimensional Data Modeling
+![](../../attachments/Pasted%20image%2020231215010402.png)
+
+# A Hypothetical Data Cube
+![](../../attachments/Pasted%20image%2020231215010450.png)
+
+# Cuboids Corresponding to the Cube
+![](../../attachments/Pasted%20image%2020231215010533.png)
+
+# More Data Cube example: 3-D data Cube
+![](../../attachments/Pasted%20image%2020231215010653.png)
+....
