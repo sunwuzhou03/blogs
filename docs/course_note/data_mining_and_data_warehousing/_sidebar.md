@@ -1,0 +1,4 @@
+- [HOME](../)
+- [COURSE NOTE](../)
+  - [DATA MINING AND DATA WAREHOUSING](./)
+    - [Warehousing](Warehousing.md) 
