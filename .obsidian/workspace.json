@@ -11,8 +11,12 @@
             "id": "2f1a911bda8b3a03",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md"
+              }
             }
           }
         ]
@@ -140,10 +148,10 @@
   },
   "active": "2f1a911bda8b3a03",
   "lastOpenFiles": [
+    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/2023-12-03.md",
     "docs/others/_sidebar.md",
     "docs/course_note/human_computer_interaction/_sidebar.md",
-    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
     "docs/attachments/Pasted image 20231214224558.png",
     "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
