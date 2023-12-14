@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
+                "file": "docs/_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
+                "file": "docs/_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
+                "file": "docs/_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md"
+                "file": "docs/_sidebar.md"
               }
             }
           }
@@ -148,23 +148,24 @@
   },
   "active": "2f1a911bda8b3a03",
   "lastOpenFiles": [
+    "docs/README.md",
+    "docs/_sidebar.md",
+    "docs/course_note/_sidebar.md",
+    "docs/How to create new blog.md",
+    "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/2023-12-03.md",
     "docs/others/_sidebar.md",
     "docs/course_note/human_computer_interaction/_sidebar.md",
-    "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse.md",
     "docs/attachments/Pasted image 20231214224558.png",
     "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
-    "docs/course_note/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/Data-Warehousing.md",
     "docs/course_note/data_mining_and_data_warehousing/Warehousing.md",
-    "docs/How to create new blog.md",
     "docs/attachments/Pasted image 20231214225141.png",
     "human_computer_interaction.md",
     "data_mining_and_data_warehousing.md",
     "docs/attachments/COMP3423 Quiz solutions (final)_v2_stu.pdf",
-    "docs/README.md",
     "docs/course_note/human_computer_interaction/README.md",
     "docs/course_note/data_mining_and_data_warehouse/Untitled.md",
     "docs/Untitled.md",
@@ -176,7 +177,6 @@
     "course_note/human_computer_interaction/Tutorial-7-Specification-for-interface-design.md",
     "course_note/human_computer_interaction/Tutorial-9-Usability-by-examples.md",
     "course_note/human_computer_interaction/Tutorial-6-virtual-reality.md",
-    "course_note/human_computer_interaction/Tutorial-5-Feedback-and-constraints.md",
     "course_note/human_computer_interaction",
     "course_note/data_mining_and_data_warehouse",
     "HCI",
