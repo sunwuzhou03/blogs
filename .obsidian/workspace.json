@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_sidebar.md"
+                "file": "docs/README.md"
               }
             }
           }
@@ -197,19 +197,23 @@
   },
   "active": "84eeaf577dc250f0",
   "lastOpenFiles": [
+    "docs/_sidebar.md",
     "docs/_navbar.md",
+    "docs/course_note/data_mining_and_data_warehousing/README.md",
+    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
+    "docs/course_note/human_computer_interaction/README.md",
+    "docs/course_note/human_computer_interaction/_sidebar.md",
+    "docs/course_note/README.md",
+    "docs/home.md",
     "docs/README.md",
     "docs/others/_navbar.md",
-    "docs/_sidebar.md",
     "docs/_media/profile.jpg",
     "docs/_media/logo.ico",
     "docs/_media/profile_250.jpg",
     "docs/course_note/human_computer_interaction/_navbar.md",
     "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
     "docs/course_note/_navbar.md",
-    "docs/course_note/human_computer_interaction/_sidebar.md",
     "docs/course_note/human_computer_interaction/HCI paper Review.md",
-    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/_sidebar.md",
     "docs/others/_sidebar.md",
     "docs/others/How to create new blog.md",
@@ -224,10 +228,6 @@
     "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 2.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
-    "docs/course_note/human_computer_interaction/Tutorial 10 Emerging Technologies and HCI.md",
-    "docs/course_note/human_computer_interaction/Tutorial 9 Usability by examples.md",
-    "docs/course_note/human_computer_interaction/Tutorial 8 Interface Design Principles.md",
-    "docs/course_note/human_computer_interaction/Tutorial 7 Specification for interface design.md",
     "commit.sh",
     "docs/attachments/Pasted image 20231215140612.png",
     "docs/attachments/Pasted image 20231215140555.png",
