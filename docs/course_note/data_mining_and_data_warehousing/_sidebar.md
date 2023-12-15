@@ -1,4 +1,3 @@
-- [HOME](../../)
 - [COURSE NOTE](../)
 	- [DATA MINING AND DATA WAREHOUSING](./)
 		- [Introducing Data Mining](Introducing%20Data%20Mining.md)

@@ -1,4 +1,3 @@
-- [HOME](../../)
 - [COURSE NOTE](../)
 	- [HUMAN COMPUTER INTERACTION](./)
 		- [Lecture 1 Introducting HCI](Lecture%201%20Introducting%20HCI.md)

@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/others/How to create new blog.md",
+                "file": "docs/others/_sidebar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae2f19438c9fe9db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_note/human_computer_interaction/HCI paper Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84eeaf577dc250f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/_sidebar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/others/How to create new blog.md",
+                "file": "docs/_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/others/How to create new blog.md",
+                "file": "docs/_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/others/How to create new blog.md"
+                "file": "docs/_sidebar.md"
               }
             }
           }
@@ -171,35 +195,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9912470a943858d6",
+  "active": "84eeaf577dc250f0",
   "lastOpenFiles": [
-    "docs/others/开悟.md",
+    "docs/course_note/human_computer_interaction/_navbar.md",
+    "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
+    "docs/course_note/_navbar.md",
+    "docs/course_note/human_computer_interaction/_sidebar.md",
+    "docs/course_note/human_computer_interaction/HCI paper Review.md",
+    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
+    "docs/course_note/_sidebar.md",
+    "docs/others/_sidebar.md",
+    "docs/_sidebar.md",
+    "docs/others/_navbar.md",
+    "docs/_navbar.md",
     "docs/others/How to create new blog.md",
+    "docs/新建文本文档.txt",
+    "docs/others/开悟.md",
     "docs/_coverpage.md",
     "docs/course_note/human_computer_interaction/Tutorial 4 Design thinking and type of designs.md",
     "_media/logo.ico",
     "docs/course_note/human_computer_interaction/Tutorial 5 Feedback and constraints.md",
-    "docs/others/_sidebar.md",
-    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/others/README.md",
-    "docs/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
     "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 2.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
-    "docs/course_note/human_computer_interaction/_sidebar.md",
-    "docs/course_note/_sidebar.md",
     "docs/course_note/human_computer_interaction/Tutorial 10 Emerging Technologies and HCI.md",
     "docs/course_note/human_computer_interaction/Tutorial 9 Usability by examples.md",
     "docs/course_note/human_computer_interaction/Tutorial 8 Interface Design Principles.md",
     "docs/course_note/human_computer_interaction/Tutorial 7 Specification for interface design.md",
     "docs/course_note/human_computer_interaction/Tutorial 6 virtual reality.md",
-    "docs/course_note/human_computer_interaction/Lecture 6 Testing.md",
-    "docs/course_note/human_computer_interaction/Lecture 5 Ergonomics, IO Devices.md",
-    "docs/course_note/human_computer_interaction/Lecture 4 language.md",
-    "docs/course_note/human_computer_interaction/Lecture 3 Visual.md",
-    "docs/course_note/human_computer_interaction/Lecture 2 Human info proc.md",
-    "docs/course_note/human_computer_interaction/Lecture-2-Human-info-proc 1.md",
     "commit.sh",
     "docs/attachments/Pasted image 20231215140612.png",
     "docs/attachments/Pasted image 20231215140555.png",
@@ -217,7 +242,6 @@
     "docs/attachments/COMP3423 Quiz solutions (final)_v2_stu.pdf",
     "course_note/human_computer_interaction",
     "course_note/data_mining_and_data_warehouse",
-    "HCI",
-    "course_note"
+    "HCI"
   ]
 }
