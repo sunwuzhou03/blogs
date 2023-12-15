@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/others/How to create new blog.md",
+                "file": "docs/_navbar.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/others/How to create new blog.md",
+                "file": "docs/_navbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/others/How to create new blog.md",
+                "file": "docs/_navbar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/others/How to create new blog.md"
+                "file": "docs/_navbar.md"
               }
             }
           }
@@ -197,7 +197,9 @@
   },
   "active": "84eeaf577dc250f0",
   "lastOpenFiles": [
+    "docs/_coverpage.md",
     "docs/README.md",
+    "docs/others/How to create new blog.md",
     "docs/others/README.md",
     "docs/_sidebar.md",
     "docs/_navbar.md",
@@ -217,10 +219,8 @@
     "docs/course_note/human_computer_interaction/HCI paper Review.md",
     "docs/course_note/_sidebar.md",
     "docs/others/_sidebar.md",
-    "docs/others/How to create new blog.md",
     "docs/新建文本文档.txt",
     "docs/others/开悟.md",
-    "docs/_coverpage.md",
     "docs/course_note/human_computer_interaction/Tutorial 4 Design thinking and type of designs.md",
     "_media/logo.ico",
     "docs/course_note/human_computer_interaction/Tutorial 5 Feedback and constraints.md",
