@@ -5,5 +5,4 @@
 		- [Human info proc](Lecture-2-Human-info-proc.md)
 	- [DATA MINING AND DATA WAREHOUSING](./)
 		- [Data Warehousing-1](Data-Warehouse-1.md)
-		- [Data Warehousing-2](../data_mining_and_data_warehousing/Data-Warehouse-2.md)
-		- 
+		- [Data Warehousing-2](Data-Warehouse-2.md)

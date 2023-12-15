@@ -1,1 +1,1 @@
-# About human and computer interaction
+# Human and Computer Interaction
