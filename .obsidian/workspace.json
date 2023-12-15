@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5bffc798f4755a21",
@@ -161,6 +162,7 @@
   },
   "active": "de7f9f31c37cdddc",
   "lastOpenFiles": [
+    "commit.sh",
     "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
     "docs/course_note/data_mining_and_data_warehousing/Cluster-1.md",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
@@ -200,7 +202,6 @@
     "_sidebar.md",
     "course_note/README.md",
     "course_note/_sidebar.md",
-    "course_note/human_computer_interaction/_sidebar.md",
     "course_note/human_computer_interaction",
     "course_note/data_mining_and_data_warehouse",
     "HCI",
