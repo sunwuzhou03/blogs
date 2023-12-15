@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/others/_sidebar.md",
+                "file": "docs/others/How to create new blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/others/_sidebar.md",
+                "file": "docs/others/How to create new blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/others/_sidebar.md",
+                "file": "docs/others/How to create new blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/others/_sidebar.md"
+                "file": "docs/others/How to create new blog.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "9912470a943858d6",
   "lastOpenFiles": [
-    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/others/_sidebar.md",
+    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/others/README.md",
     "docs/others/How to create new blog.md",
     "docs/_sidebar.md",
