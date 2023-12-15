@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de7f9f31c37cdddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5bffc798f4755a21",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/README.md"
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-1.md"
               }
             }
           }
@@ -147,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8fda3eebb97143a",
+  "active": "de7f9f31c37cdddc",
   "lastOpenFiles": [
+    "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
+    "docs/course_note/data_mining_and_data_warehousing/Cluster-1.md",
+    "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/attachments/Pasted image 20231215140612.png",
     "docs/attachments/Pasted image 20231215140555.png",
     "docs/attachments/Pasted image 20231215140523.png",
@@ -159,7 +174,6 @@
     "docs/attachments/Pasted image 20231215140202.png",
     "docs/attachments/Pasted image 20231215140127.png",
     "docs/attachments/Pasted image 20231215140055.png",
-    "docs/attachments/Pasted image 20231215140037.png",
     "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md",
     "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
@@ -176,7 +190,6 @@
     "docs/README.md",
     "docs/2023-12-03.md",
     "docs/others/_sidebar.md",
-    "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/Data-Warehousing.md",
     "docs/course_note/data_mining_and_data_warehousing/Warehousing.md",
     "human_computer_interaction.md",
@@ -188,7 +201,6 @@
     "course_note/README.md",
     "course_note/_sidebar.md",
     "course_note/human_computer_interaction/_sidebar.md",
-    "course_note/human_computer_interaction/Tutorial-8-Interface-Design-Principles.md",
     "course_note/human_computer_interaction",
     "course_note/data_mining_and_data_warehouse",
     "HCI",
