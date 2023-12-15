@@ -1,1 +1,2 @@
-*Hi, I am Wuzhou Sun. This is my blog website.*
+
+![profile_250](_media/profile.jpg)
