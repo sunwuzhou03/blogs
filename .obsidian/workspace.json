@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5bffc798f4755a21",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md"
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md"
               }
             }
           }
@@ -161,22 +162,24 @@
   },
   "active": "c8fda3eebb97143a",
   "lastOpenFiles": [
+    "docs/attachments/Pasted image 20231215122641.png",
+    "docs/attachments/Pasted image 20231215122528.png",
+    "docs/attachments/Pasted image 20231215122233.png",
+    "docs/attachments/Pasted image 20231215122123.png",
+    "docs/attachments/Pasted image 20231215122054.png",
+    "docs/attachments/Pasted image 20231215121925.png",
+    "docs/attachments/Pasted image 20231215121650.png",
+    "docs/attachments/Pasted image 20231215121533.png",
+    "docs/attachments/Pasted image 20231215121418.png",
+    "docs/attachments/Pasted image 20231215121142.png",
+    "docs/attachments/Pasted image 20231215121113.png",
+    "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
+    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md",
     "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-1.md",
-    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/human_computer_interaction/_sidebar.md",
     "docs/course_note/_sidebar.md",
     "docs/How to create new blog.md",
-    "docs/attachments/Pasted image 20231215015539.png",
-    "docs/attachments/Pasted image 20231215015518.png",
-    "docs/attachments/Pasted image 20231215015339.png",
-    "docs/attachments/Pasted image 20231215015315.png",
-    "docs/attachments/Pasted image 20231215015222.png",
-    "docs/attachments/Pasted image 20231215015157.png",
-    "docs/attachments/Pasted image 20231215013736.png",
-    "docs/attachments/Pasted image 20231215012217.png",
-    "docs/attachments/Pasted image 20231215012156.png",
-    "docs/attachments/Pasted image 20231215012126.png",
     "docs/_coverpage.md",
     "_media/favicon.svg.md",
     "_media",
@@ -186,7 +189,6 @@
     "docs/README.md",
     "docs/2023-12-03.md",
     "docs/others/_sidebar.md",
-    "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/Data-Warehousing.md",
     "docs/course_note/data_mining_and_data_warehousing/Warehousing.md",
@@ -200,7 +202,6 @@
     "course_note/_sidebar.md",
     "course_note/human_computer_interaction/_sidebar.md",
     "course_note/human_computer_interaction/Tutorial-8-Interface-Design-Principles.md",
-    "course_note/human_computer_interaction/Tutorial-7-Specification-for-interface-design.md",
     "course_note/human_computer_interaction",
     "course_note/data_mining_and_data_warehouse",
     "HCI",
