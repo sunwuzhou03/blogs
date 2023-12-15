@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md"
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md"
               }
             }
           }
@@ -221,12 +221,17 @@
   },
   "active": "d40bdc4ad7978fb9",
   "lastOpenFiles": [
+    "docs/attachments/Pasted image 20231216020752.png",
+    "docs/attachments/Pasted image 20231216020715.png",
+    "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
+    "docs/attachments/Pasted image 20231216020503.png",
+    "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
+    "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 2.md",
     "docs/course_note/data_mining_and_data_warehousing/Other references.md",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
-    "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
     "docs/others/How to create new blog.md",
     "docs/others/README.md",
     "docs/_navbar.md",
@@ -253,8 +258,6 @@
     "docs/course_note/human_computer_interaction/_navbar.md",
     "docs/course_note/human_computer_interaction/HCI paper Review.md",
     "docs/course_note/_sidebar.md",
-    "docs/others/_sidebar.md",
-    "docs/others/开悟.md",
     "_media/logo.ico",
     "commit.sh",
     "docs/attachments/Pasted image 20231215140612.png",
@@ -263,8 +266,6 @@
     "docs/attachments/Pasted image 20231215140505.png",
     "docs/attachments/Pasted image 20231215140420.png",
     "docs/attachments/Pasted image 20231215140400.png",
-    "docs/attachments/Pasted image 20231215140300.png",
-    "docs/attachments/Pasted image 20231215140202.png",
     "_media"
   ]
 }

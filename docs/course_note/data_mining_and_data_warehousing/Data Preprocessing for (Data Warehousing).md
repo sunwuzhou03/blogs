@@ -50,6 +50,8 @@
 					- ...
 				- equal depth (frequency) partitioning:
 					- ...
+			- ![](../../attachments/Pasted%20image%2020231216020715.png)
+			- ![](../../attachments/Pasted%20image%2020231216020752.png)
 		- clustering
 			- data will then be replaced by its nearest cluster center/representatives, including the outliers
 		- combined computer and human inspection

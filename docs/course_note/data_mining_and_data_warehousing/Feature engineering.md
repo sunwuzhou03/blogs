@@ -63,5 +63,6 @@ reason
 	- min-max normalization
 	- z-score normalization
 	- normalization by decimal scaling
+	- ![](../../attachments/Pasted%20image%2020231216020503.png)
 - attribute/feature construction
 	- new attribute constructed from given ones
