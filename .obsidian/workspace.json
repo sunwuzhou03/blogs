@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ada3b67b826653d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c8fda3eebb97143a",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,17 +149,17 @@
   },
   "active": "c8fda3eebb97143a",
   "lastOpenFiles": [
+    "docs/attachments/Pasted image 20231215124647.png",
+    "docs/attachments/Pasted image 20231215124421.png",
+    "docs/attachments/Pasted image 20231215124110.png",
+    "docs/attachments/Pasted image 20231215123736.png",
+    "docs/attachments/Pasted image 20231215123628.png",
+    "docs/attachments/Pasted image 20231215123459.png",
+    "docs/attachments/Pasted image 20231215123346.png",
     "docs/attachments/Pasted image 20231215122641.png",
     "docs/attachments/Pasted image 20231215122528.png",
     "docs/attachments/Pasted image 20231215122233.png",
     "docs/attachments/Pasted image 20231215122123.png",
-    "docs/attachments/Pasted image 20231215122054.png",
-    "docs/attachments/Pasted image 20231215121925.png",
-    "docs/attachments/Pasted image 20231215121650.png",
-    "docs/attachments/Pasted image 20231215121533.png",
-    "docs/attachments/Pasted image 20231215121418.png",
-    "docs/attachments/Pasted image 20231215121142.png",
-    "docs/attachments/Pasted image 20231215121113.png",
     "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md",
