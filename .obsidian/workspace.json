@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md"
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md"
               }
             }
           }
@@ -149,20 +149,20 @@
   },
   "active": "c8fda3eebb97143a",
   "lastOpenFiles": [
-    "docs/attachments/Pasted image 20231215133213.png",
-    "docs/attachments/Pasted image 20231215132950.png",
-    "docs/attachments/Pasted image 20231215132738.png",
-    "docs/attachments/Pasted image 20231215132716.png",
-    "docs/attachments/Pasted image 20231215132640.png",
-    "docs/attachments/Pasted image 20231215132538.png",
-    "docs/attachments/Pasted image 20231215132450.png",
-    "docs/attachments/Pasted image 20231215132347.png",
-    "docs/attachments/Pasted image 20231215132205.png",
-    "docs/attachments/Pasted image 20231215132119.png",
-    "docs/attachments/Pasted image 20231215132015.png",
+    "docs/attachments/Pasted image 20231215140612.png",
+    "docs/attachments/Pasted image 20231215140555.png",
+    "docs/attachments/Pasted image 20231215140523.png",
+    "docs/attachments/Pasted image 20231215140505.png",
+    "docs/attachments/Pasted image 20231215140420.png",
+    "docs/attachments/Pasted image 20231215140400.png",
+    "docs/attachments/Pasted image 20231215140300.png",
+    "docs/attachments/Pasted image 20231215140202.png",
+    "docs/attachments/Pasted image 20231215140127.png",
+    "docs/attachments/Pasted image 20231215140055.png",
+    "docs/attachments/Pasted image 20231215140037.png",
+    "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md",
     "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
-    "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-2.md",
     "docs/course_note/data_mining_and_data_warehousing/Data-Warehouse-1.md",
     "docs/course_note/human_computer_interaction/_sidebar.md",
     "docs/course_note/_sidebar.md",
