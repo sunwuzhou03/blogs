@@ -25,9 +25,21 @@
       loadSidebar: true, // 使用_sidebar.md组装多页面网站
       subMaxLevel: 2,
       relativePath: true, // 使用相对路径链接
-
+      search: {
+        paths: 'auto',
+        placeholder: '🔍 search',
+        noData: '😒 not find',
+        // Headline depth, 1 - 6
+        depth: 6,
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+      },
+      mergeNavbar: true,
+      auto2top: true,
     }
   </script>
+
+  <!-- 全局搜索 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 
   <!-- 全局搜索 -->
   <!-- Docsify v4 -->
@@ -64,6 +76,9 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-yaml.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-properties.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/matlab.min.js"></script>
+
+  <!-- 表情符号 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 
 </body>
 
