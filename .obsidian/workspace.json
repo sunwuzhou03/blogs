@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/others/README.md",
+                "file": "docs/others/How to create new blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/others/README.md",
+                "file": "docs/others/How to create new blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/others/README.md",
+                "file": "docs/others/How to create new blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/others/README.md"
+                "file": "docs/others/How to create new blog.md"
               }
             }
           }
@@ -209,6 +209,7 @@
   },
   "active": "2239ab7e25f72dcf",
   "lastOpenFiles": [
+    "docs/others/README.md",
     "docs/_navbar.md",
     "docs/Link.html",
     "docs/link.html",
@@ -228,7 +229,6 @@
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 2.md",
     "docs/README.md",
     "docs/_coverpage.md",
-    "docs/others/README.md",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/human_computer_interaction/README.md",
