@@ -155,7 +155,6 @@
 		- Concept hierarchies
 			- reduce the data by collecting and replacing low level concepts (sunch as numerica values for attribute age) by higher level concepts (such as yound, middle-aged, or senior)
 			- other examples inclue building $\rightarrow$ street $\rightarrow$ district $\rightarrow$ city $\rightarrow$ country and those hierarchies for generalized association relu mining
-		- 
 
 # Summary
 - Data preparation is a big issue for both warehousing and mining

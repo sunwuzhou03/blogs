@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_navbar.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_navbar.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_navbar.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_navbar.md"
+                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md"
               }
             }
           }
@@ -197,12 +197,12 @@
   },
   "active": "84eeaf577dc250f0",
   "lastOpenFiles": [
+    "docs/_navbar.md",
     "docs/_coverpage.md",
     "docs/README.md",
     "docs/others/How to create new blog.md",
     "docs/others/README.md",
     "docs/_sidebar.md",
-    "docs/_navbar.md",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/human_computer_interaction/README.md",
