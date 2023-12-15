@@ -2,3 +2,4 @@
 - [COURSE NOTE](./course_note/)
 	- [HUMAN COMPUTER INTERACTION](human_computer_action/)
 	- [DATA MINING AND DATA WAREHOUSING](data_mining_and_data_warehousing/)
+- [OTHERS](./others/)
