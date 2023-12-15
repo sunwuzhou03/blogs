@@ -1,3 +1,3 @@
 ```pdf
-[OutlierDetection](../../attachments/OutlierDetection.pdf)
+[OutlierDetection](../../attachments/OutlierDetection.pdf
 ```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/ARM2.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/ARM2.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/ARM2.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/ARM2.md"
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md"
               }
             }
           }
@@ -148,13 +148,6 @@
   },
   "active": "6a7612289d6ce291",
   "lastOpenFiles": [
-    "docs/course_note/data_mining_and_data_warehousing/ARM1.md",
-    "docs/course_note/data_mining_and_data_warehousing/FAQ-ARM2-ans.md",
-    "docs/course_note/data_mining_and_data_warehousing/FAQ-ARM1-ans.md",
-    "docs/course_note/data_mining_and_data_warehousing/ARM2.md",
-    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
-    "docs/course_note/data_mining_and_data_warehousing/README.md",
-    "docs/course_note/data_mining_and_data_warehousing/OutlierDetection.md",
     "docs/course_note/data_mining_and_data_warehousing/WebMining-new.md",
     "docs/course_note/data_mining_and_data_warehousing/Quiz 5.md",
     "docs/course_note/data_mining_and_data_warehousing/Quiz 4.md",
@@ -162,19 +155,26 @@
     "docs/course_note/data_mining_and_data_warehousing/Quiz 2.md",
     "docs/course_note/data_mining_and_data_warehousing/Quiz 1.md",
     "docs/course_note/data_mining_and_data_warehousing/Quiz 0.md",
-    "docs/course_note/data_mining_and_data_warehousing/Assignment 2 ans.md",
-    "docs/course_note/data_mining_and_data_warehousing/Assignment 1 ans.md",
+    "docs/course_note/data_mining_and_data_warehousing/OutlierDetection.md",
+    "docs/course_note/data_mining_and_data_warehousing/Other references.md",
+    "docs/course_note/data_mining_and_data_warehousing/Introducing Data Mining.md",
+    "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
+    "docs/course_note/data_mining_and_data_warehousing/FAQ-Classification I ans.md",
+    "docs/course_note/data_mining_and_data_warehousing/FAQ-ARM2-ans.md",
+    "docs/course_note/data_mining_and_data_warehousing/FAQ-ARM1-ans.md",
     "docs/course_note/data_mining_and_data_warehousing/FAQ DW ans.md",
     "docs/course_note/data_mining_and_data_warehousing/FAQ DP ans.md",
     "docs/course_note/data_mining_and_data_warehousing/FAQ Clustering II ans.md",
     "docs/course_note/data_mining_and_data_warehousing/FAQ Clustering I ans.md",
+    "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 2.md",
+    "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
+    "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
     "docs/course_note/data_mining_and_data_warehousing/Clustering II.md",
     "docs/course_note/data_mining_and_data_warehousing/Clustering I.md",
-    "docs/course_note/data_mining_and_data_warehousing/FAQ-Classification I ans.md",
-    "docs/attachments/FAQ-Classification I-ans.pdf",
     "docs/course_note/data_mining_and_data_warehousing/Classificationmore.md",
     "docs/course_note/data_mining_and_data_warehousing/Classification 1.md",
-    "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
+    "docs/course_note/data_mining_and_data_warehousing/Assignment 2 ans.md",
+    "docs/attachments/FAQ-Classification I-ans.pdf",
     "docs/attachments/FAQ-Classification I.pdf",
     "docs/attachments/FAQ-ARM2-ans.pdf",
     "docs/attachments/FAQ-ARM2.pdf",
