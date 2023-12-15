@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_navbar.md",
+                "file": "docs/others/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_navbar.md",
+                "file": "docs/others/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_navbar.md",
+                "file": "docs/others/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_navbar.md"
+                "file": "docs/others/README.md"
               }
             }
           }
@@ -209,6 +209,7 @@
   },
   "active": "2239ab7e25f72dcf",
   "lastOpenFiles": [
+    "docs/_navbar.md",
     "docs/Link.html",
     "docs/link.html",
     "docs/新建文本文档.txt",
@@ -217,7 +218,6 @@
     "docs/others/_navbar.md",
     "docs/course_note/_navbar.md",
     "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
-    "docs/_navbar.md",
     "docs/LINK.html",
     "docs/others/How to create new blog.md",
     "docs/Link.md",
@@ -253,7 +253,6 @@
     "docs/attachments/Pasted image 20231215140400.png",
     "docs/attachments/Pasted image 20231215140300.png",
     "docs/attachments/Pasted image 20231215140202.png",
-    "_media",
-    "docs/_media"
+    "_media"
   ]
 }
