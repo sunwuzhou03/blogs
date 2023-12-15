@@ -1,4 +1,4 @@
-
+# Feedback and constraints
 # Introduction
 products or interfaces outght to provide insightful feedback to help user comprehend the current situation and have limitations to help user to avoid making mistakes.
 
