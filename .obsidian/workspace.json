@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
+                "file": "docs/others/How to create new blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
+                "file": "docs/others/How to create new blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
+                "file": "docs/others/How to create new blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md"
+                "file": "docs/others/How to create new blog.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   },
   "active": "84eeaf577dc250f0",
   "lastOpenFiles": [
+    "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
     "docs/_navbar.md",
     "docs/_coverpage.md",
     "docs/README.md",
@@ -224,7 +225,6 @@
     "docs/course_note/human_computer_interaction/Tutorial 4 Design thinking and type of designs.md",
     "_media/logo.ico",
     "docs/course_note/human_computer_interaction/Tutorial 5 Feedback and constraints.md",
-    "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
     "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 2.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
