@@ -8,91 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8fda3eebb97143a",
+            "id": "9f5aad507711e80a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Introducing Data Mining.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/FAQ-ARM1-ans.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "de7f9f31c37cdddc",
+            "id": "c999b2c67306d0d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Introducing Data Mining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9912470a943858d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/others/_sidebar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae2f19438c9fe9db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/course_note/human_computer_interaction/HCI paper Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84eeaf577dc250f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/_sidebar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2239ab7e25f72dcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d40bdc4ad7978fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/All pdf.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/All pdf.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/All pdf.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/All pdf.md"
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md"
               }
             }
           }
@@ -219,12 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d40bdc4ad7978fb9",
+  "active": "c999b2c67306d0d7",
   "lastOpenFiles": [
+    "docs/course_note/data_mining_and_data_warehousing/FAQ-ARM2-ans.md",
+    "docs/course_note/data_mining_and_data_warehousing/FAQ-ARM1-ans.md",
+    "docs/course_note/data_mining_and_data_warehousing/ARM2.md",
+    "docs/course_note/data_mining_and_data_warehousing/ARM1.md",
+    "docs/course_note/data_mining_and_data_warehousing/README.md",
+    "docs/attachments/FAQ-Classification I.pdf",
+    "docs/attachments/FAQ-ARM2-ans.pdf",
+    "docs/attachments/FAQ-ARM2.pdf",
+    "docs/attachments/FAQ-ARM1-ans.pdf",
+    "docs/attachments/FAQ-ARM1.pdf",
+    "docs/attachments/FAQ-Classification I-ans.pdf",
+    "docs/attachments/Quiz5.pdf",
+    "docs/attachments/Quiz4.pdf",
+    "docs/attachments/Quiz3.pdf",
+    "docs/attachments/Quiz2.pdf",
     "docs/others/How to create new blog.md",
-    "docs/course_note/data_mining_and_data_warehousing/All pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
-    "docs/attachments/ARM1.pdf",
     "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
     "docs/attachments/Pasted image 20231216020752.png",
     "docs/attachments/Pasted image 20231216020715.png",
@@ -233,18 +186,11 @@
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 2.md",
     "docs/course_note/data_mining_and_data_warehousing/Other references.md",
-    "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
     "docs/others/README.md",
     "docs/_navbar.md",
-    "docs/Link.html",
-    "docs/link.html",
-    "docs/新建文本文档.txt",
-    "docs/Link (3).html",
-    "docs/link (2).html",
     "docs/others/_navbar.md",
     "docs/course_note/_navbar.md",
-    "docs/LINK.html",
     "docs/Link.md",
     "docs/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/Untitled 1.md",
@@ -255,13 +201,7 @@
     "docs/course_note/README.md",
     "docs/home.md",
     "docs/_media/profile.jpg",
-    "docs/_media/logo.ico",
     "docs/_media/profile_250.jpg",
-    "docs/course_note/human_computer_interaction/_navbar.md",
-    "docs/course_note/human_computer_interaction/HCI paper Review.md",
-    "docs/course_note/_sidebar.md",
-    "_media/logo.ico",
-    "commit.sh",
     "docs/attachments/Pasted image 20231215140612.png",
     "docs/attachments/Pasted image 20231215140555.png",
     "docs/attachments/Pasted image 20231215140523.png",

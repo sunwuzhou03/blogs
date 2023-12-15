@@ -5,3 +5,8 @@
 - [Feature engineering](Feature%20engineering.md)
 - [Data Preprocessing for (Data Warehousing)](Data%20Preprocessing%20for%20(Data%20Warehousing).md) 
 - [Other references](Other%20references.md)
+- [ARM1](ARM1.md)
+- [FAQ-ARM1-ans](FAQ-ARM1-ans.md)
+- [ARM2](ARM2.md)
+- [FAQ-ARM2-ans](FAQ-ARM2-ans.md)
+- 
