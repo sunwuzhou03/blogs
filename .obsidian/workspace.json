@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
+                "file": "docs/_sidebar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2239ab7e25f72dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/others/How to create new blog.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
+                "file": "docs/others/How to create new blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
+                "file": "docs/others/How to create new blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md"
+                "file": "docs/others/How to create new blog.md"
               }
             }
           }
@@ -195,14 +207,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84eeaf577dc250f0",
+  "active": "2239ab7e25f72dcf",
   "lastOpenFiles": [
-    "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 2.md",
-    "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
+    "docs/Link.md",
+    "docs/others/_navbar.md",
+    "docs/course_note/_navbar.md",
+    "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
+    "docs/_navbar.md",
     "docs/_sidebar.md",
+    "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
+    "docs/course_note/data_mining_and_data_warehousing/Untitled.md",
+    "docs/course_note/data_mining_and_data_warehousing/Untitled 1.md",
+    "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 2.md",
     "docs/README.md",
     "docs/others/How to create new blog.md",
-    "docs/_navbar.md",
     "docs/_coverpage.md",
     "docs/others/README.md",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
@@ -211,13 +229,10 @@
     "docs/course_note/human_computer_interaction/_sidebar.md",
     "docs/course_note/README.md",
     "docs/home.md",
-    "docs/others/_navbar.md",
     "docs/_media/profile.jpg",
     "docs/_media/logo.ico",
     "docs/_media/profile_250.jpg",
     "docs/course_note/human_computer_interaction/_navbar.md",
-    "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
-    "docs/course_note/_navbar.md",
     "docs/course_note/human_computer_interaction/HCI paper Review.md",
     "docs/course_note/_sidebar.md",
     "docs/others/_sidebar.md",
@@ -225,9 +240,6 @@
     "docs/others/开悟.md",
     "docs/course_note/human_computer_interaction/Tutorial 4 Design thinking and type of designs.md",
     "_media/logo.ico",
-    "docs/course_note/human_computer_interaction/Tutorial 5 Feedback and constraints.md",
-    "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
-    "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
     "commit.sh",
     "docs/attachments/Pasted image 20231215140612.png",
     "docs/attachments/Pasted image 20231215140555.png",

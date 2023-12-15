@@ -2,6 +2,8 @@
 
 [docsify中文官方文档](https://docsify.js.org/#/zh-cn/)
 
+[docsify的配置+全插件列表 - 邓邓的流水账 (xhhdd.cc)](https://xhhdd.cc/index.php/archives/80/comment-page-1)
+
 [【保姆级教程】手把手教你用github制作学术个人主页（学者必备）_github个人主页链接-CSDN博客⁤](https://blog.csdn.net/qd1813100174/article/details/128604858)
 
 [神器docsify 用MarkDown 来写自己的网站_markdown docsify-CSDN博客⁤](https://blog.csdn.net/shiliang97/article/details/110500387)
