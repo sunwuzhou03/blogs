@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
+                "file": "docs/_navbar.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
+                "file": "docs/_navbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
+                "file": "docs/_navbar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/_navbar.md"
+                "file": "docs/_navbar.md"
               }
             }
           }
@@ -209,12 +209,12 @@
   },
   "active": "2239ab7e25f72dcf",
   "lastOpenFiles": [
-    "docs/LINK.html",
-    "docs/course_note/_navbar.md",
     "docs/others/_navbar.md",
-    "docs/_navbar.md",
+    "docs/course_note/_navbar.md",
     "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
     "docs/link.html",
+    "docs/LINK.html",
+    "docs/_navbar.md",
     "docs/others/How to create new blog.md",
     "docs/Link.md",
     "docs/Link.html",
@@ -253,7 +253,6 @@
     "docs/attachments/Pasted image 20231215140202.png",
     "_media",
     "docs/_media",
-    "docs/新建文件夹",
-    "docs/attachments/COMP3423 Quiz solutions (final)_v2_stu.pdf"
+    "docs/新建文件夹"
   ]
 }
