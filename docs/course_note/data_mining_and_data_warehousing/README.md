@@ -21,8 +21,6 @@
 - [FAQ Clustering II ans](FAQ%20Clustering%20II%20ans.md)
 - [FAQ DP ans](FAQ%20DP%20ans.md)
 - [FAQ DW ans](FAQ%20DW%20ans.md)
-- [FAQ-ARM1-ans](FAQ-ARM1-ans.md)
-- [FAQ-ARM2-ans](FAQ-ARM2-ans.md)
 - [FAQ-Classification I ans](FAQ-Classification%20I%20ans.md)
 - [Quiz 0](Quiz%200.md)
 - [Quiz 1](Quiz%201.md)

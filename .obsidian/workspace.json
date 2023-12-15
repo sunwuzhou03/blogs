@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/_sidebar.md"
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "6a7612289d6ce291",
   "lastOpenFiles": [
+    "docs/course_note/README.md",
+    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/Feature engineering.md",
@@ -172,8 +174,6 @@
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 2.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
-    "docs/course_note/data_mining_and_data_warehousing/Clustering II.md",
-    "docs/course_note/data_mining_and_data_warehousing/Clustering I.md",
     "docs/attachments/FAQ-Classification I-ans.pdf",
     "docs/attachments/FAQ-Classification I.pdf",
     "docs/attachments/FAQ-ARM2-ans.pdf",
