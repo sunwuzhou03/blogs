@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/others/How to create new blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/others/How to create new blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/others/How to create new blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/README.md"
+                "file": "docs/others/How to create new blog.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "c7221c93b579ac01",
   "lastOpenFiles": [
+    "docs/README.md",
     "docs/course_note/_navbar.md",
     "docs/course_note/_sidebar.md",
     "docs/course_note/README.md",
@@ -189,7 +190,6 @@
     "docs/course_note/data_mining_and_data_warehousing/FAQ ARM1 ans pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/FAQ DW ans pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/FAQ Clustering II ans pdf.md",
-    "docs/course_note/data_mining_and_data_warehousing/FAQ Clustering I ans pdf.md",
     "docs/attachments/FAQ-Classification I-ans.pdf",
     "docs/attachments/FAQ-Classification I.pdf",
     "docs/attachments/FAQ-ARM2-ans.pdf",
