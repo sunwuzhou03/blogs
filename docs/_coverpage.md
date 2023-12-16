@@ -7,6 +7,6 @@
 <span id="busuanzi_container_site_pv" style='display:none'>
     👀 Total visits to this site: <span id="busuanzi_value_site_pv"></span> times
 </span>
-<!-- <span id="busuanzi_container_site_uv" style='display:none'>
+<span id="busuanzi_container_site_uv" style='display:none'>
     | 🚴‍♂️ The total number of visitors to this site: <span id="busuanzi_value_site_uv"></span> people
-</span> -->
+</span>

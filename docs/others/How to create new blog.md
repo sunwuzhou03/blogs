@@ -37,3 +37,5 @@ localhost:3000
 [欢迎回来！ (cnblogs.com)](https://www.cnblogs.com/xhemj/p/How-to-Use-Docsify.html)
 
 [Docsify 进阶配置 - LIUのBlog (clotliu.com)](https://clotliu.com/archives/docsify-advanced)
+
+[Google搜索到自己部署的github网页 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/601082701)
