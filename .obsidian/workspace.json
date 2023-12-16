@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7221c93b579ac01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/FAQ DP ans pdf.md",
+                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/FAQ DP ans pdf.md",
+                "file": "docs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/FAQ DP ans pdf.md"
+                "file": "docs/README.md"
               }
             }
           }
@@ -146,8 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a7612289d6ce291",
+  "active": "c7221c93b579ac01",
   "lastOpenFiles": [
+    "docs/course_note/_navbar.md",
+    "docs/course_note/_sidebar.md",
+    "docs/course_note/README.md",
+    "docs/course_note/artificail_intelligence/README.md",
+    "docs/course_note/data_mining_and_data_warehousing/FAQ DP ans pdf.md",
+    "docs/course_note/artificail_intelligence",
     "docs/attachments/Second Thought (S&C).pdf",
     "docs/attachments/Second Thought (S&C).pdf.crdownload",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
@@ -169,12 +188,8 @@
     "docs/course_note/data_mining_and_data_warehousing/FAQ ARM2 ans pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/FAQ ARM1 ans pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/FAQ DW ans pdf.md",
-    "docs/course_note/data_mining_and_data_warehousing/FAQ DP ans pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/FAQ Clustering II ans pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/FAQ Clustering I ans pdf.md",
-    "docs/course_note/data_mining_and_data_warehousing/Clustering II pdf.md",
-    "docs/course_note/data_mining_and_data_warehousing/Clustering I pdf.md",
-    "docs/course_note/data_mining_and_data_warehousing/Classificationmore pdf.md",
     "docs/attachments/FAQ-Classification I-ans.pdf",
     "docs/attachments/FAQ-Classification I.pdf",
     "docs/attachments/FAQ-ARM2-ans.pdf",
@@ -182,8 +197,6 @@
     "docs/attachments/FAQ-ARM1-ans.pdf",
     "docs/attachments/FAQ-ARM1.pdf",
     "docs/attachments/Quiz5.pdf",
-    "docs/attachments/Quiz4.pdf",
-    "docs/attachments/Quiz3.pdf",
     "docs/attachments/Pasted image 20231216020752.png",
     "docs/attachments/Pasted image 20231216020715.png",
     "docs/attachments/Pasted image 20231216020503.png",
