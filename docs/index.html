@@ -55,14 +55,28 @@
         crossChapterText: true,
       },
       loadNavbar: true,
-      share: {
-        reddit: true,
-        linkedin: true,
-        facebook: true,
-        twitter: true,
-        whatsapp: true,
-        telegram: true,
-      },
+      plugins: [
+        // EditOnGithubPlugin.create(docBase, docEditBase, title)
+        EditOnGithubPlugin.create(
+          'https://github.com/sunwuzhou03/blogs/tree/main/docs/',
+          null,
+          function (file) {
+            if (file.indexOf('en') === -1) {
+              return 'edit'
+            } else {
+              return 'edit on git'
+            }
+          }
+        )
+      ],
+      // share: {
+      //   reddit: true,
+      //   linkedin: true,
+      //   facebook: true,
+      //   twitter: true,
+      //   whatsapp: true,
+      //   telegram: true,
+      // },
       // 加载 nav.md
       // loadNavbar: 'nav.md',
       markdown: {
@@ -136,6 +150,9 @@
       distractionFreeMode: false
     })
   </script> -->
+
+  <!-- github编辑 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
 
   <!-- 分享 -->
   <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
