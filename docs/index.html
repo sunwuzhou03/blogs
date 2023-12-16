@@ -56,18 +56,9 @@
       },
       loadNavbar: true,
       plugins: [
-        // EditOnGithubPlugin.create(docBase, docEditBase, title)
         EditOnGithubPlugin.create(
-          'https://github.com/sunwuzhou03/blogs/tree/main/docs/',
-          null,
-          function (file) {
-            if (file.indexOf('en') === -1) {
-              return 'edit'
-            } else {
-              return 'edit on git'
-            }
-          }
-        )
+          'https://github.com/sunwuzhou03/blogs/tree/main/docs/'
+        ),
       ],
       // share: {
       //   reddit: true,
