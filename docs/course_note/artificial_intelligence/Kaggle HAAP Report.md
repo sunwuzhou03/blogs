@@ -24,7 +24,8 @@ This data comes from kaggle, contains 14 dimensions, 303 samples, the specific v
 
 ## Data exploration
 ### Data presentation
-![](../../attachments/Pasted%20image%2020231218000659.png)
+![|500](../../attachments/Pasted%20image%2020231218000659.png)
+
 ![](../../attachments/Pasted%20image%2020231218004152.png)
 
 Use the python code to do the data exploration, we can know the data unique value. According the above figure, we can valid the data descirption in the I.
