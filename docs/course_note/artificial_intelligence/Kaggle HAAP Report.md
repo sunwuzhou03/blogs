@@ -38,7 +38,7 @@ In the pairplot figure, we can find the distributions of  features **age, cp, ta
 
 In the correlation heatmap figure, we can know the feature **cp, thalachh, exng, oldpeak, thall, caa, thall** has **highest correlation** with feature **output**.
 
-### detailly exploation on age and sex
+### detaily exploation on age
 - Age distribution
 	- ![](../../attachments/Pasted%20image%2020231218015134.png)
 - Discretized age distribution
@@ -47,6 +47,9 @@ In the correlation heatmap figure, we can know the feature **cp, thalachh, exng,
 	- ![](../../attachments/Pasted%20image%2020231218020241.png)
 
 The above figure show us the yound people and middle people have more rate to have a heart attact than the old people. I think this result is contrary to the attempted. 
+
+### detaily exploration on sex
+- sex histogram and 
 
 # references
 - [Heart Attack Analysis & Prediction Dataset (kaggle.com)](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/discussion/329925)
