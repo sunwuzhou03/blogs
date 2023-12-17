@@ -1,7 +1,7 @@
 # Predict and ARM onHAAP Dataset 
 
 # I. Dataset Introducing
-This data comes from kaggle, contains 14 dimensions, 303 samples, the specific variables are described in the following table
+This data comes from kaggle, contains 14 dimensions, 303 samples, the specific variables are described in the following table.
 
 |variable|description|value area|
 |-|-|-|
@@ -26,14 +26,17 @@ This data comes from kaggle, contains 14 dimensions, 303 samples, the specific v
 ### data presentation
 ![](../../attachments/Pasted%20image%2020231218000659.png)
 ![](../../attachments/Pasted%20image%2020231218004152.png)
-We can discover that there is no miss value in the dataset and dataset shape is (303,14). There are 13 features and the 'output' is label.
+Use the python code to do the data exploration, we can know the data unique value. According the above figure, we can valid the data descirption in the I.
 
-## data heatmap for null value
-
-According to the above figure, we also can discover there is no null value in this dataset. So there is no need to do the miss data processing.
-
-# distribution of all features
+### distribution of all features
 ![](../../attachments/Pasted%20image%2020231218001250.png)
+We can dicover the feature age, trtbps, chol, thalach roughly satisfy the normal distribution.
+
+### observing the relationship between the output and every variable
+- pairplot figure
+	![](../../attachments/Pasted%20image%2020231218011757.png)
+- correlation heatmap
+	- ![](../../attachments/Pasted%20image%2020231218012000.png)
 
 # references
 - [Heart Attack Analysis & Prediction Dataset (kaggle.com)](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/discussion/329925)
