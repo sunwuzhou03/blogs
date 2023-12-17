@@ -49,7 +49,19 @@ In the correlation heatmap figure, we can know the feature **cp, thalachh, exng,
 The above figure show us the yound people and middle people have more rate to have a heart attact than the old people. I think this result is contrary to the attempted. 
 
 ### detaily exploration on sex
-- sex histogram and 
+- sex histogram and detail count
+	- ![](../../attachments/Pasted%20image%2020231218022745.png)
+	- female: 96, male 207
+- Heart Disease Frequency for Sex
+	- ![](../../attachments/Pasted%20image%2020231218022858.png)
+- Heart Disease Prediction - Gender and Prevalence Analysis
+	- ![](../../attachments/Pasted%20image%2020231218022924.png)
+- Distribution of gender and illness
+	- ![](../../attachments/Pasted%20image%2020231218023007.png)
+
+According the above figure, we can find the there is no gender balance in the given data set and also can discover the male ratio is bigger than female under the condition of less chance of heart disease but roughly eauql under the condition of high chance of heart disease. 
+
+
 
 # references
 - [Heart Attack Analysis & Prediction Dataset (kaggle.com)](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/discussion/329925)
