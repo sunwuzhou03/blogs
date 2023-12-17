@@ -46,7 +46,7 @@ In the correlation heatmap figure, we can know the feature **cp, thalachh, exng,
 ### detailly exploation on age and sex
 - age distribution
 	- ![](../../attachments/Pasted%20image%2020231218015134.png)
-	- 
+- 
 
 # references
 - [Heart Attack Analysis & Prediction Dataset (kaggle.com)](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/discussion/329925)
