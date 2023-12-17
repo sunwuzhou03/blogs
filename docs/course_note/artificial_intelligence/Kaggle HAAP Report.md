@@ -23,30 +23,30 @@ This data comes from kaggle, contains 14 dimensions, 303 samples, the specific v
 # II Fomulation and Analysis
 
 ## Data exploration
-### data presentation
+### Data presentation
 ![](../../attachments/Pasted%20image%2020231218000659.png)
 ![](../../attachments/Pasted%20image%2020231218004152.png)
 
 Use the python code to do the data exploration, we can know the data unique value. According the above figure, we can valid the data descirption in the I.
 
-### distribution of all features
+### Distribution of all features
 ![](../../attachments/Pasted%20image%2020231218001250.png)
 
-We can dicover the feature age, trtbps, chol, thalach roughly satisfy the normal distribution.
-
-### observing the relationship between the output and every variable
-- pairplot figure
-	![](../../attachments/Pasted%20image%2020231218011757.png)
-- correlation heatmap figure
+We can dCorrelation heatmap figure
 	- ![](../../attachments/Pasted%20image%2020231218012000.png)
 In the pairplot figure, we can find the distributions of  features **age, cp, tahlachh, oldpeak, caa** with respect to the two values of **output** are more **differentiated**. These features are more **discriminatory** for outpus.
 
 In the correlation heatmap figure, we can know the feature **cp, thalachh, exng, oldpeak, thall, caa, thall** has **highest correlation** with feature **output**.
 
 ### detailly exploation on age and sex
-- age distribution
+- Age distribution
 	- ![](../../attachments/Pasted%20image%2020231218015134.png)
-- 
+- Discretized age distribution
+	- ![](../../attachments/Pasted%20image%2020231218020129.png)
+- Histogram of heart disease prevalence at different ages
+	- ![](../../attachments/Pasted%20image%2020231218020241.png)
+
+The above figure show us the yound people and middle people have more rate to have a heart attact than the old people. I think this result is contrary to the attempted. 
 
 # references
 - [Heart Attack Analysis & Prediction Dataset (kaggle.com)](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/discussion/329925)
