@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/artificail_intelligence/HAAP.md",
+                "file": "docs/course_note/artificail_intelligence/Kaggle HAAP Report.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/artificail_intelligence/HAAP.md",
+                "file": "docs/course_note/artificail_intelligence/Kaggle HAAP Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/artificail_intelligence/HAAP.md",
+                "file": "docs/course_note/artificail_intelligence/Kaggle HAAP Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/artificail_intelligence/HAAP.md"
+                "file": "docs/course_note/artificail_intelligence/Kaggle HAAP Report.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "active": "09ac9d77044cf998",
   "lastOpenFiles": [
     "docs/course_note/artificail_intelligence/README.md",
-    "docs/course_note/artificail_intelligence/HAAP.md",
+    "docs/course_note/artificail_intelligence/Kaggle HAAP Report.md",
     "docs/others/How to create new blog.md",
     "docs/README.md",
     "docs/course_note/_navbar.md",
