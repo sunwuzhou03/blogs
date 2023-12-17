@@ -18,7 +18,7 @@ This data comes from kaggle, contains 14 dimensions, 303 samples, the specific v
 |oldpeak|ST-segment depression induced by exercise relative to rest (continuous variable)|[0, 6.2]|
 |slp|Slope of peak motion ST segment (categorical variable)|0=rising, 1=flat, 2=falling|
 |caa|Number of major vessels (continuous variable)|[0, 3]|
-|thall|Blood disorders of thalassemia (categorical variable)|0=normal, 1=fixed defects, 2=reversible defects|
+|thall|Blood disorders of thalassemia (categorical variable)|0=null,1=normal, 2=fixed defects, 3=reversible defects|
 
 # II Fomulation and Analysis
 
