@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/_sidebar.md",
+                "file": "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/_sidebar.md",
+                "file": "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/_sidebar.md",
+                "file": "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/_sidebar.md"
+                "file": "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md"
               }
             }
           }
@@ -173,13 +173,15 @@
   },
   "active": "8374b1607447bb81",
   "lastOpenFiles": [
+    "docs/attachments/Pasted image 20231218015134.png",
+    "docs/course_note/artificial_intelligence/README.md",
+    "docs/course_note/data_mining_and_data_warehousing/README.md",
+    "docs/course_note/_sidebar.md",
     "docs/course_note/artificial_intelligence/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
     "docs/others/How to create new blog.md",
-    "docs/course_note/artificial_intelligence/README.md",
     "docs/course_note/README.md",
-    "docs/course_note/_sidebar.md",
     "docs/others/_navbar.md",
     "docs/course_note/artificial_intelligence/_navbar.md",
     "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
@@ -195,7 +197,6 @@
     "docs/course_note/artificial_intelligence",
     "docs/attachments/Second Thought (S&C).pdf",
     "docs/attachments/Second Thought (S&C).pdf.crdownload",
-    "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
     "docs/course_note/data_mining_and_data_warehousing/WebMining new pdf.md",
@@ -207,7 +208,6 @@
     "docs/course_note/data_mining_and_data_warehousing/Quiz 0 pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/OutlierDetection pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/Other references.md",
-    "docs/course_note/data_mining_and_data_warehousing/Introducing Data Mining.md",
     "docs/attachments/FAQ-Classification I-ans.pdf",
     "docs/attachments/FAQ-Classification I.pdf",
     "docs/attachments/FAQ-ARM2-ans.pdf",
