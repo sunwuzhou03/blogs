@@ -29,7 +29,7 @@ This data comes from kaggle, contains 14 dimensions, 303 samples, the specific v
 We can discover that there is no miss value in the dataset and dataset shape is (303,14). There are 13 features and the 'output' is label.
 
 ## data heatmap for null value
-![](../../attachments/Pasted%20image%2020231218001025.png)
+
 According to the above figure, we also can discover there is no null value in this dataset. So there is no need to do the miss data processing.
 
 # distribution of all features
