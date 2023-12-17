@@ -55,4 +55,5 @@ The above figure show us the yound people and middle people have more rate to ha
 - [Normal Heart Rate By Age: Range, Charts And More – Forbes Health⁤](https://www.forbes.com/health/healthy-aging/normal-heart-rate-by-age/)
 - [Diagnostic and prognostic value of ST segment depression limited to the recovery phase of exercise stress test - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1768611/)
 - [Python可视化 | Seaborn5分钟入门(七)——pairplot - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/98729226)
+- [基于Kaggle心脏病数据集的数据分析和分类预测-StatisticalLearning统计学习实验报告_kaggle医学数据分析-CSDN博客⁤](https://blog.csdn.net/qq_40605313/article/details/120061220)
 - 
