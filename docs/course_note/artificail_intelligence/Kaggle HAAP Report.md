@@ -36,6 +36,7 @@ According to the above figure, we also can discover there is no null value in th
 ![](../../attachments/Pasted%20image%2020231218001250.png)
 
 # references
+- [Heart Attack Analysis & Prediction Dataset (kaggle.com)](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/discussion/329925)
 - [Blood pressure - Wikipedia](https://en.wikipedia.org/wiki/Blood_pressure)
 - [Cholesterol - Wikipedia](https://en.wikipedia.org/wiki/Cholesterol)
 - [Normal Heart Rate By Age: Range, Charts And More – Forbes Health⁤](https://www.forbes.com/health/healthy-aging/normal-heart-rate-by-age/)
