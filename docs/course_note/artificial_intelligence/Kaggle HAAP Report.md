@@ -24,7 +24,10 @@ This data comes from kaggle, contains 14 dimensions, 303 samples, the specific v
 
 ## Data exploration
 ### Data presentation
-![|500](../../attachments/Pasted%20image%2020231218000659.png)
+<img src="attachments/Pasted%20image%2020231218000659.png" width=50% height=50% />
+
+
+![|](../../attachments/Pasted%20image%2020231218000659.png)
 
 ![](../../attachments/Pasted%20image%2020231218004152.png)
 
