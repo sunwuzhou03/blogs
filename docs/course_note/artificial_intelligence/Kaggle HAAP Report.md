@@ -35,7 +35,7 @@ We can dicover the feature age, trtbps, chol, thalach roughly satisfy the normal
 ### observing the relationship between the output and every variable
 - pairplot figure
 	![](../../attachments/Pasted%20image%2020231218011757.png)
-- correlation heatmap
+- correlation heatmap figure
 	- ![](../../attachments/Pasted%20image%2020231218012000.png)
 
 # references

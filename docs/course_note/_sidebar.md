@@ -1,3 +1,4 @@
 - [COURSE NOTE](../course_note/)
 	- [HUMAN COMPUTER INTERACTION](human_computer_interaction/)
 	- [DATA MINING AND DATA WAREHOUSING](data_mining_and_data_warehousing/)
+	- [ARTIFICIAL INTELLIGENCE](artificial_intelligence/)
