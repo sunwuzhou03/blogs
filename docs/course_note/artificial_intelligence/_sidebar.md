@@ -1,3 +1,3 @@
 - [COURSE NOTE](../)
 	- [ARTIFICIAL INTELLIGENCE](./)
-		- 
+		- [Final Exam](Final%20Exam.md)

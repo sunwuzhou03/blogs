@@ -15,4 +15,16 @@ Machine learning and supervised leanrning
 - Linear Classification
 	- ![](../../attachments/Pasted%20image%2020231218231750.png)
 - ![](../../attachments/Pasted%20image%2020231218232250.png)
-- 
+# What is the relation between deep learning and artificial intelligence?
+![](../../attachments/Pasted%20image%2020231218233012.png)
+![](../../attachments/Pasted%20image%2020231218233025.png)
+![](../../attachments/Pasted%20image%2020231218233148.png)
+
+# What is the relation between deep learning and big data?
+
+[What Is Few Shot Learning? (Definition, Applications) | Built In](https://builtin.com/machine-learning/few-shot-learning)
+
+![](../../attachments/Pasted%20image%2020231218233405.png)
+![](../../attachments/Pasted%20image%2020231218233420.png)
+![](../../attachments/Pasted%20image%2020231218233431.png)
+
