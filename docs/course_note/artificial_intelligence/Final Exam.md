@@ -10,3 +10,8 @@ Machine learning and supervised leanrning
 ![](../../attachments/Pasted%20image%2020231218231054.png)
 
 # What is the relation between linear regression and linear classfication?
+- Linear Regression
+	- ![](../../attachments/Pasted%20image%2020231218231721.png)
+- Linear Classification
+	- ![](../../attachments/Pasted%20image%2020231218231750.png)
+- 
