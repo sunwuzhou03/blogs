@@ -27,4 +27,10 @@ Machine learning and supervised leanrning
 ![](../../attachments/Pasted%20image%2020231218233405.png)
 ![](../../attachments/Pasted%20image%2020231218233420.png)
 ![](../../attachments/Pasted%20image%2020231218233431.png)
+![](../../attachments/Pasted%20image%2020231218234051.png)
 
+# What is the relation between artificial intelligence and pattern recognition?
+![](../../attachments/Pasted%20image%2020231218234302.png)
+
+# What is the relation between artificial intelligence and data mining?
+![](../../attachments/Pasted%20image%2020231218234427.png)
