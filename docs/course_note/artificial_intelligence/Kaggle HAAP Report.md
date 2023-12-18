@@ -24,42 +24,40 @@ This data comes from kaggle, contains 14 dimensions, 303 samples, the specific v
 
 ## Data exploration
 ### Data presentation
-<img src="attachments/Pasted%20image%2020231218000659.png" width=50% height=50% />
-
-
-![](../../attachments/Pasted%20image%2020231218004152.png)
+![|425](../../attachments/Pasted%20image%2020231218000659.png)
+![|425](../../attachments/Pasted%20image%2020231218004152.png)
 
 Use the python code to do the data exploration, we can know the data unique value. According the above figure, we can valid the data descirption in the I.
 
 ### Distribution of all features
-![](../../attachments/Pasted%20image%2020231218001250.png)
+![|425](../../attachments/Pasted%20image%2020231218001250.png)
 
 We can dCorrelation heatmap figure
-	- ![](../../attachments/Pasted%20image%2020231218012000.png)
+	- ![|425](../../attachments/Pasted%20image%2020231218012000.png)
 In the pairplot figure, we can find the distributions of  features **age, cp, tahlachh, oldpeak, caa** with respect to the two values of **output** are more **differentiated**. These features are more **discriminatory** for outpus.
 
 In the correlation heatmap figure, we can know the feature **cp, thalachh, exng, oldpeak, thall, caa, thall** has **highest correlation** with feature **output**.
 
 ### detaily exploation on age
 - Age distribution
-	- ![](../../attachments/Pasted%20image%2020231218015134.png)
+	- ![|425](../../attachments/Pasted%20image%2020231218015134.png)
 - Discretized age distribution
-	- ![](../../attachments/Pasted%20image%2020231218020129.png)
+	- ![|425](../../attachments/Pasted%20image%2020231218020129.png)
 - Histogram of heart disease prevalence at different ages
-	- ![](../../attachments/Pasted%20image%2020231218020241.png)
+	- ![|425](../../attachments/Pasted%20image%2020231218020241.png)
 
 The above figure show us the yound people and middle people have more rate to have a heart attact than the old people. I think this result is contrary to the attempted. 
 
 ### detaily exploration on sex
 - sex histogram and detail count
-	- ![](../../attachments/Pasted%20image%2020231218022745.png)
+	- ![|425](../../attachments/Pasted%20image%2020231218022745.png)
 	- female: 96, male 207
 - Heart Disease Frequency for Sex
-	- ![](../../attachments/Pasted%20image%2020231218022858.png)
+	- ![|425](../../attachments/Pasted%20image%2020231218022858.png)
 - Heart Disease Prediction - Gender and Prevalence Analysis
-	- ![](../../attachments/Pasted%20image%2020231218022924.png)
+	- ![|425](../../attachments/Pasted%20image%2020231218022924.png)
 - Distribution of gender and illness
-	- ![](../../attachments/Pasted%20image%2020231218023007.png)
+	- ![|425](../../attachments/Pasted%20image%2020231218023007.png)
 
 According the above figure, we can find the there is no gender balance in the given data set and also can discover the male ratio is bigger than female under the condition of less chance of heart disease but roughly eauql under the condition of high chance of heart disease. 
 
