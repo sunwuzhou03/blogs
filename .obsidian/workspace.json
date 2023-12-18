@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/others/How to create new blog.md",
+                "file": "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/others/How to create new blog.md",
+                "file": "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/others/How to create new blog.md",
+                "file": "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/others/How to create new blog.md"
+                "file": "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "8374b1607447bb81",
   "lastOpenFiles": [
+    "docs/others/How to create new blog.md",
     "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
     "docs/attachments/Pasted image 20231218001250.png",
     "docs/attachments/Pasted image 20231218000659.png",
@@ -191,7 +192,6 @@
     "docs/course_note/artificial_intelligence/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
-    "docs/others/How to create new blog.md",
     "docs/course_note/README.md",
     "docs/others/_navbar.md",
     "docs/course_note/artificial_intelligence/_navbar.md",
