@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
+                "file": "docs/course_note/artificial_intelligence/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
+                "file": "docs/course_note/artificial_intelligence/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
+                "file": "docs/course_note/artificial_intelligence/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/README.md"
+                "file": "docs/course_note/artificial_intelligence/README.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "f56464de1dcd855a",
   "lastOpenFiles": [
+    "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/artificial_intelligence/_sidebar.md",
     "docs/course_note/artificial_intelligence/README.md",
@@ -170,7 +171,6 @@
     "docs/attachments/Pasted image 20231218020241.png",
     "docs/attachments/Pasted image 20231218022858.png",
     "docs/attachments/Pasted image 20231218022924.png",
-    "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
     "docs/course_note/README.md",
