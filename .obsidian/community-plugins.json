@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-local-images-plus",
-  "obsidian-html-plugin",
-  "copy-document-as-html"
+  "obsidian-local-images",
+  "mousewheel-image-zoom"
 ]
