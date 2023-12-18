@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f56464de1dcd855a",
+  "active": "efcc811381132d94",
   "lastOpenFiles": [
+    "docs/attachments/kaggle-haap.pdf",
     "docs/course_note/artificial_intelligence/_navbar.md",
     "docs/course_note/artificial_intelligence/_sidebar.md",
     "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
@@ -188,7 +189,6 @@
     "docs/course_note/data_mining_and_data_warehousing/Quiz 2 pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/Quiz 1 pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/Quiz 0 pdf.md",
-    "docs/course_note/data_mining_and_data_warehousing/OutlierDetection pdf.md",
     "docs/attachments/FAQ-Classification I-ans.pdf",
     "docs/attachments/FAQ-Classification I.pdf",
     "docs/attachments/FAQ-ARM2-ans.pdf",
