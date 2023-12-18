@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/_sidebar.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/_sidebar.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/_sidebar.md",
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/_sidebar.md"
+                "file": "docs/course_note/data_mining_and_data_warehousing/README.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "f56464de1dcd855a",
   "lastOpenFiles": [
+    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
+    "docs/course_note/artificial_intelligence/_sidebar.md",
     "docs/course_note/artificial_intelligence/README.md",
-    "docs/course_note/artificial_intelligence/Kaggle Heart Attack Analysis and Prediction.md",
+    "docs/course_note/data_mining_and_data_warehousing/Kaggle Heart Attack Analysis and Prediction.md",
     "docs/attachments/kaggle-haap.pdf",
     "docs/course_note/artificial_intelligence/_navbar.md",
-    "docs/course_note/artificial_intelligence/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/Classification 1 pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/FAQ DP ans pdf.md",
     "docs/attachments/HAAP.pdf",
@@ -171,7 +172,6 @@
     "docs/attachments/Pasted image 20231218022924.png",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/_sidebar.md",
-    "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
     "docs/course_note/README.md",
     "docs/others/_navbar.md",

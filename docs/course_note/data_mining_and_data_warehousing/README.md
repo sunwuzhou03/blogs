@@ -28,3 +28,4 @@
 - [Quiz 5 pdf](Quiz%205%20pdf.md)
 - [Assignment 1 ans pdf](Assignment%201%20ans%20pdf.md)
 - [Assignment 2 ans pdf](Assignment%202%20ans%20pdf.md)
+- [Kaggle Heart Attack Analysis and Prediction](../data_mining_and_data_warehousing/Kaggle%20Heart%20Attack%20Analysis%20and%20Prediction.md)
