@@ -14,4 +14,5 @@ Machine learning and supervised leanrning
 	- ![](../../attachments/Pasted%20image%2020231218231721.png)
 - Linear Classification
 	- ![](../../attachments/Pasted%20image%2020231218231750.png)
+- ![](../../attachments/Pasted%20image%2020231218232250.png)
 - 
