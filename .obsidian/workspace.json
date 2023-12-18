@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5769f08340f39fc0",
+        "id": "5373c5e508b2a2fc",
         "type": "tabs",
         "children": [
           {
-            "id": "6a7612289d6ce291",
+            "id": "f56464de1dcd855a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/data_mining_and_data_warehousing/FAQ DP ans pdf.md",
+                "file": "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c7221c93b579ac01",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "docs/attachments/HAAP.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/attachments/HAAP.pdf",
+                "file": "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/attachments/HAAP.pdf",
+                "file": "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/attachments/HAAP.pdf"
+                "file": "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md"
               }
             }
           }
@@ -157,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7221c93b579ac01",
+  "active": "f56464de1dcd855a",
   "lastOpenFiles": [
+    "docs/course_note/data_mining_and_data_warehousing/FAQ DP ans pdf.md",
+    "docs/attachments/HAAP.pdf",
     "docs/course_note/artificial_intelligence/Kaggle HAAP Report.md",
     "docs/course_note/artificial_intelligence/README.md",
-    "docs/attachments/HAAP.pdf",
-    "docs/course_note/data_mining_and_data_warehousing/FAQ DP ans pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/Assignment 2 ans pdf.md",
     "docs/attachments/Clustering II.pdf",
     "docs/others/How to create new blog.md",
