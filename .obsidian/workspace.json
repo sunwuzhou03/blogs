@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f56464de1dcd855a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/course_note/artificial_intelligence/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "02021951b422eb1b",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5bffc798f4755a21",
@@ -161,10 +149,12 @@
   },
   "active": "02021951b422eb1b",
   "lastOpenFiles": [
-    "docs/attachments/Pasted image 20231218225719.png",
-    "docs/attachments/Pasted image 20231218225714.png",
+    "docs/attachments/Pasted image 20231218231054.png",
+    "docs/attachments/Pasted image 20231218230813.png",
     "docs/course_note/artificial_intelligence/README.md",
     "docs/course_note/artificial_intelligence/Final Exam.md",
+    "docs/attachments/Pasted image 20231218225719.png",
+    "docs/attachments/Pasted image 20231218225714.png",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/artificial_intelligence/_sidebar.md",
@@ -184,8 +174,6 @@
     "docs/attachments/Pasted image 20231218012000.png",
     "docs/attachments/Pasted image 20231218015134.png",
     "docs/attachments/Pasted image 20231218020129.png",
-    "docs/attachments/Pasted image 20231218020241.png",
-    "docs/attachments/Pasted image 20231218022858.png",
     "docs/course_note/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
     "docs/course_note/README.md",
