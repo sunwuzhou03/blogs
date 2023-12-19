@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c7a9ec9f956e95b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_note/artificial_intelligence/Lecture 4 Knowledge base agent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46637201be1b72e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_note/artificial_intelligence/Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 5 Cluster and SVM.md",
+                "file": "docs/course_note/artificial_intelligence/Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 5 Cluster and SVM.md",
+                "file": "docs/course_note/artificial_intelligence/Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 5 Cluster and SVM.md"
+                "file": "docs/course_note/artificial_intelligence/Search.md"
               }
             }
           }
@@ -147,21 +172,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7439e0d51792101",
+  "active": "46637201be1b72e5",
   "lastOpenFiles": [
-    "docs/attachments/Pasted image 20231219145943.png",
-    "docs/attachments/Pasted image 20231219145924.png",
-    "docs/attachments/Pasted image 20231219145853.png",
-    "docs/attachments/Pasted image 20231219145841.png",
-    "docs/attachments/Pasted image 20231219145828.png",
-    "docs/attachments/Pasted image 20231219145704.png",
-    "docs/attachments/Pasted image 20231219145528.png",
-    "docs/attachments/Pasted image 20231219145504.png",
-    "docs/attachments/Pasted image 20231219145429.png",
-    "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
+    "docs/attachments/Pasted image 20231219172940.png",
+    "docs/course_note/artificial_intelligence/Lecture 4 Knowledge base agent.md",
+    "docs/course_note/artificial_intelligence/Search.md",
+    "docs/attachments/Pasted image 20231219172819.png",
+    "docs/attachments/Pasted image 20231219172658.png",
+    "docs/attachments/Pasted image 20231219172646.png",
+    "docs/attachments/Pasted image 20231219172632.png",
+    "docs/attachments/Pasted image 20231219172621.png",
+    "docs/attachments/Pasted image 20231219172536.png",
+    "docs/attachments/Pasted image 20231219172526.png",
+    "docs/attachments/Pasted image 20231219172508.png",
+    "docs/attachments/Pasted image 20231219172456.png",
+    "docs/attachments/Pasted image 20231219172435.png",
     "docs/course_note/artificial_intelligence/Lecture 5 Cluster and SVM.md",
-    "docs/attachments/Pasted image 20231219134804.png",
-    "docs/attachments/Pasted image 20231219134752.png",
+    "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
     "docs/course_note/artificial_intelligence/Lecture 7 Neural network approach.md",
     "docs/course_note/artificial_intelligence/Final Exam.md",
     "docs/course_note/artificial_intelligence/README.md",
@@ -189,8 +216,6 @@
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
     "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
     "docs/course_note/data_mining_and_data_warehousing/WebMining new pdf.md",
-    "docs/course_note/data_mining_and_data_warehousing/Quiz 5 pdf.md",
-    "docs/course_note/data_mining_and_data_warehousing/Quiz 4 pdf.md",
     "docs/attachments/FAQ-Classification I-ans.pdf",
     "docs/attachments/FAQ-Classification I.pdf",
     "docs/attachments/FAQ-ARM2-ans.pdf",
