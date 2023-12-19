@@ -17,3 +17,7 @@
 
 # Admissible Heuristics
 ![](../../attachments/Pasted%20image%2020231219194722.png)
+![](../../attachments/Pasted%20image%2020231219195038.png)
+
+# Search Strategy
+![](../../attachments/Pasted%20image%2020231219195102.png)
