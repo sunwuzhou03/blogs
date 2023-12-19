@@ -17,7 +17,7 @@
 # Seven Research Direction of Artificial Intelligence Proposed in 1956
 ![](../../attachments/Pasted%20image%2020231219200512.png)
 
-# Achievemrnt in the Birth Stage
+# Achievement in the Birth Stage
 ![](../../attachments/Pasted%20image%2020231219200637.png)
 
 # Golden Time 
