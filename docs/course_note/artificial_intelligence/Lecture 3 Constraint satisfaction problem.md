@@ -9,10 +9,10 @@
 # Solve Map-Coloring Problem using search tree
 ![](../../attachments/Pasted%20image%2020231219174153.png)
 
-# Least Constraining Value
+# Least Constraining <mark>Value</mark>
 ![](../../attachments/Pasted%20image%2020231219174224.png)
 
-# Most Constrained Variable
+# Most Constrained <mark>Variable</mark>
 ![](../../attachments/Pasted%20image%2020231219174317.png)
 
 # Applications
