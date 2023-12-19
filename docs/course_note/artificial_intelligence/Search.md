@@ -18,3 +18,6 @@
 # Applications
 ![](../../attachments/Pasted%20image%2020231219174427.png)
 
+# Games
+![](../../attachments/Pasted%20image%2020231219174946.png)
+
