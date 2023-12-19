@@ -20,7 +20,7 @@
 
 # Games
 ![](../../attachments/Pasted%20image%2020231219174946.png)
-
+![](../../attachments/Pasted%20image%2020231220005827.png)
 # Formulate Game to Search Problem
 
 [最清晰易懂的MinMax算法和Alpha-Beta剪枝详解-CSDN博客](https://blog.csdn.net/weixin_42165981/article/details/103263211)

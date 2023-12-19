@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Final Exam.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 3 Constraint satisfaction problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Final Exam.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 3 Constraint satisfaction problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Final Exam.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 3 Constraint satisfaction problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Final Exam.md"
+                "file": "docs/course_note/artificial_intelligence/Lecture 3 Constraint satisfaction problem.md"
               }
             }
           }
@@ -161,27 +161,27 @@
   },
   "active": "233109591f719f9c",
   "lastOpenFiles": [
-    "docs/course_note/artificial_intelligence/Lecture 1 Introduction.md",
     "docs/course_note/artificial_intelligence/Lecture 8 Bayesian network.md",
+    "docs/course_note/artificial_intelligence/Lecture 3 Constraint satisfaction problem.md",
+    "docs/attachments/Pasted image 20231220005827.png",
+    "docs/course_note/artificial_intelligence/Lecture 1 Introduction.md",
+    "docs/course_note/artificial_intelligence/README.md",
+    "docs/course_note/artificial_intelligence/Final Exam.md",
+    "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
+    "docs/course_note/artificial_intelligence/Lecture 7 Neural network approach.md",
+    "docs/course_note/artificial_intelligence/Lecture 2 Search.md",
+    "docs/course_note/artificial_intelligence/Lecture 4 Knowledge base agent.md",
+    "docs/course_note/artificial_intelligence/Lecture 5 Cluster and SVM.md",
     "docs/attachments/Pasted image 20231219231900.png",
     "docs/attachments/Pasted image 20231219231841.png",
     "docs/attachments/Pasted image 20231219231823.png",
     "docs/attachments/Pasted image 20231219231800.png",
     "docs/attachments/Pasted image 20231219231753.png",
     "docs/course_note/artificial_intelligence/_sidebar.md",
-    "docs/course_note/artificial_intelligence/README.md",
-    "docs/course_note/artificial_intelligence/Lecture 4 Knowledge base agent.md",
-    "docs/course_note/artificial_intelligence/Lecture 5 Cluster and SVM.md",
-    "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
-    "docs/course_note/artificial_intelligence/Lecture 7 Neural network approach.md",
-    "docs/course_note/artificial_intelligence/Final Exam.md",
-    "docs/course_note/artificial_intelligence/Lecture 2 Search.md",
-    "docs/course_note/artificial_intelligence/Lecture 3 Constraint satisfaction problem.md",
     "docs/attachments/Pasted image 20231219202107.png",
     "docs/attachments/Pasted image 20231219202057.png",
     "docs/attachments/Pasted image 20231219202034.png",
     "docs/attachments/Pasted image 20231219202032.png",
-    "docs/attachments/Pasted image 20231219202031.png",
     "docs/course_note/README.md",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
