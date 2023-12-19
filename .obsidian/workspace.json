@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbe1d8ae4dad2313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_note/artificial_intelligence/Lecture 8 Neural network approach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Final Exam.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 8 Neural network approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Final Exam.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 8 Neural network approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Final Exam.md"
+                "file": "docs/course_note/artificial_intelligence/Lecture 8 Neural network approach.md"
               }
             }
           }
@@ -147,8 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02021951b422eb1b",
+  "active": "bbe1d8ae4dad2313",
   "lastOpenFiles": [
+    "docs/attachments/Pasted image 20231219120247.png",
+    "docs/course_note/artificial_intelligence/Final Exam.md",
+    "docs/course_note/artificial_intelligence/Lecture 8 Neural network approach.md",
     "docs/attachments/Pasted image 20231218234427.png",
     "docs/attachments/Pasted image 20231218234302.png",
     "docs/attachments/Pasted image 20231218234051.png",
@@ -158,12 +174,10 @@
     "docs/attachments/Pasted image 20231218233148.png",
     "docs/course_note/artificial_intelligence/README.md",
     "docs/course_note/README.md",
-    "docs/course_note/artificial_intelligence/Final Exam.md",
     "docs/course_note/artificial_intelligence/_sidebar.md",
     "docs/attachments/Pasted image 20231218233025.png",
     "docs/attachments/Pasted image 20231218233012.png",
     "docs/attachments/Pasted image 20231218232250.png",
-    "docs/attachments/Pasted image 20231218231750.png",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/Kaggle Heart Attack Analysis and Prediction.md",
@@ -190,7 +204,6 @@
     "docs/course_note/data_mining_and_data_warehousing/Quiz 4 pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/Quiz 3 pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/Quiz 2 pdf.md",
-    "docs/course_note/data_mining_and_data_warehousing/Quiz 1 pdf.md",
     "docs/attachments/FAQ-Classification I-ans.pdf",
     "docs/attachments/FAQ-Classification I.pdf",
     "docs/attachments/FAQ-ARM2-ans.pdf",
