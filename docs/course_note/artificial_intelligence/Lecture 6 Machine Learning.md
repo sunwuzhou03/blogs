@@ -37,6 +37,9 @@
 - ![](../../attachments/Pasted%20image%2020231219134405.png)
 
 # Multilayer perceptron
+
+[机器学习——多层感知机MLP的相关公式_多层感知机公式-CSDN博客](https://blog.csdn.net/u011848397/article/details/102733351)
+
 ![](../../attachments/Pasted%20image%2020231219134457.png)
 ![](../../attachments/Pasted%20image%2020231219134623.png)
 ![](../../attachments/Pasted%20image%2020231219134639.png)
