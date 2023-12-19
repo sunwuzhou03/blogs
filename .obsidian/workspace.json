@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 8 Neural network approach.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 7 Neural network approach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a46e2d60d183bcf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 8 Neural network approach.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 8 Neural network approach.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 8 Neural network approach.md"
+                "file": "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md"
               }
             }
           }
@@ -160,21 +172,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbe1d8ae4dad2313",
+  "active": "a46e2d60d183bcf3",
   "lastOpenFiles": [
+    "docs/attachments/Pasted image 20231219133427.png",
+    "docs/attachments/Pasted image 20231219133134.png",
+    "docs/course_note/artificial_intelligence/Lecture 7 Neural network approach.md",
+    "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
+    "docs/attachments/Pasted image 20231219132811.png",
+    "docs/attachments/Pasted image 20231219132648.png",
+    "docs/attachments/Pasted image 20231219132619.png",
+    "docs/attachments/Pasted image 20231219132508.png",
+    "docs/attachments/Pasted image 20231219132355.png",
+    "docs/attachments/Pasted image 20231219132308.png",
     "docs/attachments/Pasted image 20231219131936.png",
     "docs/attachments/Pasted image 20231219131452.png",
     "docs/attachments/Pasted image 20231219131442.png",
-    "docs/attachments/Pasted image 20231219131429.png",
-    "docs/attachments/Pasted image 20231219131424.png",
-    "docs/attachments/Pasted image 20231219131033.png",
-    "docs/attachments/Pasted image 20231219130720.png",
-    "docs/attachments/Pasted image 20231219130527.png",
-    "docs/attachments/Pasted image 20231219130457.png",
-    "docs/attachments/Pasted image 20231219130416.png",
-    "docs/attachments/Pasted image 20231219120654.png",
     "docs/course_note/artificial_intelligence/Final Exam.md",
-    "docs/course_note/artificial_intelligence/Lecture 8 Neural network approach.md",
     "docs/course_note/artificial_intelligence/README.md",
     "docs/course_note/README.md",
     "docs/course_note/artificial_intelligence/_sidebar.md",
@@ -203,7 +216,6 @@
     "docs/course_note/data_mining_and_data_warehousing/Quiz 5 pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/Quiz 4 pdf.md",
     "docs/course_note/data_mining_and_data_warehousing/Quiz 3 pdf.md",
-    "docs/course_note/data_mining_and_data_warehousing/Quiz 2 pdf.md",
     "docs/attachments/FAQ-Classification I-ans.pdf",
     "docs/attachments/FAQ-Classification I.pdf",
     "docs/attachments/FAQ-ARM2-ans.pdf",
