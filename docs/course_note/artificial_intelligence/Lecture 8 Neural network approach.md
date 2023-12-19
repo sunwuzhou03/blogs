@@ -12,5 +12,9 @@
 	- ![](../../attachments/Pasted%20image%2020231219130720.png)
 - typical recurrent neural networks
 	- ![](../../attachments/Pasted%20image%2020231219131033.png)
+	- need to know how to compute rnn
+	- ![](../../attachments/Pasted%20image%2020231219131429.png)
+	- ![](../../attachments/Pasted%20image%2020231219131442.png)
+	- ![](../../attachments/Pasted%20image%2020231219131452.png)
 	- 
 
