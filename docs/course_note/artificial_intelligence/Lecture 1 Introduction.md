@@ -38,3 +38,19 @@
 # ChatGPT
 ![](../../attachments/Pasted%20image%2020231219201040.png)
 
+# Rational Agent
+![](../../attachments/Pasted%20image%2020231219201520.png)
+
+# Using Rational Agent
+![](../../attachments/Pasted%20image%2020231219201553.png)
+
+# Problem Formulation
+![](../../attachments/Pasted%20image%2020231219201623.png)
+
+![](../../attachments/Pasted%20image%2020231219201640.png)
+
+# Breadth-first Search
+![](../../attachments/Pasted%20image%2020231219201710.png)
+
+# Depth-first Search
+![](../../attachments/Pasted%20image%2020231219201731.png)
