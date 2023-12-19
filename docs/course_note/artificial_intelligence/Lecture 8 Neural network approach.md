@@ -4,3 +4,4 @@
 ![](../../attachments/Pasted%20image%2020231219120247.png)
 
 # Deep Learning
+![](../../attachments/Pasted%20image%2020231219120654.png)
