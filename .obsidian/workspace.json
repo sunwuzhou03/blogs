@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d57df12e24db1b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_note/artificial_intelligence/Lecture 1 Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 2 Search.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 1 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 2 Search.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 1 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 2 Search.md"
+                "file": "docs/course_note/artificial_intelligence/Lecture 1 Introduction.md"
               }
             }
           }
@@ -147,8 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63144e4c7e88c317",
+  "active": "3d57df12e24db1b1",
   "lastOpenFiles": [
+    "docs/attachments/Pasted image 20231219195803.png",
+    "docs/attachments/Pasted image 20231219195731.png",
+    "docs/course_note/artificial_intelligence/Lecture 2 Search.md",
+    "docs/course_note/artificial_intelligence/Lecture 1 Introduction.md",
     "docs/attachments/Pasted image 20231219195102.png",
     "docs/attachments/Pasted image 20231219195038.png",
     "docs/attachments/Pasted image 20231219194722.png",
@@ -160,10 +177,7 @@
     "docs/course_note/artificial_intelligence/Lecture 5 Cluster and SVM.md",
     "docs/course_note/artificial_intelligence/Lecture 4 Knowledge base agent.md",
     "docs/course_note/artificial_intelligence/Lecture 3 Constraint satisfaction problem.md",
-    "docs/course_note/artificial_intelligence/Lecture 2 Search.md",
     "docs/attachments/Pasted image 20231219175849.png",
-    "docs/attachments/Pasted image 20231219175837.png",
-    "docs/attachments/Pasted image 20231219175824.png",
     "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
     "docs/course_note/artificial_intelligence/Lecture 7 Neural network approach.md",
     "docs/course_note/artificial_intelligence/Final Exam.md",
@@ -190,7 +204,6 @@
     "docs/attachments/Second Thought (S&C).pdf",
     "docs/attachments/Second Thought (S&C).pdf.crdownload",
     "docs/course_note/data_mining_and_data_warehousing/Data Warehouse 1.md",
-    "docs/course_note/data_mining_and_data_warehousing/Data Preprocessing for (Data Warehousing).md",
     "docs/attachments/FAQ-Classification I-ans.pdf",
     "docs/attachments/FAQ-Classification I.pdf",
     "docs/attachments/FAQ-ARM2-ans.pdf",
