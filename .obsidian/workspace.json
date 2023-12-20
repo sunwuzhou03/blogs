@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 1 Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 1 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
+                "file": "docs/course_note/artificial_intelligence/Lecture 1 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md"
+                "file": "docs/course_note/artificial_intelligence/Lecture 1 Introduction.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "233109591f719f9c",
   "lastOpenFiles": [
+    "docs/course_note/artificial_intelligence/Final Exam.md",
+    "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
     "docs/course_note/artificial_intelligence/Lecture 5 Cluster and SVM.md",
     "docs/course_note/artificial_intelligence/Lecture 4 Knowledge base agent.md",
     "docs/course_note/artificial_intelligence/Lecture 2 Search.md",
@@ -169,8 +171,6 @@
     "docs/course_note/artificial_intelligence/Lecture 8 Bayesian network.md",
     "docs/attachments/Pasted image 20231220005827.png",
     "docs/course_note/artificial_intelligence/README.md",
-    "docs/course_note/artificial_intelligence/Final Exam.md",
-    "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
     "docs/course_note/artificial_intelligence/Lecture 7 Neural network approach.md",
     "docs/attachments/Pasted image 20231219231900.png",
     "docs/attachments/Pasted image 20231219231841.png",
