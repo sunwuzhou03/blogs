@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
+                "file": "docs/course_note/deep learning/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b94c5bec40f4dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_note/deep learning/RNN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
+                "file": "docs/course_note/deep learning/RNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
+                "file": "docs/course_note/deep learning/RNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md"
+                "file": "docs/course_note/deep learning/RNN.md"
               }
             }
           }
@@ -159,14 +171,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "233109591f719f9c",
+  "active": "4b94c5bec40f4dda",
   "lastOpenFiles": [
+    "docs/attachments/Pasted image 20231221132754.png",
+    "docs/attachments/Pasted image 20231221132737.png",
+    "docs/attachments/Pasted image 20231221132650.png",
+    "docs/attachments/Pasted image 20231221132606.png",
+    "docs/attachments/Pasted image 20231221132444.png",
+    "docs/attachments/Pasted image 20231221132241.png",
+    "docs/attachments/Pasted image 20231221131744.png",
+    "docs/attachments/Pasted image 20231221131547.png",
+    "docs/course_note/deep learning/README.md",
+    "docs/course_note/deep learning/RNN.md",
+    "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
+    "docs/course_note/deep learning",
+    "docs/course_note/artificial_intelligence/Untitled",
     "docs/course_note/artificial_intelligence/Lecture 7 Neural network approach.md",
     "docs/course_note/artificial_intelligence/Lecture 8 Bayesian network.md",
     "docs/course_note/artificial_intelligence/Lecture 3 Constraint satisfaction problem.md",
     "docs/course_note/artificial_intelligence/Lecture 1 Introduction.md",
     "docs/course_note/artificial_intelligence/Final Exam.md",
-    "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
     "docs/course_note/artificial_intelligence/Lecture 5 Cluster and SVM.md",
     "docs/course_note/artificial_intelligence/Lecture 4 Knowledge base agent.md",
     "docs/course_note/artificial_intelligence/Lecture 2 Search.md",
@@ -174,14 +198,7 @@
     "docs/course_note/artificial_intelligence/README.md",
     "docs/attachments/Pasted image 20231219231900.png",
     "docs/attachments/Pasted image 20231219231841.png",
-    "docs/attachments/Pasted image 20231219231823.png",
-    "docs/attachments/Pasted image 20231219231800.png",
-    "docs/attachments/Pasted image 20231219231753.png",
     "docs/course_note/artificial_intelligence/_sidebar.md",
-    "docs/attachments/Pasted image 20231219202107.png",
-    "docs/attachments/Pasted image 20231219202057.png",
-    "docs/attachments/Pasted image 20231219202034.png",
-    "docs/attachments/Pasted image 20231219202032.png",
     "docs/course_note/README.md",
     "docs/course_note/data_mining_and_data_warehousing/README.md",
     "docs/course_note/data_mining_and_data_warehousing/_sidebar.md",
@@ -197,14 +214,10 @@
     "docs/course_note/_sidebar.md",
     "docs/course_note/data_mining_and_data_warehousing/_navbar.md",
     "docs/others/_navbar.md",
-    "docs/README.md",
-    "docs/course_note/_navbar.md",
     "docs/course_note/artificial_intelligence",
     "docs/attachments/Second Thought (S&C).pdf",
     "docs/attachments/Second Thought (S&C).pdf.crdownload",
     "docs/attachments/FAQ-Classification I-ans.pdf",
-    "docs/attachments/FAQ-Classification I.pdf",
-    "docs/attachments/FAQ-ARM2-ans.pdf",
-    "docs/attachments/FAQ-ARM2.pdf"
+    "docs/attachments/FAQ-Classification I.pdf"
   ]
 }
