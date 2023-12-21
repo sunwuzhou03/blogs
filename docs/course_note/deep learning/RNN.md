@@ -20,6 +20,7 @@
 - LSTM
 	- ![](../../attachments/Pasted%20image%2020231221133102.png)
 	- ![](../../attachments/Pasted%20image%2020231221133609.png)
+	- ![](../../attachments/Pasted%20image%2020231221134918.png)
 	- 
 
 
