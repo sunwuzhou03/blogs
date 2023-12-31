@@ -1,4 +1,5 @@
 [[1706.01905] Parameter Space Noise for Exploration (arxiv.org)](https://arxiv.org/abs/1706.01905)
+- dqn, ddpg, trpo
 - Use parameter space noise rather than action space noise.
 - action space noise:
 	- $\epsilon$-greedy exploration, Boltzmann policy
@@ -11,3 +12,8 @@
 	- Adaptive noise scaling Parameter space noise requires us to pick a suitable scale σ
 
 [[1706.10295] Noisy Networks for Exploration (arxiv.org)](https://arxiv.org/abs/1706.10295)
+- dqn, dueling dqn, a3c
+- use noise net to add parameters noise
+- This one adds parametric noise differently from the first one
+	- Independent Gaussian noise
+	- Factorised Gaussian noise
