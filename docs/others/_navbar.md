@@ -1,4 +1,5 @@
 - [HOME](../)
 - [COURSE NOTE](../course_note/)
+- [RESEARCH NOTE](../research_note/)
 - [OTHERS](../others/)
 - [LINK](../../Link.html)
