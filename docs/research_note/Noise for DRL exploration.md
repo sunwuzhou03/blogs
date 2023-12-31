@@ -1,4 +1,11 @@
 [[1706.01905] Parameter Space Noise for Exploration (arxiv.org)](https://arxiv.org/abs/1706.01905)
 - Use parameter space noise rather than action space noise.
-- Experiments show that this form of exploration is applicable to both high-dimensional discrete environments and continuous control tasks, using on- and off-policy methods. Our results indicate that parameter noise outperforms traditional action space noise-based baselines, especially in tasks where the reward signal is extremely spars
-- 
+- action space noise:
+	- $\epsilon$ - exploration, Boltzmann policy
+	- ddpg ou noise
+		- ![](../attachments/Pasted%20image%2020231231151655.png)
+- parameters noise:
+	- ![](../attachments/Pasted%20image%2020231231152300.png)
+	- state dependent exploration: for the same state in one episode, the policy will give a same action
+	- Perturbing deep neural networks: use layer normalization between perturbed layers. The same perturbation scale can be used across all layers, even though different layers may exhibit different sensitivities to noise
+	- 

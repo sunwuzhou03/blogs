@@ -39,3 +39,6 @@ localhost:3000
 [Docsify 进阶配置 - LIUのBlog (clotliu.com)](https://clotliu.com/archives/docsify-advanced)
 
 [Google搜索到自己部署的github网页 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/601082701)
+
+# how to use markdown
+[【Markdown笔记】Markdown中添加和使用希腊字母_希腊字母在md语法中-CSDN博客](https://blog.csdn.net/u012028275/article/details/115057245)
