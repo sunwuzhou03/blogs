@@ -9,4 +9,5 @@
 	- state dependent exploration: for the same state in one episode, the policy will give a same action
 	- Perturbing deep neural networks: use layer normalization between perturbed layers. The same perturbation scale can be used across all layers, even though different layers may exhibit different sensitivities to noise
 	- Adaptive noise scaling Parameter space noise requires us to pick a suitable scale σ
-	- 
+
+[[1706.10295] Noisy Networks for Exploration (arxiv.org)](https://arxiv.org/abs/1706.10295)
