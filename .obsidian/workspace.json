@@ -80,12 +80,14 @@
             }
           },
           {
-            "id": "11ef3c413fc34e89",
+            "id": "00ebb2f453783218",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "docs/research_note/Internship Log.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/research_note/Noise for DRL exploration.md",
+                "file": "docs/research_note/Internship Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/research_note/Noise for DRL exploration.md",
+                "file": "docs/research_note/Internship Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/research_note/Noise for DRL exploration.md"
+                "file": "docs/research_note/Internship Log.md"
               }
             }
           }
@@ -217,11 +219,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11ef3c413fc34e89",
+  "active": "00ebb2f453783218",
   "lastOpenFiles": [
+    "docs/research_note/Noise for DRL exploration.md",
+    "docs/research_note/Internship Log.md",
     "docs/attachments/Pasted image 20231231152300.png",
     "docs/others/How to create new blog.md",
-    "docs/research_note/Noise for DRL exploration.md",
     "docs/attachments/Pasted image 20231231151655.png",
     "docs/attachments/Pasted image 20231231151501.png",
     "docs/README.md",
@@ -245,7 +248,6 @@
     "docs/attachments/Pasted image 20231221133102.png",
     "docs/attachments/Pasted image 20231221132754.png",
     "docs/attachments/Pasted image 20231221132737.png",
-    "docs/attachments/Pasted image 20231221132650.png",
     "docs/course_note/deep learning/README.md",
     "docs/course_note/artificial_intelligence/Lecture 6 Machine Learning.md",
     "docs/course_note/deep learning",
