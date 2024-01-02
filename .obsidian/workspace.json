@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11ef3c413fc34e89",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -207,7 +217,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cbaf5f19a4b50a1",
+  "active": "11ef3c413fc34e89",
   "lastOpenFiles": [
     "docs/attachments/Pasted image 20231231152300.png",
     "docs/others/How to create new blog.md",
