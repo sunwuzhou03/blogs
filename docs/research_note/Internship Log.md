@@ -19,4 +19,9 @@
 	- need to consider the future user train mode
 		- many different train approaches parallely
 		- many different tarin hyper-parameters
-	- 
+- task:
+	-  
+
+
+inference:
+[【AI System】第6章：分布式训练算法与系统 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/662787644)
