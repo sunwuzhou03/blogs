@@ -1,5 +1,6 @@
 # Internship log
 # Day 1
+## Record
 - try to use drl solve a path plan problem or a real-time decision making problem
 - plan:
 	- connect the python and c++enviroment (do we need to consider the import way in the python environment)
@@ -37,6 +38,7 @@ inference:
 [【AI System】第6章：分布式训练算法与系统 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/662787644)
 
 # Day 2
+## Record
 - ppo algorithm
 	- actor
 	- memory buffer
@@ -52,4 +54,6 @@ inference:
 - this enviroment can be see as a real-time decision environment
 	- state: speed, location
 	- action: 3 or 5 direction change action and 3 accelerate action (different item have different action)
-	- 
+
+## Results
+- finish the problem define
