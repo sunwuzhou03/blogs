@@ -43,4 +43,5 @@ inference:
 	- actor
 	- critic
 	- agent
-
+- notice: the current environment don't need to action mask
+- try to do the action discreate
