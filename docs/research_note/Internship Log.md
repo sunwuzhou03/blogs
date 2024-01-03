@@ -50,3 +50,6 @@ inference:
 	- try to implement a simple version, then complete the complex version
 - pratice the agnet use the immediate state, the final decision can be concluded according all each step and state
 - this enviroment can be see as a real-time decision environment
+	- state: speed, location
+	- action: 3 direction change action and 3 accelerate action
+	- 
