@@ -44,4 +44,9 @@ inference:
 	- critic
 	- agent
 - notice: the current environment don't need to action mask
-- try to do the action discreate
+- try to do the action discreate: <mark>finish</mark>
+- implement mappo algorithm
+	- different kind of agent
+	- try to implement a simple version, then complete the complex version
+- pratice the agnet use the immediate state, the final decision can be concluded according all each step and state
+- this enviroment can be see as a real-time decision environment
