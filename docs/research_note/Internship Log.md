@@ -57,3 +57,16 @@ inference:
 
 ## Results
 - finish the problem define
+	- action define
+	- state define
+
+# Day 3
+## Record
+- finish the algorithm implement
+- gradually to understand how to run the xuanceRLlib
+- redefine the action space
+	- the dicreate to continuous action space
+# Day 4
+- try to understand the tcp communicate protool
+	- try to connect the RL algorithm to my own enviroment
+- begin to rewrite the game enviroment
