@@ -1,4 +1,4 @@
 - [RESEARCH NOTE](./)
-	- [Noise for DRL exploration](Noise%20for%20DRL%20exploration.md)
+	- [Noise for exploration](Noise%20for%20exploration.md)
 	- [How to add noise for better exploration on llm](How%20to%20add%20noise%20for%20better%20exploration%20on%20llm.md)
 	- 
