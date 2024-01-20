@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/research_note/Internship Log.md",
+                "file": "docs/research_note/How to add noise for better exploration on llm.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/research_note/Internship Log.md",
+                "file": "docs/research_note/How to add noise for better exploration on llm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/research_note/Internship Log.md",
+                "file": "docs/research_note/How to add noise for better exploration on llm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/research_note/Internship Log.md"
+                "file": "docs/research_note/How to add noise for better exploration on llm.md"
               }
             }
           }
@@ -224,7 +224,7 @@
     "docs/research_note/Noise for DRL exploration.md",
     "docs/research_note/_sidebar.md",
     "docs/research_note/_navbar.md",
-    "docs/research_note/Internship Log.md",
+    "docs/research_note/How to add noise for better exploration on llm.md",
     "docs/attachments/Pasted image 20231231152300.png",
     "docs/others/How to create new blog.md",
     "docs/attachments/Pasted image 20231231151655.png",
