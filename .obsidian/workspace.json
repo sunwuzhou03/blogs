@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0883b3da2d661ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/research_note/Polyu Summer Reaserch-Sports Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/research_note/Noise for exploration.md",
+                "file": "docs/research_note/Polyu Summer Reaserch-Sports Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/research_note/Noise for exploration.md",
+                "file": "docs/research_note/Polyu Summer Reaserch-Sports Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/research_note/Noise for exploration.md"
+                "file": "docs/research_note/Polyu Summer Reaserch-Sports Analysis.md"
               }
             }
           }
@@ -219,8 +231,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00ebb2f453783218",
+  "active": "0883b3da2d661ef0",
   "lastOpenFiles": [
+    "docs/attachments/Pasted image 20240219121940.png",
+    "docs/research_note/Noise for exploration.md",
+    "docs/research_note/Polyu Summer Reaserch-Sports Analysis.md",
     "docs/attachments/Pasted image 20240120133610.png",
     "docs/attachments/Pasted image 20240120133410.png",
     "docs/attachments/Pasted image 20240120133034.png",
@@ -230,13 +245,11 @@
     "docs/attachments/Pasted image 20240120131120.png",
     "docs/attachments/Pasted image 20240120115916.png",
     "docs/research_note/How to add noise for better exploration on llm.md",
-    "docs/research_note/Noise for exploration.md",
     "docs/research_note/_sidebar.md",
     "docs/research_note/_navbar.md",
     "docs/attachments/Pasted image 20231231152300.png",
     "docs/others/How to create new blog.md",
     "docs/attachments/Pasted image 20231231151655.png",
-    "docs/attachments/Pasted image 20231231151501.png",
     "docs/README.md",
     "docs/_navbar.md",
     "docs/_sidebar.md",
@@ -260,7 +273,6 @@
     "docs/course_note/artificial_intelligence/Final Exam.md",
     "docs/course_note/artificial_intelligence/Lecture 5 Cluster and SVM.md",
     "docs/course_note/artificial_intelligence/Lecture 4 Knowledge base agent.md",
-    "docs/course_note/artificial_intelligence/Lecture 2 Search.md",
     "docs/attachments/kaggle-haap.pdf",
     "docs/attachments/HAAP.pdf",
     "docs/attachments/Clustering II.pdf",
