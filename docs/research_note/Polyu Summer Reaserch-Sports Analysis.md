@@ -10,9 +10,10 @@ Deep Reinforcement Learning in a Racket Sport for Player Evaluation With Technic
 AnAll Deep System for Badminton Game Analysis
 
 
-
-I only use the Human keypoints detection and Court keypoints detection code to collect the human and court data. 
-In this paper, author use RCNN model in pytorch to do human keypoints detection (17keypoints) and court keypoints detection. And use the court limits to do players keypoints detection. And I also use the RCNN model to train a net detection model for net data collecion.
+Feature:
+- player, court, net detection: use RCNN model in pytorch to construct keypoints detection model reference on Automated Hit-frame Detection for Badminton Match Analysis. Use labelme tools to annotate net four keypoints.
+- badminton detetc (show the trajectory): use pytorch version TrackNet-v2 to collect the badminton flying data. The TrackNet-v2 code and model are from github open source code.
+- 
 
 
 
