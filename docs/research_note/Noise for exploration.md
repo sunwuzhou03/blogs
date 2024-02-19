@@ -12,7 +12,8 @@
 	- Adaptive noise scaling Parameter space noise requires us to pick a suitable scale σ
 		- ![](../attachments/Pasted%20image%2020240120115916.png)
 - The parameters can be added and trained in the follow rules:
-	
+![](../attachments/Pasted%20image%2020240120131342.png)
+
 
 [[1706.10295] Noisy Networks for Exploration (arxiv.org)](https://arxiv.org/abs/1706.10295)
 - dqn, dueling dqn, a3c
@@ -83,3 +84,23 @@ class NoisyLinear(nn.Module):
         x = x.sign().mul(x.abs().sqrt())
         return x
 ```
+
+OpenAI 和 Deepmind 均发表了关于参数噪声对DRL探索的影响，OpenAI的参数更新方式较为繁琐，而Deepmind的更为简单，他们都具有state-dependent的特点，但两种方式的谁更好，并没有做一个探讨。
+
+MATH-SHEEPHERD https://arxiv.org/pdf/2312.08935.pdf
+
+本文探讨了使用自动标注方法MATH-SHEEPHERD训练的PRM作为reward model 以及 verifier 对LLMs数学推理的能力的提升。
+
+本文构建的ORM自动标注，具有一些false-positive（推导错误答案正确），这些为noise，但文中在ORM构建中提到，这些有一定的帮助
+![](../attachments/Pasted%20image%2020240120133034.png)
+同理作者构建PRM也同样具有这种噪声
+![](../attachments/Pasted%20image%2020240120133610.png)
+但文章末尾提到由于自动标注的后续推理是采用LLMs生成，这和人工标注有一定的区别，所以这种噪声的影响仍然不能完全确定。
+![](../attachments/Pasted%20image%2020240120133410.png)
+从以上可以看出，文章中的噪声并没有做充分的实验，验证其对PRM是有用的，同时文章的中的噪声可能属于是action noise，推理过程中出现错误。如果想探索parameter noise是否可以提升LLMs的数学推理能力的话，可以在generator或者verifier的网络参数中加入噪声层（verifier还能作为reward model），加入噪声的方式有两种，且更新方式Deepmind和OpenAI的方式不一样，可以做更多的对比，探索其有效性。
+
+以下是阅读过程中写的博客：
+
+[MATH-SHEPHERD: VERIFY AND REINFORCE LLMS STEP-BY-STEP WITHOUT HUMAN ANNOTATIONS - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/677885020)
+
+[NOISY NETWORKS FOR EXPLORATION - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/678615773)
