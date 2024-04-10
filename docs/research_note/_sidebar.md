@@ -1,4 +1,2 @@
 - [RESEARCH NOTE](./)
-	- [Noise for exploration](Noise%20for%20exploration.md)
-	- [How to add noise for better exploration on llm](How%20to%20add%20noise%20for%20better%20exploration%20on%20llm.md)
-	- 
+	- [Polyu Summer Reaserch-Sports Analysis](Polyu%20Summer%20Reaserch-Sports%20Analysis.md)
