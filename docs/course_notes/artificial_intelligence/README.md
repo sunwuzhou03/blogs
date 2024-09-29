@@ -1,0 +1,10 @@
+# Hello World
+- [Final Exam](Final%20Exam.md)
+- [Lecture 1 Introduction](Lecture%201%20Introduction.md)
+- [Lecture 2 Search](Lecture%202%20Search.md)
+- [Lecture 3 Constraint satisfaction problem](Lecture%203%20Constraint%20satisfaction%20problem.md)
+- [Lecture 4 Knowledge base agent](Lecture%204%20Knowledge%20base%20agent.md)
+- [Lecture 5 Cluster and SVM](Lecture%205%20Cluster%20and%20SVM.md)
+- [Lecture 6 Machine Learning](Lecture%206%20Machine%20Learning.md)
+- [Lecture 7 Neural network approach](Lecture%207%20Neural%20network%20approach.md)
+- [Lecture 8 Bayesian network](Lecture%208%20Bayesian%20network.md)

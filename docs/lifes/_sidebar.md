@@ -1,0 +1,3 @@
+- [LIFES](./)
+	- [Hello, new life...maybe old](Hello,%20new%20life...maybe%20old.md)
+	- [Try to custom plugin](Try%20to%20custom%20plugin.md)

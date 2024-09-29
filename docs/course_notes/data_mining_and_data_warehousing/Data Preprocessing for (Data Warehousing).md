@@ -1,0 +1,167 @@
+# Data Preprocessing for (Data Warehousing)
+# Why preprocess the data?
+- Data in the real world is dirty
+	- incomplete
+	- noisy
+	- inconsistent
+- No quality data, no quanlity mining results
+	- quanlity decisions must be based on qulity data
+	- Data warehouse needs consistent integration of quality data
+
+# Multi-Dimensional Measure of Data Quality
+- A well-accepted multidimensional view
+	- accuracy
+	- completeness
+	- consistency
+	- timeliness
+	- believability
+	- value added
+	- interpretability
+	- accessibility
+# Major task in Data Preprocessing
+- Data cleaning
+	- fill in missing values, smooth nosiy data, identify or remove outliers, and resolve inconsistencies
+- Data integration
+	- integration of multiple databases, data cubes, or files
+- Data transformation
+	- normalization and aggregation
+- Data reduction
+	- ontains reduced representation in volume but produces the same or similar analytical results
+- Data discretization
+	- part of data reduction but with particular importance, especially for numerical data
+
+# Data cleaning
+- fill in missing values
+- identify outliers (anomaly detection) and smooth out noisy data (noise filtering)
+	- noisy data
+		- noise: random error or variance in a measured variable
+	- incorrect attribute values may due to
+		- ...
+	- other data problems which requires data cleaning
+		- duplicate records
+		- incomplete data
+		- inconsistent data
+	- how to handle noisy data?
+		- bining method
+			- first sort data and partition into (equi-depth) bins
+			- then one can smooth the data in bins by bin's means, by bin's median, by bin's boundaries, etc
+			- ways:
+				- equal width distance partitioning:
+					- ...
+				- equal depth (frequency) partitioning:
+					- ...
+			- ![](../../attachments/Pasted%20image%2020231216020715.png)
+			- ![](../../attachments/Pasted%20image%2020231216020752.png)
+		- clustering
+			- data will then be replaced by its nearest cluster center/representatives, including the outliers
+		- combined computer and human inspection
+			- detect suspicious
+		- regression
+			- ...
+- correct inconsistent data
+# Data Integration
+- Data integration
+	- combines data from multiple sources into a coherent store
+- Schema integration
+	- integrate metadata from different sources
+	- entity identification problem: identify real world entities from multiple data sources, e.g. A.cust-id
+- Detecting and resolving datavalue conflicts
+
+# Handing Redundant Data in Data Integration
+- Redundant data occur often when integrating multiple databases
+	- the same attribute may have different names in different databases
+	- one attribute may be a "derived" attribute in another table annual revenue
+- redundant data may be able to be detected by correlation analysis
+- careful integration of the data from multiple sources may help reduce/avoid redundancies and inconsistencies and improve mining speed and quality
+
+# Data transformation
+
+# Data reduction Strategies
+- warehouse may store terabytes of data: complex data analysis/mining may take a very long time to run on the complete data set
+- Data reduction
+	- obtains a reduced representation of data set that is much smaller in volume but yet produces the same (or almost the same) analytical results
+- **Data reducion**
+	- Dimensionality reduction
+		- feature selection (attribute subset selection)
+			- select a minimum set of features such that probability distribution of different classes given the values for those features is as close as possible to original distribution given the values of all features
+			- reduce of patterns, eaiser to understand
+			- **choosing k $<$ d important features, ignoring the remaining d-k**
+				- **sebset selection algorithm**
+		- Featuere Selection detail:
+			- there are $2^d$ subsets of d features
+			- forward search method: add the best feature a each step
+				- set of features F initially non-empty
+				- at each iteration, find the best new feature $j=argmin~E(F\cup x_i)$
+				- add $x_j$ to F if $E(F\cup x_j)<E(F)$
+				- Geedy hill climbing approach
+			- backward search methods: start with all features and remove one at a time, if possible
+			- Floating search method: add k, remove l
+		- **Feature extraction/transformation** - combining (mapping) existing features into smaller number of new/alternative features
+			- liner combination (projection)
+			- nonlinear comvination
+			- project the origanl $x_i,i=1,...d$ dimensions to new $k<d$ dimensions $z_j,j=1,...k$ 
+				- principal component analysis (PCA), linear discriminant analysis (LDA), fator analysis(FA)
+			- LDA
+				- best k-dimensional subspace for projection depends on task
+					- classification: maximize separation among classes (like svm)
+						- linear discriminant analysis
+						- DR is not limited to unsupervised learning
+					- regression: maximize correlation between projected data and reponse variable
+						- example: partial least squares (PLS)
+					- unsupervised : retain as much data vraiance as possible
+						- example: principal componenet analysis (PCA)
+			- PCA
+				- find a line, such that when the data is projected onto that line, and it has the maximum variance
+				- find a second line, orthogonal to first, that has maximum projected variance
+				- repeat until having k orthogonal lines
+				- the projected position of a point on these lines gives the coordinates in the k-dimensional reduced space
+			- Decision tree induction for dimensionality reduction
+	- numerosity reduction
+		- ''can we reduce the data volume by choosing alternative smaller forms of data representation''
+		- parametric methods
+			- assume the data fits some (regression) model, estimate model parameters, store only the parameters, and discard the data (except possible outlier)
+				- e.g.: linear regression where data are modeled to fit straght line
+		- non-parametric methods
+			- do not assume models
+			- major families: histograms, clustering, sampling
+			- histograms
+				- a popular data reduction technique
+				- divide data into buckets and store average (sum) for each bucket (to represent all those original numbers)
+				- can be constructed optimally in one dimension using dynamic programming
+				- related to quantization
+			- data reduction by clustering 
+				- partition data set into clusters,and one can store cluster representation only
+				- can be very effective if data is clustered but not if data is "smeared"
+				- can have hirearchical clustering and be stored in multi-dimensional index tree structures
+				- there are many choices of clustering definitions and clustering algorithms
+			- data reduction by sampling
+				- allow a mining algorithm to run in complexity that is potentially sub-linear to size of the data
+				- choose a representative subset of the data
+					- simple random sampling may have very poor performance in presence of skew
+				- develop adaptive sampling methods
+					- stratified sampling
+						- approximate the percentage of each class (or subpopulation of interest) in the overall database
+						- used in conjuction with skew data
+	- Discretization and concept hierarchy generation
+		- three types of attributes
+			- nominal/discrete/categorical - values from an unordered set (color set)
+			- ordinal - values from an ordered set
+			- continuous real numbers
+		- discretization
+			- divide the range of a continuous attribute into interval, e.g. using the bining method
+			- some classification algorithm only accept categorical attributes
+			- recue data size by discretization
+			- prepare for futher analysis
+		- Discretization 
+			- reduce the number of values for a given continuous attribute by dividing the range of attribute into interval. Interval labels can then be used to replace actual data values
+		- Concept hierarchies
+			- reduce the data by collecting and replacing low level concepts (sunch as numerica values for attribute age) by higher level concepts (such as yound, middle-aged, or senior)
+			- other examples inclue building $\rightarrow$ street $\rightarrow$ district $\rightarrow$ city $\rightarrow$ country and those hierarchies for generalized association relu mining
+
+# Summary
+- Data preparation is a big issue for both warehousing and mining
+- Data preparation includes
+	- Data cleaning and data integration
+	- Data reduction and feature selection
+	- discretization
+- A lot of methods have been developed but still an active area of research. Many stuies are about privacy preserving issues
