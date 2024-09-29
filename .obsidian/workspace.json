@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_coverpage.md",
+                "file": "docs/lifes/_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_coverpage.md",
+                "file": "docs/lifes/_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_coverpage.md",
+                "file": "docs/lifes/_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_coverpage.md"
+                "file": "docs/lifes/_sidebar.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "a0d3351f2b2b301c",
   "lastOpenFiles": [
+    "docs/lifes/University dream.md",
+    "docs/lifes/README.md",
+    "docs/_coverpage.md",
     "docs/_navbar.md",
     "docs/_sidebar.md",
     "docs/commento-login-box-container.md",
@@ -182,11 +185,8 @@
     "docs/lifes/_sidebar.md",
     "docs/research_notes/_sidebar.md",
     "docs/research_notes/_navbar.md",
-    "docs/_coverpage.md",
     "docs/technical_notes/_sidebar.md",
     "docs/technical_notes/_navbar.md",
-    "docs/course_notes/human_computer_interaction/_sidebar.md",
-    "docs/course_notes/human_computer_interaction/_navbar.md",
     "docs/commento.js",
     "docs/新建文本文档.txt",
     "docs/attachments/Pasted image 20240922225006.png",
