@@ -1,7 +1,3 @@
----
-link: https://www.notion.so/Polyu-Summer-Reaserch-Sports-Analysis-11589183fba681c39e69ce83f06db9fd
-notionID: 11589183-fba6-81c3-9e69-ce83f06db9fd
----
 # Polyu Summer Reaserch-Sports Analysis
 paper list:
 MonoTrack: Shuttle trajectory reconstruction from monocular badminton video

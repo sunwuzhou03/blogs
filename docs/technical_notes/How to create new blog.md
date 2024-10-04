@@ -1,7 +1,3 @@
----
-link: https://www.notion.so/How-to-create-new-blog-11589183fba6816a9199e246486e6eed
-notionID: 11589183-fba6-816a-9199-e246486e6eed
----
 # How to create new blog
 
 [docsify中文官方文档](https://docsify.js.org/#/zh-cn/)
