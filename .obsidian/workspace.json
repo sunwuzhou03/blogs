@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lifes/University dream.md",
+                "file": "docs/research_notes/成瘾性分析机器学习方法调查.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lifes/University dream.md",
+                "file": "docs/research_notes/成瘾性分析机器学习方法调查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lifes/University dream.md",
+                "file": "docs/research_notes/成瘾性分析机器学习方法调查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lifes/University dream.md"
+                "file": "docs/research_notes/成瘾性分析机器学习方法调查.md"
               }
             }
           }
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,6 +161,21 @@
   },
   "active": "a0d3351f2b2b301c",
   "lastOpenFiles": [
+    "docs/research_notes/Awesome-LLM-Strawberry.md",
+    "docs/research_notes/成瘾性分析机器学习方法调查.md",
+    "docs/research_notes/_sidebar.md",
+    "docs/research_notes/README.md",
+    "docs/attachments/Pasted image 20241003220048.png",
+    "docs/attachments/Pasted image 20241003220032.png",
+    "docs/attachments/Pasted image 20241003214849.png",
+    "docs/attachments/Pasted image 20241003213831.png",
+    "docs/attachments/Pasted image 20241003213749.png",
+    "docs/attachments/Pasted image 20241003205640.png",
+    "docs/attachments/Pasted image 20241003191943.png",
+    "docs/attachments/Pasted image 20241003163805.png",
+    "docs/attachments/Pasted image 20241003121251.png",
+    "docs/attachments/Pasted image 20241003115510.png",
+    "docs/lifes/University dream.md",
     "docs/lifes/Try to custom plugin.md",
     "docs/README.md",
     "docs/commento-login-box-container.md",
@@ -168,14 +184,12 @@
     "README.md",
     "docs/_coverpage.md",
     "docs/lifes/_sidebar.md",
-    "docs/lifes/University dream.md",
     "docs/lifes/README.md",
     "docs/course_notes/dsp/时域离散信号和时域离散系统-第一章习题 - 提交版本.md",
     "docs/course_notes/dsp/时域离散信号和时域离散系统-第一章习题.md",
     "docs/course_notes/dsp/_sidebar.md",
     "docs/research_notes/large language model overview.md",
     "docs/research_notes/Polyu Summer Reaserch-Sports Analysis.md",
-    "docs/research_notes/Awesome-LLM-Strawberry.md",
     "docs/course_notes/dsp/_navbar.md",
     "docs/course_notes/deep learning/RNN.md",
     "docs/course_notes/deep learning/README.md",
@@ -183,24 +197,11 @@
     "docs/course_notes/data_mining_and_data_warehousing/_navbar.md",
     "docs/course_notes/artificial_intelligence/_sidebar.md",
     "docs/course_notes/artificial_intelligence/_navbar.md",
-    "docs/lifes/_navbar.md",
-    "docs/research_notes/_sidebar.md",
-    "docs/research_notes/_navbar.md",
     "docs/commento.js",
     "docs/新建文本文档.txt",
-    "docs/attachments/Pasted image 20240922225006.png",
     "Untitled.canvas",
     "docs/lifes",
     "Untitled",
-    "docs/_media/profile.jpg",
-    "docs/attachments/Pasted image 20240928194535.png",
-    "docs/attachments/Pasted image 20240928164655.png",
-    "docs/attachments/Pasted image 20240928160649.png",
-    "docs/attachments/Pasted image 20240922224922.png",
-    "docs/attachments/Pasted image 20240922224908.png",
-    "docs/attachments/Pasted image 20240922221427.png",
-    "docs/attachments/Pasted image 20240922221321.png",
-    "docs/attachments/Pasted image 20240922221219.png",
     "docs/course_notes/dsp",
     "Untitled 1.canvas",
     "docs/research_notes",

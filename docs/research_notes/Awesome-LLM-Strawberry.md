@@ -59,3 +59,57 @@ compute-optimal scaling laws
 This papper compare different search strategy and then come up with a novel tree search approach. And this paper also analysis the dfferent size model with different search strategy to figure out the compute-optimal scaling laws in training and inference.
 
 Try to understand the search strategies:
+
+
+# Large Language Models as Commonsense Knowledge for Large-Scale Task Planning
+paper url: [2305.14078 (arxiv.org)](https://arxiv.org/pdf/2305.14078)
+paper note:
+该文章将llm与mcts 结合，结合方向可以分为三点：
+- llm作为world model预测下一个可能的观测
+- llm作为启发式函数，给出可能的动作，减少mcts搜索的动作的空间
+- llm作为翻译器，将task的自然语言描述翻译成模板化的描述
+
+# Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling
+paper url: [2408.16737 (arxiv.org)](https://www.arxiv.org/pdf/2408.16737)
+paper note: 
+文章使用计算最优的方法从weak and cheaper采样的数据对stronger and expensive的model 进行fine-tune。这个数据依然能够提升 SE 模型的推理能力。
+**Default vs Compute-Optimal Sampling from Cheap LMs**
+![|325](../attachments/Pasted%20image%2020241002155905.png)
+
+
+# Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters
+paper url: [2408.03314 (arxiv.org)](https://arxiv.org/pdf/2408.03314)
+paper note:
+本文同样分析compute optimal 的方法的有效性。test-time compute optiamlly 最普遍以及简单的例子就是对于一个问题可以并行采样多个答案，在其中利用PRM或者verifiers进行评估选出最有效的答案，同时也可以顺序采样，不断对上一次答案进行评估修改，可以参考下图
+![](../attachments/Pasted%20image%2020241003114224.png)
+文章同时对比了不同的搜索策略，并提出一种新的搜索策略：lookhead search
+![](../attachments/Pasted%20image%2020241003114338.png)
+
+
+# Generative Verifiers: Reward Modeling as Next-Token Prediction
+paper url: [2408.15240 (arxiv.org)](https://arxiv.org/pdf/2408.15240)
+pepr note:
+文章提出传统的验证器只是作为一个答案的分类器给予评分，并没有很好利用预训练模型的文本生成能力。文章为了克服这个劣势，提出了一种新的过程验证模型-生成验证模型，其表现在algorithmic and grade-school math reasoning tasks上超过了分类验证模型。
+![](../attachments/Pasted%20image%2020241003115410.png)
+
+大致原理如下图所示：
+![](../attachments/Pasted%20image%2020241003121251.png)
+
+备注：
+自一致方法（self-consistency）是**首先利用COT生成多个推理路径和答案，最终选择答案出现最多的作为最终答案输出，效果出奇的好。** [ICLR 2023 | Self-Consistency: Google超简单方法改善大模型推理能力 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/641370746)
+![](../attachments/Pasted%20image%2020241003115510.png)
+LLM as a judge: https://zhuanlan.zhihu.com/p/637303516
+我们知道人类反馈强化RLHF技术对LLM训练非常有效，但是很少有公司或者实验室非聘请人类专家来强化，本篇论文证明了GPT4能达到研究生作为人类专家的水平，可以作为自训练LLM的“人类专家”。
+
+
+# MUTUAL REASONING MAKES SMALLER LLMS STRONGER PROBLEM-SOLVERS
+paper url: [2408.06195 (arxiv.org)](https://arxiv.org/pdf/2408.06195)
+paper note:
+文章提出了一种交互推理的方法，该方法通过一个小模型进行生成，另外一个小模型进行验证，通过相互一致性来提高答案的正确性。从而实现了在多个数据集上推理能力的提升。
+![](../attachments/Pasted%20image%2020241003163805.png)
+
+LLM 做推理采用mcts方法的一个示例，动作空间参考下图：
+![](../attachments/Pasted%20image%2020241003191943.png)
+
+reward function:
+![](../attachments/Pasted%20image%2020241003205640.png)
