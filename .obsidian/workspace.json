@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/research_notes/成瘾性分析机器学习方法调查.md",
+                "file": "docs/research_notes/Awesome-LLM-Strawberry.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/research_notes/成瘾性分析机器学习方法调查.md",
+                "file": "docs/research_notes/Awesome-LLM-Strawberry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/research_notes/成瘾性分析机器学习方法调查.md",
+                "file": "docs/research_notes/Awesome-LLM-Strawberry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/research_notes/成瘾性分析机器学习方法调查.md"
+                "file": "docs/research_notes/Awesome-LLM-Strawberry.md"
               }
             }
           }
@@ -161,10 +161,14 @@
   },
   "active": "a0d3351f2b2b301c",
   "lastOpenFiles": [
-    "docs/research_notes/Awesome-LLM-Strawberry.md",
     "docs/research_notes/成瘾性分析机器学习方法调查.md",
-    "docs/research_notes/_sidebar.md",
+    "docs/research_notes/offline reinforcement learning.md",
+    "docs/research_notes/Awesome-LLM-Strawberry.md",
+    "docs/research_notes/Untitled",
+    "docs/research_notes/large language model overview.md",
     "docs/research_notes/README.md",
+    "docs/README.md",
+    "docs/research_notes/_sidebar.md",
     "docs/attachments/Pasted image 20241003220048.png",
     "docs/attachments/Pasted image 20241003220032.png",
     "docs/attachments/Pasted image 20241003214849.png",
@@ -177,7 +181,6 @@
     "docs/attachments/Pasted image 20241003115510.png",
     "docs/lifes/University dream.md",
     "docs/lifes/Try to custom plugin.md",
-    "docs/README.md",
     "docs/commento-login-box-container.md",
     "docs/_sidebar.md",
     "docs/_navbar.md",
@@ -188,7 +191,6 @@
     "docs/course_notes/dsp/时域离散信号和时域离散系统-第一章习题 - 提交版本.md",
     "docs/course_notes/dsp/时域离散信号和时域离散系统-第一章习题.md",
     "docs/course_notes/dsp/_sidebar.md",
-    "docs/research_notes/large language model overview.md",
     "docs/research_notes/Polyu Summer Reaserch-Sports Analysis.md",
     "docs/course_notes/dsp/_navbar.md",
     "docs/course_notes/deep learning/RNN.md",
@@ -196,7 +198,6 @@
     "docs/course_notes/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_notes/data_mining_and_data_warehousing/_navbar.md",
     "docs/course_notes/artificial_intelligence/_sidebar.md",
-    "docs/course_notes/artificial_intelligence/_navbar.md",
     "docs/commento.js",
     "docs/新建文本文档.txt",
     "Untitled.canvas",
@@ -207,7 +208,6 @@
     "docs/research_notes",
     "docs/新建文件夹",
     "docs/course_notes/deep learning",
-    "docs/course_note/artificial_intelligence/Untitled",
-    "docs/attachments/kaggle-haap.pdf"
+    "docs/course_note/artificial_intelligence/Untitled"
   ]
 }

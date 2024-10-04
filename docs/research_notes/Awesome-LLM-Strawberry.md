@@ -2,7 +2,7 @@
 
 project url: [hijkzzz/Awesome-LLM-Strawberry: A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques. (github.com)](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
 
-# Planning In Natural Language Improves LLM Search For Code Generation
+## Planning In Natural Language Improves LLM Search For Code Generation
 paper url: [2409.03733 (arxiv.org)](https://arxiv.org/pdf/2409.03733)
 
 paper note: 
@@ -20,7 +20,7 @@ Repeat sampling with high temperature is also a way to generate more different s
 
 this paper idea don't need any training, only need the prompt engineer.
 
-# Training Language Models to Self-Correct via Reinforcement Learning
+## Training Language Models to Self-Correct via Reinforcement Learning
 paper url: [2409.12917 (arxiv.org)](https://arxiv.org/pdf/2409.12917)
 
 paper note:
@@ -30,14 +30,14 @@ The author assume the reward function is availble to access and for evaluating t
 
 ![](../attachments/Pasted%20image%2020240928160649.png)
 
-# TO COT OR NOT TO COT? CHAIN-OF-THOUGHT HELPS MAINLY ON MATH AND SYMBOLIC REASONING
+## TO COT OR NOT TO COT? CHAIN-OF-THOUGHT HELPS MAINLY ON MATH AND SYMBOLIC REASONING
 
 paper url: [2409.12183 (arxiv.org)](https://arxiv.org/pdf/2409.12183)
 
 paper note: 
 this paper investigate more than 100 papers, different base model to figure out what kind of question need extra thinking. The result show that the problems involving math or logic are benefit from CoT(chain of thoughts). And for other question, it's more better to save cost without CoT.
 
-# An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models
+## An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models
 
 paper url: [2408.00724 (arxiv.org)](https://arxiv.org/pdf/2408.00724)
 
@@ -61,7 +61,7 @@ This papper compare different search strategy and then come up with a novel tree
 Try to understand the search strategies:
 
 
-# Large Language Models as Commonsense Knowledge for Large-Scale Task Planning
+## Large Language Models as Commonsense Knowledge for Large-Scale Task Planning
 paper url: [2305.14078 (arxiv.org)](https://arxiv.org/pdf/2305.14078)
 paper note:
 该文章将llm与mcts 结合，结合方向可以分为三点：
@@ -69,7 +69,7 @@ paper note:
 - llm作为启发式函数，给出可能的动作，减少mcts搜索的动作的空间
 - llm作为翻译器，将task的自然语言描述翻译成模板化的描述
 
-# Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling
+## Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling
 paper url: [2408.16737 (arxiv.org)](https://www.arxiv.org/pdf/2408.16737)
 paper note: 
 文章使用计算最优的方法从weak and cheaper采样的数据对stronger and expensive的model 进行fine-tune。这个数据依然能够提升 SE 模型的推理能力。
@@ -77,7 +77,7 @@ paper note:
 ![|325](../attachments/Pasted%20image%2020241002155905.png)
 
 
-# Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters
+## Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters
 paper url: [2408.03314 (arxiv.org)](https://arxiv.org/pdf/2408.03314)
 paper note:
 本文同样分析compute optimal 的方法的有效性。test-time compute optiamlly 最普遍以及简单的例子就是对于一个问题可以并行采样多个答案，在其中利用PRM或者verifiers进行评估选出最有效的答案，同时也可以顺序采样，不断对上一次答案进行评估修改，可以参考下图
@@ -86,7 +86,7 @@ paper note:
 ![](../attachments/Pasted%20image%2020241003114338.png)
 
 
-# Generative Verifiers: Reward Modeling as Next-Token Prediction
+## Generative Verifiers: Reward Modeling as Next-Token Prediction
 paper url: [2408.15240 (arxiv.org)](https://arxiv.org/pdf/2408.15240)
 pepr note:
 文章提出传统的验证器只是作为一个答案的分类器给予评分，并没有很好利用预训练模型的文本生成能力。文章为了克服这个劣势，提出了一种新的过程验证模型-生成验证模型，其表现在algorithmic and grade-school math reasoning tasks上超过了分类验证模型。
@@ -102,7 +102,7 @@ LLM as a judge: https://zhuanlan.zhihu.com/p/637303516
 我们知道人类反馈强化RLHF技术对LLM训练非常有效，但是很少有公司或者实验室非聘请人类专家来强化，本篇论文证明了GPT4能达到研究生作为人类专家的水平，可以作为自训练LLM的“人类专家”。
 
 
-# MUTUAL REASONING MAKES SMALLER LLMS STRONGER PROBLEM-SOLVERS
+## MUTUAL REASONING MAKES SMALLER LLMS STRONGER PROBLEM-SOLVERS
 paper url: [2408.06195 (arxiv.org)](https://arxiv.org/pdf/2408.06195)
 paper note:
 文章提出了一种交互推理的方法，该方法通过一个小模型进行生成，另外一个小模型进行验证，通过相互一致性来提高答案的正确性。从而实现了在多个数据集上推理能力的提升。
