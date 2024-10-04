@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/University-dream-11589183fba681f5928dcaf68eea2232
+notionID: 11589183-fba6-81f5-928d-caf68eea2232
+---
 # University dream
 Recently, i read a book about a man go to Alaska to fina one peach in his mind. He threw his watch, burn his money for free him from the time and the modern society. Maybe one years ago, i watch one movie about this story which is my second time to watch this movie. To some state, it's my favorite movie because i also want the freedom. Currently, i start to read the book about this story and i know more detail. I know the main role, the man who graduated from the Emory University. The first time i know this university is that i did some artifical intelligence reseach with a man who studied in this university. 
 
