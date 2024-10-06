@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/research_notes/Awesome-LLM-Strawberry.md",
+                "file": "docs/lifes/戒断反应.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/research_notes/Awesome-LLM-Strawberry.md",
+                "file": "docs/lifes/戒断反应.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/research_notes/Awesome-LLM-Strawberry.md"
+                "file": "docs/lifes/戒断反应.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/research_notes/Awesome-LLM-Strawberry.md",
+                "file": "docs/lifes/戒断反应.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,41 +159,45 @@
   },
   "active": "e7051ee8e22a8e82",
   "lastOpenFiles": [
+    "docs/course_notes/_sidebar.md",
+    "docs/course_notes/microcomputer_technology/第一章.md",
+    "docs/course_notes/microcomputer_technology/README.md",
+    "digital_signal_processing.md",
+    "docs/course_notes/_navbar.md",
+    "microcomputer_technology 1.md",
+    "microcomputer_technology.md",
+    "docs/course_notes/microcomputer_technology/_sidebar.md",
+    "docs/course_notes/microcomputer_technology/作业1.md",
+    "docs/course_notes/microcomputer_technology/_navbar.md",
+    "docs/course_notes/microcomputer_technology",
+    "docs/course_notes/microcomputer_priciple_and_technology/作业1.md",
+    "docs/course_notes/microcomputer_priciple_and_technology/_sidebar.md",
+    "docs/course_notes/microcomputer_priciple_and_technology/_navbar.md",
+    "docs/course_notes/microcomputer_priciple_and_technology/README.md",
+    "docs/course_notes/microcomputer_priciple_and_technology",
+    "docs/course_notes/cloud_computing - 副本/_sidebar.md",
+    "docs/course_notes/cloud_computing - 副本/作业1.md",
+    "docs/course_notes/cloud_computing - 副本/README.md",
+    "docs/course_notes/cloud_computing - 副本/_navbar.md",
+    "docs/course_notes/cloud_computing - 副本",
+    "docs/research_notes/_sidebar.md",
+    "docs/lifes/_sidebar.md",
+    "docs/research_notes/Awesome-LLM-Strawberry.md",
     "push.sh",
     "新建文本文档.txt",
-    "docs/lifes/_sidebar.md",
     "docs/course_notes/cloud_computing/_sidebar.md",
     "docs/course_notes/cloud_computing/作业1.md",
     "docs/lifes/戒断反应.md",
     "docs/lifes/作业好难写.md",
     "docs/lifes/好开心.md",
-    "docs/technical_notes/VMware CentOS7 安装.md",
     "docs/attachments/Pasted image 20241006173045.png",
     "docs/attachments/Pasted image 20241006162734.png",
     "docs/attachments/Pasted image 20241006121831.png",
-    "docs/research_notes/Awesome-LLM-Strawberry.md",
-    "docs/lifes/Try to custom plugin.md",
     "docs/attachments/Pasted image 20241005224340.png",
     "docs/attachments/Pasted image 20241005222921.png",
     "docs/attachments/Pasted image 20241005221954.png",
-    "docs/research_notes/large language model overview.md",
-    "docs/course_notes/cloud_computing/_navbar.md",
-    "docs/course_notes/cloud_computing/README.md",
-    "docs/course_notes/dsp/_sidebar.md",
     "docs/course_notes/cloud_computing",
-    "docs/lifes/Hello, new life...maybe old.md",
-    "docs/lifes/obsidian-doccsify-onedrive 多端同步.md",
-    "docs/lifes/README.md",
-    "docs/lifes/University dream.md",
-    "docs/lifes/_navbar.md",
     "docs/attachments/Pasted image 20241005083711.png",
-    "docs/research_notes/Survey of machine learning methods for addiction analysis.md",
-    "docs/_coverpage.md",
-    "docs/_navbar.md",
-    "docs/_sidebar.md",
-    "docs/commento-login-box-container.md",
-    "docs/README.md",
-    "docs/technical_notes/How to create new blog.md",
     "docs/attachments/ARM1.pdf",
     "docs/research_notes/Untitled",
     "docs/attachments/Pasted image 20241003220048.png",
@@ -202,10 +206,6 @@
     "docs/commento.js",
     "docs/新建文本文档.txt",
     "Untitled.canvas",
-    "docs/lifes",
-    "Untitled",
-    "docs/course_notes/dsp",
-    "Untitled 1.canvas",
-    "docs/research_notes"
+    "Untitled 1.canvas"
   ]
 }
