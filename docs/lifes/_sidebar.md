@@ -3,3 +3,5 @@
 	- [Try to custom plugin](Try%20to%20custom%20plugin.md)
 	- [University dream](University%20dream.md)
 	- [obsidian-doccsify-onedrive 多端同步](obsidian-doccsify-onedrive%20多端同步.md)
+	- [好开心](好开心.md)
+	- [戒断反应](戒断反应.md)
