@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/technical_notes/How to create new blog.md",
+                "file": "docs/course_notes/cloud_computing/作业1.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b93d421a1ae0f83a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/attachments/Pasted image 20241005083711.png"
               }
             }
           }
@@ -80,29 +90,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f333a3801c5e30a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "docs/technical_notes/How to create new blog.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "2b44a2b13848a558",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/technical_notes/How to create new blog.md",
+                "file": "docs/course_notes/cloud_computing/作业1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +118,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/technical_notes/How to create new blog.md"
+                "file": "docs/course_notes/cloud_computing/作业1.md"
+              }
+            }
+          },
+          {
+            "id": "59398b9c05a62fb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/course_notes/cloud_computing/作业1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -144,49 +154,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-to-notion:Share to notion": false
+      "remotely-secure:Remotely Sync": false
     }
   },
   "active": "e7051ee8e22a8e82",
   "lastOpenFiles": [
-    "docs/technical_notes/开悟.md",
-    "docs/research_notes/Survey of machine learning methods for addiction analysis.md",
-    "docs/research_notes/offline reinforcement learning.md",
-    "docs/research_notes/large language model overview.md",
-    "docs/research_notes/Awesome-LLM-Strawberry.md",
-    "docs/lifes/University dream.md",
-    "docs/lifes/Try to custom plugin.md",
-    "docs/lifes/README.md",
-    "docs/lifes/Hello, new life...maybe old.md",
-    "docs/course_notes/_sidebar.md",
+    "docs/lifes/戒断反应.md",
+    "docs/lifes/作业好难写.md",
+    "docs/lifes/好开心.md",
+    "docs/technical_notes/VMware CentOS7 安装.md",
+    "docs/course_notes/cloud_computing/作业1.md",
+    "docs/attachments/Pasted image 20241006173045.png",
+    "docs/attachments/Pasted image 20241006162734.png",
+    "docs/attachments/Pasted image 20241006121831.png",
     "docs/lifes/_sidebar.md",
-    "docs/course_notes/_navbar.md",
+    "docs/research_notes/Awesome-LLM-Strawberry.md",
+    "docs/lifes/Try to custom plugin.md",
+    "docs/attachments/Pasted image 20241005224340.png",
+    "docs/attachments/Pasted image 20241005222921.png",
+    "docs/attachments/Pasted image 20241005221954.png",
+    "docs/research_notes/large language model overview.md",
+    "docs/course_notes/cloud_computing/_navbar.md",
+    "docs/course_notes/cloud_computing/README.md",
+    "docs/course_notes/cloud_computing/_sidebar.md",
+    "docs/course_notes/dsp/_sidebar.md",
+    "docs/course_notes/cloud_computing",
+    "docs/lifes/Hello, new life...maybe old.md",
+    "docs/lifes/obsidian-doccsify-onedrive 多端同步.md",
+    "docs/lifes/README.md",
+    "docs/lifes/University dream.md",
     "docs/lifes/_navbar.md",
-    "docs/research_notes/README.md",
-    "docs/research_notes/Polyu Summer Reaserch-Sports Analysis.md",
-    "docs/README.md",
-    "docs/commento-login-box-container.md",
-    "docs/technical_notes/How to create new blog.md",
-    "docs/attachments/ARM1.pdf",
-    "docs/course_notes/dsp/时域离散信号和时域离散系统-第一章习题.md",
-    "docs/course_notes/dsp/README.md",
+    "docs/attachments/Pasted image 20241005083711.png",
+    "docs/research_notes/Survey of machine learning methods for addiction analysis.md",
+    "docs/_coverpage.md",
+    "docs/_navbar.md",
     "docs/_sidebar.md",
-    "docs/research_notes/_sidebar.md",
-    "docs/research_notes/_navbar.md",
+    "docs/commento-login-box-container.md",
+    "docs/README.md",
+    "docs/technical_notes/How to create new blog.md",
+    "docs/technical_notes/开悟.md",
+    "docs/attachments/ARM1.pdf",
     "docs/research_notes/Untitled",
     "docs/attachments/Pasted image 20241003220048.png",
     "docs/attachments/Pasted image 20241003220032.png",
     "docs/attachments/Pasted image 20241003214849.png",
-    "docs/attachments/Pasted image 20241003213831.png",
-    "docs/attachments/Pasted image 20241003213749.png",
-    "docs/attachments/Pasted image 20241003205640.png",
-    "docs/attachments/Pasted image 20241003191943.png",
-    "docs/attachments/Pasted image 20241003163805.png",
-    "docs/attachments/Pasted image 20241003121251.png",
-    "docs/attachments/Pasted image 20241003115510.png",
-    "docs/_navbar.md",
-    "README.md",
-    "docs/_coverpage.md",
     "docs/commento.js",
     "docs/新建文本文档.txt",
     "Untitled.canvas",
@@ -195,7 +206,6 @@
     "docs/course_notes/dsp",
     "Untitled 1.canvas",
     "docs/research_notes",
-    "docs/新建文件夹",
-    "docs/course_notes/deep learning"
+    "docs/新建文件夹"
   ]
 }

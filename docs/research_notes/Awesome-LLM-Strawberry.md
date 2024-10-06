@@ -113,3 +113,31 @@ LLM 做推理采用mcts方法的一个示例，动作空间参考下图：
 
 reward function:
 ![](../attachments/Pasted%20image%2020241003205640.png)
+
+## Large Language Monkeys: Scaling Inference Compute with Repeated Sampling
+paper url: [2407.21787 (arxiv.org)](https://arxiv.org/pdf/2407.21787)
+paper note: 
+重复采样在代码和形式化证明的任务上，llm回复样本量的增加（对于一个问题llm的多种采样回复）能够直接改善llm的表现。
+重复采样原理大致如下：
+![](../attachments/Pasted%20image%2020241005221954.png)
+
+coverage: 覆盖率
+precison: 准确率
+
+文章的总结：
+![](../attachments/Pasted%20image%2020241005222921.png)
+
+- 文章实现结果表明让弱一些模型产生更多的样本其表现能超越单次尝试更强的模型。
+- 作者根据覆盖率与样本数量之间的关系，提出推理时计算也存在缩放定律。
+- 在不能自动验证的领域，平常的方法比如多数投票、奖励评分会在超过一百个样本后趋于稳定。
+
+
+论文的实验结果：
+![](../attachments/Pasted%20image%2020241005224340.png)
+
+## Improve Mathematical Reasoning in Language Models by Automated Process Supervision
+paper url: [2406.06592 (arxiv.org)](https://arxiv.org/pdf/2406.06592)
+paper note:
+以往的过程奖励模型训练的数据搜集需要人工监督，或者耗费大量时间，不宜推广。文章提出一种新的分而治之的蒙特卡洛搜索树算法用来更有效搜集过程监督数据（训练过程奖励模型），该算法通过二分法**快速**有效识别出思维链（CoT）中的第一个错误并且可以平衡正负样本，因此可以保证数据的质量和数量。
+
+**这是一篇很好的展示mcts在llm中使用的方法**

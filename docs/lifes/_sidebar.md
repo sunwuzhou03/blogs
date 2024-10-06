@@ -2,3 +2,4 @@
 	- [Hello, new life...maybe old](Hello,%20new%20life...maybe%20old.md)
 	- [Try to custom plugin](Try%20to%20custom%20plugin.md)
 	- [University dream](University%20dream.md)
+	- [obsidian-doccsify-onedrive 多端同步](obsidian-doccsify-onedrive%20多端同步.md)
