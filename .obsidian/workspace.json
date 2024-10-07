@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_notes/_sidebar.md",
+                "file": "docs/course_notes/cloud_computing/_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_notes/_sidebar.md",
+                "file": "docs/course_notes/cloud_computing/_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_notes/_sidebar.md"
+                "file": "docs/course_notes/cloud_computing/_sidebar.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_notes/_sidebar.md",
+                "file": "docs/course_notes/cloud_computing/_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,12 +149,14 @@
   },
   "active": "4c90da58c5080c31",
   "lastOpenFiles": [
-    "could_computing.md",
-    "docs/course_notes/_sidebar.md",
+    "docs/course_notes/digital_signal_processing/_sidebar.md",
+    "docs/course_notes/microcomputer_technology/_sidebar.md",
+    "docs/course_notes/microcomputer_technology/_navbar.md",
     "docs/course_notes/cloud_computing/_sidebar.md",
+    "docs/course_notes/_sidebar.md",
+    "could_computing.md",
     "docs/course_notes/cloud_computing/README.md",
     "docs/course_notes/cloud_computing/作业1.md",
-    "docs/course_notes/microcomputer_technology/_sidebar.md",
     "docs/course_notes/human_computer_interaction/_sidebar.md",
     "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
     "docs/_coverpage.md",
@@ -178,7 +180,6 @@
     "microcomputer_technology 1.md",
     "microcomputer_technology.md",
     "docs/course_notes/microcomputer_technology/作业1.md",
-    "docs/course_notes/microcomputer_technology/_navbar.md",
     "docs/course_notes/microcomputer_technology",
     "docs/course_notes/microcomputer_priciple_and_technology/作业1.md",
     "docs/course_notes/microcomputer_priciple_and_technology/_sidebar.md",
@@ -186,7 +187,6 @@
     "docs/course_notes/microcomputer_priciple_and_technology/README.md",
     "docs/course_notes/microcomputer_priciple_and_technology",
     "docs/course_notes/cloud_computing - 副本/_sidebar.md",
-    "docs/course_notes/cloud_computing - 副本/作业1.md",
     "docs/course_notes/cloud_computing - 副本",
     "push.sh",
     "新建文本文档.txt",
