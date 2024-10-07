@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
+                "file": "docs/course_notes/cloud_computing/_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
+                "file": "docs/course_notes/cloud_computing/_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md"
+                "file": "docs/course_notes/cloud_computing/_sidebar.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
+                "file": "docs/course_notes/cloud_computing/_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +149,10 @@
   },
   "active": "e7051ee8e22a8e82",
   "lastOpenFiles": [
-    "docs/_coverpage.md",
+    "docs/course_notes/cloud_computing/作业1.md",
+    "docs/course_notes/cloud_computing/_sidebar.md",
     "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
+    "docs/_coverpage.md",
     "docs/attachments/Pasted image 20241007173411.png",
     "docs/attachments/Pasted image 20241007173356.png",
     "docs/attachments/Pasted image 20241007173342.png",
@@ -186,8 +188,6 @@
     "docs/course_notes/cloud_computing - 副本/_navbar.md",
     "docs/course_notes/cloud_computing - 副本",
     "docs/research_notes/_sidebar.md",
-    "docs/lifes/_sidebar.md",
-    "docs/research_notes/Awesome-LLM-Strawberry.md",
     "push.sh",
     "新建文本文档.txt",
     "docs/course_notes/cloud_computing",
