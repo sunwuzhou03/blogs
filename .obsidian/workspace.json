@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_notes/microcomputer_technology/README.md",
+                "file": "docs/course_notes/cloud_computing/_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_notes/microcomputer_technology/README.md",
+                "file": "docs/course_notes/cloud_computing/_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_notes/microcomputer_technology/README.md"
+                "file": "docs/course_notes/cloud_computing/_sidebar.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_notes/microcomputer_technology/README.md",
+                "file": "docs/course_notes/cloud_computing/_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +149,9 @@
   },
   "active": "4c90da58c5080c31",
   "lastOpenFiles": [
-    "docs/course_notes/cloud_computing/_sidebar.md",
     "docs/course_notes/digital_signal_processing/_sidebar.md",
+    "docs/course_notes/microcomputer_technology/README.md",
+    "docs/course_notes/cloud_computing/_sidebar.md",
     "docs/course_notes/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_notes/microcomputer_technology/第1章.md",
     "docs/course_notes/microcomputer_technology/_sidebar.md",
@@ -175,7 +176,6 @@
     "docs/lifes/戒断反应.md",
     "docs/lifes/好开心.md",
     "docs/lifes/域名买错na.md",
-    "docs/course_notes/microcomputer_technology/README.md",
     "digital_signal_processing.md",
     "docs/course_notes/_navbar.md",
     "microcomputer_technology 1.md",
