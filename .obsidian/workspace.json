@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_notes/cloud_computing/_sidebar.md",
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_notes/cloud_computing/_sidebar.md",
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_notes/cloud_computing/_sidebar.md"
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_notes/cloud_computing/_sidebar.md",
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +149,8 @@
   },
   "active": "4c90da58c5080c31",
   "lastOpenFiles": [
-    "docs/course_notes/digital_signal_processing/_sidebar.md",
     "docs/course_notes/cloud_computing/_sidebar.md",
+    "docs/course_notes/digital_signal_processing/_sidebar.md",
     "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
     "docs/course_notes/cloud_computing/复习.md",
     "docs/course_notes/cloud_computing/作业1.md",
