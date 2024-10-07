@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lifes/戒断反应.md",
+                "file": "docs/_coverpage.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b93d421a1ae0f83a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/attachments/Pasted image 20241005083711.png"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lifes/戒断反应.md",
+                "file": "docs/_coverpage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lifes/戒断反应.md"
+                "file": "docs/_coverpage.md"
               }
             }
           },
@@ -128,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lifes/戒断反应.md",
+                "file": "docs/_coverpage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,14 +149,28 @@
   },
   "active": "e7051ee8e22a8e82",
   "lastOpenFiles": [
-    "docs/course_notes/_sidebar.md",
-    "docs/course_notes/microcomputer_technology/第一章.md",
+    "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
+    "docs/attachments/Pasted image 20241007173411.png",
+    "docs/attachments/Pasted image 20241007173356.png",
+    "docs/attachments/Pasted image 20241007173342.png",
+    "docs/attachments/Pasted image 20241007173308.png",
+    "docs/attachments/Pasted image 20241007173235.png",
+    "docs/attachments/Pasted image 20241007173213.png",
+    "docs/attachments/Pasted image 20241007173144.png",
+    "docs/attachments/Pasted image 20241007173050.png",
+    "docs/attachments/Pasted image 20241007164546.png",
+    "docs/attachments/Pasted image 20241007164437.png",
+    "docs/course_notes/microcomputer_technology/第1章.md",
+    "docs/lifes/戒断反应.md",
+    "docs/lifes/好开心.md",
+    "docs/lifes/域名买错na.md",
+    "docs/course_notes/microcomputer_technology/_sidebar.md",
     "docs/course_notes/microcomputer_technology/README.md",
+    "docs/course_notes/_sidebar.md",
     "digital_signal_processing.md",
     "docs/course_notes/_navbar.md",
     "microcomputer_technology 1.md",
     "microcomputer_technology.md",
-    "docs/course_notes/microcomputer_technology/_sidebar.md",
     "docs/course_notes/microcomputer_technology/作业1.md",
     "docs/course_notes/microcomputer_technology/_navbar.md",
     "docs/course_notes/microcomputer_technology",
@@ -185,24 +189,9 @@
     "docs/research_notes/Awesome-LLM-Strawberry.md",
     "push.sh",
     "新建文本文档.txt",
-    "docs/course_notes/cloud_computing/_sidebar.md",
-    "docs/course_notes/cloud_computing/作业1.md",
-    "docs/lifes/戒断反应.md",
-    "docs/lifes/作业好难写.md",
-    "docs/lifes/好开心.md",
-    "docs/attachments/Pasted image 20241006173045.png",
-    "docs/attachments/Pasted image 20241006162734.png",
-    "docs/attachments/Pasted image 20241006121831.png",
-    "docs/attachments/Pasted image 20241005224340.png",
-    "docs/attachments/Pasted image 20241005222921.png",
-    "docs/attachments/Pasted image 20241005221954.png",
     "docs/course_notes/cloud_computing",
-    "docs/attachments/Pasted image 20241005083711.png",
     "docs/attachments/ARM1.pdf",
     "docs/research_notes/Untitled",
-    "docs/attachments/Pasted image 20241003220048.png",
-    "docs/attachments/Pasted image 20241003220032.png",
-    "docs/attachments/Pasted image 20241003214849.png",
     "docs/commento.js",
     "docs/新建文本文档.txt",
     "Untitled.canvas",
