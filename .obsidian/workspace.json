@@ -149,6 +149,9 @@
   },
   "active": "4c90da58c5080c31",
   "lastOpenFiles": [
+    "preview.sh",
+    "preview.bat",
+    "commit - 副本.sh",
     "docs/course_notes/cloud_computing/_sidebar.md",
     "docs/course_notes/digital_signal_processing/_sidebar.md",
     "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
@@ -185,7 +188,6 @@
     "docs/course_notes/microcomputer_technology",
     "docs/course_notes/microcomputer_priciple_and_technology/作业1.md",
     "docs/course_notes/microcomputer_priciple_and_technology/_sidebar.md",
-    "docs/course_notes/microcomputer_priciple_and_technology/_navbar.md",
     "docs/course_notes/microcomputer_priciple_and_technology",
     "docs/course_notes/cloud_computing - 副本",
     "push.sh",
@@ -193,8 +195,6 @@
     "docs/course_notes/cloud_computing",
     "docs/attachments/ARM1.pdf",
     "docs/research_notes/Untitled",
-    "docs/commento.js",
-    "docs/新建文本文档.txt",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
