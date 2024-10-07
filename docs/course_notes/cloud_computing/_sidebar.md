@@ -1,4 +1,4 @@
 - [COURSE NOTE](../)
-	- [COULD COMPUTING](./)
+	- [CLOUD COMPUTING](./)
 		- [作业1](作业1.md)
 		- [复习](复习.md)
