@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_coverpage.md",
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_coverpage.md",
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_coverpage.md"
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_coverpage.md",
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
   },
   "active": "e7051ee8e22a8e82",
   "lastOpenFiles": [
+    "docs/_coverpage.md",
     "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
     "docs/attachments/Pasted image 20241007173411.png",
     "docs/attachments/Pasted image 20241007173356.png",
