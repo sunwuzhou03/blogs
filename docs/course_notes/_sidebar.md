@@ -3,5 +3,5 @@
 	- [DATA MINING AND DATA WAREHOUSING](data_mining_and_data_warehousing/)
 	- [ARTIFICIAL INTELLIGENCE](artificial_intelligence/)
 	- [DIGITAL SIGNAL PROCESSING](digital_signal_processing/)
-	- [CLOUD COMPUTING](could_computing/) 
+	- [CLOUD COMPUTING](cloud_computing/) 
 	- [MICROCOMPUTING_TECHNOLOGY](microcomputer_technology/) 

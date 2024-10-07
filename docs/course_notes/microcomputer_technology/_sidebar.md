@@ -1,3 +1,4 @@
 - [COURSE NOTE](../)
 	- [MICROCOMPUTING_TECHNOLOGY](./)
-		- 
+		- [第1章](第1章.md)
+		- [第2章 8086微机系统](第2章%208086微机系统.md)

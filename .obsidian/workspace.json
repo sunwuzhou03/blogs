@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bf38916894836f17",
+        "id": "f7123db8beddea76",
         "type": "tabs",
         "children": [
           {
-            "id": "e7051ee8e22a8e82",
+            "id": "4c90da58c5080c31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_notes/cloud_computing/_sidebar.md",
+                "file": "docs/course_notes/_sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_notes/cloud_computing/_sidebar.md",
+                "file": "docs/course_notes/_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_notes/cloud_computing/_sidebar.md"
+                "file": "docs/course_notes/_sidebar.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_notes/cloud_computing/_sidebar.md",
+                "file": "docs/course_notes/_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,10 +147,15 @@
       "remotely-secure:Remotely Sync": false
     }
   },
-  "active": "e7051ee8e22a8e82",
+  "active": "4c90da58c5080c31",
   "lastOpenFiles": [
-    "docs/course_notes/cloud_computing/作业1.md",
+    "could_computing.md",
+    "docs/course_notes/_sidebar.md",
     "docs/course_notes/cloud_computing/_sidebar.md",
+    "docs/course_notes/cloud_computing/README.md",
+    "docs/course_notes/cloud_computing/作业1.md",
+    "docs/course_notes/microcomputer_technology/_sidebar.md",
+    "docs/course_notes/human_computer_interaction/_sidebar.md",
     "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
     "docs/_coverpage.md",
     "docs/attachments/Pasted image 20241007173411.png",
@@ -167,9 +172,7 @@
     "docs/lifes/戒断反应.md",
     "docs/lifes/好开心.md",
     "docs/lifes/域名买错na.md",
-    "docs/course_notes/microcomputer_technology/_sidebar.md",
     "docs/course_notes/microcomputer_technology/README.md",
-    "docs/course_notes/_sidebar.md",
     "digital_signal_processing.md",
     "docs/course_notes/_navbar.md",
     "microcomputer_technology 1.md",
@@ -184,10 +187,7 @@
     "docs/course_notes/microcomputer_priciple_and_technology",
     "docs/course_notes/cloud_computing - 副本/_sidebar.md",
     "docs/course_notes/cloud_computing - 副本/作业1.md",
-    "docs/course_notes/cloud_computing - 副本/README.md",
-    "docs/course_notes/cloud_computing - 副本/_navbar.md",
     "docs/course_notes/cloud_computing - 副本",
-    "docs/research_notes/_sidebar.md",
     "push.sh",
     "新建文本文档.txt",
     "docs/course_notes/cloud_computing",
