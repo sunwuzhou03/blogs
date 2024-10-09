@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_notes/cloud_computing/作业1.md",
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_notes/cloud_computing/作业1.md",
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_notes/cloud_computing/作业1.md"
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_notes/cloud_computing/作业1.md",
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,16 @@
   },
   "active": "4c90da58c5080c31",
   "lastOpenFiles": [
+    "docs/course_notes/microcomputer_technology/第1章.md",
+    "docs/course_notes/_sidebar.md",
+    "docs/research_notes/_sidebar.md",
+    "README.md",
+    "docs/commento-login-box-container.md",
+    "docs/technical_notes/_sidebar.md",
+    "docs/technical_notes/VMware CentOS7 安装.md",
+    "docs/technical_notes/How to create new blog.md",
+    "docs/course_notes/cloud_computing/作业1.md",
+    "docs/attachments/Pasted image 20241009214840.png",
     "docs/attachments/Pasted image 20241009212154.png",
     "docs/attachments/Pasted image 20241009212149.png",
     "docs/attachments/Pasted image 20241009211424.png",
@@ -158,11 +168,8 @@
     "docs/attachments/Pasted image 20241009201930.png",
     "docs/attachments/Pasted image 20241009201850.png",
     "docs/course_notes/cloud_computing/README.md",
-    "docs/course_notes/cloud_computing/作业1.md",
     "docs/research_notes/Awesome-LLM-Strawberry.md",
     "docs/attachments/Pasted image 20241008232040.png",
-    "docs/attachments/Pasted image 20241008231911.png",
-    "docs/attachments/Pasted image 20241008231604.png",
     "docs/course_notes/data_mining_and_data_warehousing/ARM2 pdf.md",
     "docs/course_notes/cloud_computing/复习.md",
     "docs/research_notes/Survey of machine learning methods for addiction analysis.md",
@@ -174,20 +181,13 @@
     "docs/course_notes/digital_signal_processing/_sidebar.md",
     "docs/course_notes/microcomputer_technology/README.md",
     "docs/course_notes/data_mining_and_data_warehousing/_sidebar.md",
-    "docs/course_notes/microcomputer_technology/第1章.md",
     "docs/course_notes/microcomputer_technology/_sidebar.md",
     "docs/course_notes/microcomputer_technology/_navbar.md",
-    "docs/course_notes/_sidebar.md",
     "could_computing.md",
     "docs/course_notes/human_computer_interaction/_sidebar.md",
     "docs/_coverpage.md",
     "docs/lifes/戒断反应.md",
     "docs/lifes/好开心.md",
-    "docs/lifes/域名买错na.md",
-    "digital_signal_processing.md",
-    "docs/course_notes/_navbar.md",
-    "microcomputer_technology 1.md",
-    "microcomputer_technology.md",
     "docs/course_notes/microcomputer_technology",
     "docs/course_notes/microcomputer_priciple_and_technology",
     "docs/course_notes/cloud_computing - 副本",
