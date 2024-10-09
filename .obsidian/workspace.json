@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
+                "file": "docs/course_notes/cloud_computing/作业1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
+                "file": "docs/course_notes/cloud_computing/作业1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md"
+                "file": "docs/course_notes/cloud_computing/作业1.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
+                "file": "docs/course_notes/cloud_computing/作业1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,14 +149,29 @@
   },
   "active": "4c90da58c5080c31",
   "lastOpenFiles": [
+    "docs/attachments/Pasted image 20241009212154.png",
+    "docs/attachments/Pasted image 20241009212149.png",
+    "docs/attachments/Pasted image 20241009211424.png",
+    "docs/attachments/Pasted image 20241009211124.png",
+    "docs/attachments/Pasted image 20241009204154.png",
+    "docs/attachments/Pasted image 20241009202356.png",
+    "docs/attachments/Pasted image 20241009201930.png",
+    "docs/attachments/Pasted image 20241009201850.png",
+    "docs/course_notes/cloud_computing/README.md",
+    "docs/course_notes/cloud_computing/作业1.md",
+    "docs/research_notes/Awesome-LLM-Strawberry.md",
+    "docs/attachments/Pasted image 20241008232040.png",
+    "docs/attachments/Pasted image 20241008231911.png",
+    "docs/attachments/Pasted image 20241008231604.png",
+    "docs/course_notes/data_mining_and_data_warehousing/ARM2 pdf.md",
+    "docs/course_notes/cloud_computing/复习.md",
+    "docs/research_notes/Survey of machine learning methods for addiction analysis.md",
+    "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
     "preview.sh",
     "preview.bat",
     "commit - 副本.sh",
     "docs/course_notes/cloud_computing/_sidebar.md",
     "docs/course_notes/digital_signal_processing/_sidebar.md",
-    "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
-    "docs/course_notes/cloud_computing/复习.md",
-    "docs/course_notes/cloud_computing/作业1.md",
     "docs/course_notes/microcomputer_technology/README.md",
     "docs/course_notes/data_mining_and_data_warehousing/_sidebar.md",
     "docs/course_notes/microcomputer_technology/第1章.md",
@@ -164,19 +179,8 @@
     "docs/course_notes/microcomputer_technology/_navbar.md",
     "docs/course_notes/_sidebar.md",
     "could_computing.md",
-    "docs/course_notes/cloud_computing/README.md",
     "docs/course_notes/human_computer_interaction/_sidebar.md",
     "docs/_coverpage.md",
-    "docs/attachments/Pasted image 20241007173411.png",
-    "docs/attachments/Pasted image 20241007173356.png",
-    "docs/attachments/Pasted image 20241007173342.png",
-    "docs/attachments/Pasted image 20241007173308.png",
-    "docs/attachments/Pasted image 20241007173235.png",
-    "docs/attachments/Pasted image 20241007173213.png",
-    "docs/attachments/Pasted image 20241007173144.png",
-    "docs/attachments/Pasted image 20241007173050.png",
-    "docs/attachments/Pasted image 20241007164546.png",
-    "docs/attachments/Pasted image 20241007164437.png",
     "docs/lifes/戒断反应.md",
     "docs/lifes/好开心.md",
     "docs/lifes/域名买错na.md",
@@ -184,17 +188,13 @@
     "docs/course_notes/_navbar.md",
     "microcomputer_technology 1.md",
     "microcomputer_technology.md",
-    "docs/course_notes/microcomputer_technology/作业1.md",
     "docs/course_notes/microcomputer_technology",
-    "docs/course_notes/microcomputer_priciple_and_technology/作业1.md",
-    "docs/course_notes/microcomputer_priciple_and_technology/_sidebar.md",
     "docs/course_notes/microcomputer_priciple_and_technology",
     "docs/course_notes/cloud_computing - 副本",
     "push.sh",
     "新建文本文档.txt",
     "docs/course_notes/cloud_computing",
     "docs/attachments/ARM1.pdf",
-    "docs/research_notes/Untitled",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
