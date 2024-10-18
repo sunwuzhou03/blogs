@@ -16,7 +16,9 @@
                 "file": "docs/course_notes/cloud_computing/作业1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "作业1"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +96,9 @@
                 "file": "docs/course_notes/cloud_computing/作业1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 作业1"
             }
           },
           {
@@ -99,7 +109,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -109,7 +121,9 @@
               "type": "outline",
               "state": {
                 "file": "docs/course_notes/cloud_computing/作业1.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 作业1"
             }
           },
           {
@@ -126,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 作业1"
             }
           }
         ]
@@ -149,13 +165,20 @@
   },
   "active": "4c90da58c5080c31",
   "lastOpenFiles": [
-    "docs/attachments/Pasted image 20241010192233.png",
-    "docs/attachments/Pasted image 20241010183127.png",
-    "docs/attachments/Pasted image 20241010165511.png",
-    "docs/course_notes/cloud_computing/复习.md",
+    "docs/attachments/Pasted image 20241018231721.png",
+    "docs/attachments/Pasted image 20241018221956.png",
+    "docs/attachments/Pasted image 20241018220513.png",
+    "docs/attachments/Pasted image 20241018215644.png",
+    "docs/attachments/Pasted image 20241018215600.png",
+    "docs/attachments/Pasted image 20241018215431.png",
+    "docs/attachments/Pasted image 20241018215255.png",
+    "docs/attachments/Pasted image 20241018215134.png",
+    "docs/attachments/Pasted image 20241018214252.png",
+    "docs/attachments/Pasted image 20241018210206.png",
+    "docs/attachments/Pasted image 20241018201929.png",
     "docs/research_notes/research visiting program.md",
-    "docs/attachments/Pasted image 20241010161706.png",
     "docs/course_notes/cloud_computing/作业1.md",
+    "docs/course_notes/cloud_computing/复习.md",
     "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
     "docs/course_notes/microcomputer_technology/第1章.md",
     "docs/course_notes/_sidebar.md",
@@ -165,13 +188,6 @@
     "docs/technical_notes/_sidebar.md",
     "docs/technical_notes/VMware CentOS7 安装.md",
     "docs/technical_notes/How to create new blog.md",
-    "docs/attachments/Pasted image 20241009214840.png",
-    "docs/attachments/Pasted image 20241009212154.png",
-    "docs/attachments/Pasted image 20241009212149.png",
-    "docs/attachments/Pasted image 20241009211424.png",
-    "docs/attachments/Pasted image 20241009211124.png",
-    "docs/attachments/Pasted image 20241009204154.png",
-    "docs/attachments/Pasted image 20241009202356.png",
     "docs/course_notes/cloud_computing/README.md",
     "docs/research_notes/Awesome-LLM-Strawberry.md",
     "docs/course_notes/data_mining_and_data_warehousing/ARM2 pdf.md",
