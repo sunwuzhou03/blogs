@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Wuzhou's blogs</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="shortcut icon" href="./_media/logo.ico"> 
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  
+  <!-- mermaid插件 -->
+  <link rel="stylesheet" href="//unpkg.com/mermaid/dist/mermaid.min.css" />
+
+
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/buble.css"> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css"> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/pure.css"> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dolphin.css"> -->
+
+</head>
+
+<!-- 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 -->
+
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      timeUpdater: {
+        text: ">last update time: {docsify-updated}",
+        formatUpdated: "{YYYY}/{MM}/{DD}",
+        whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
+      },
+    //   gitalk: {
+    //   clientID: 'Ov23liP9rWdAo1IRAhXK',
+    //   clientSecret: '6980d87ceb67abf4f34b196aa18f6667d721f6e8',
+    //   repo: 'blogs',  // 存放评论的仓库
+    //   owner: 'sunwuzhou03',  // 仓库的创建者，
+    //   admin: ['sunwuzhou03']
+    // },
+    
+      // // 添加valine评论系统
+      // Valine: {
+      //         appId: 'Fq3QcKMrfMAx61BIOmMI5Nms-gzGzoHsz',//<APP_ID>
+      //         appKey: 'DrzcNDCmPMJVxx3HO79LAfk4'//'<APP_Key>'
+      //     },
+
+      alias: {
+        './_sidebar.md': './_sidebar.md',
+      },
+      // 开启封面 
+      coverpage: true,
+      onlyCover: true,
+      name: 'Wuzhou Sun',
+      repo: '',
+      loadSidebar: true, // 使用_sidebar.md组装多页面网站
+      subMaxLevel: 3,
+      relativePath: true, // 使用相对路径链接
+      topMargin: 90,
+      search: {
+        paths: 'auto',
+        hideOtherSidebarContent: true,
+        placeholder: '🔍 search',
+        noData: '😒 not find',
+        // Headline depth, 1 - 6
+        depth: 6,
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+      },
+      mergeNavbar: true,
+      // auto2top: true,
+      // routerMode: 'history',
+      pagination: {
+        previousText: 'PREVIOUS',
+        // or
+        nextText: {
+          '/en/': 'NEXT',
+          '/': 'NEXT'
+        },
+        crossChapter: true,
+        crossChapterText: true,
+      },
+      loadNavbar: true,
+
+      plugins: [
+        
+      // mermaid显示
+      function (hook, vm) {
+      hook.ready(function () {
+        mermaid.initialize({ startOnLoad: false });
+      });
+      hook.doneEach(function () {
+        mermaid.init(undefined, '.mermaid');
+      });
+      },
+
+    
+      //将obsidian展示pdf的格式改成可以用docisify 展示的格式
+      function (hook, vm) {
+      hook.beforeEach(function (content) {
+        // 假设我们通过 vm.route.path 获取当前文件路径
+        const currentPath = vm.route ? vm.route.path : null;
+
+          const pdfImageRegex = /!\[(.+?)\]\((.+?\.pdf)\)/g;
+          content = content.replace(pdfImageRegex, (match, alt, pdfPath) => {
+            return `\`\`\`pdf\n[${alt}](${pdfPath}\n\`\`\``;
+          });
+        
+        return content;
+      });
+    },
+
+        //图片调整操作
+        function (hook, vm) {
+          hook.beforeEach(function (content) {
+            // 假设我们通过 vm.route.path 获取当前文件路径
+            const currentPath = vm.route ? vm.route.path : null;
+
+              const imageRegex = /!\[.*?\|\|(\d+)\]\((.+?)\)/g;
+              content = content.replace(imageRegex, (match, height, src) => {
+                return `<img src="${src}" style="max-width: 75%; height: auto; display: block; margin: 10px auto; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>`;
+              });
+
+              const style = `
+        img {
+          max-width: 75%;
+          height: auto;
+          display: block;
+          margin: 10px auto;
+          object-fit: cover;
+          border-radius: 10px;
+          box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+          transition: transform 0.3s ease;
+        }
+        img:hover {
+          transform: scale(1.05);
+        }
+      `;
+              const styleElement = document.createElement('style');
+              styleElement.type = 'text/css';
+              styleElement.innerHTML = style;
+              document.head.appendChild(styleElement);
+            
+            return content;
+          });
+        
+        },
+
+    
+    // 页面添加修改点击按钮，可以直接到github repo进行修改
+    function (hook, vm) {
+    hook.beforeEach(function (html) {
+        // 从路径中提取文件名
+        var fileName = vm.route.file.split('/').pop();
+        // 检查文件名是否以下划线开头或者是否是README.md
+        if (fileName.startsWith('_') || fileName === 'README.md') {
+            return html; 
+        }
+
+        // 构建URL
+        var url = 'https://github.com/sunwuzhou03/blogs/tree/main/docs/' + vm.route.file;
+        // 在链接文本中添加文件名
+        var editHtml = '[📝 EDIT DOCUMENT](' + url + ') \n';
+
+        return (
+            editHtml +
+            html
+        );
+    });
+    },
+
+      ],
+
+      // share: {
+      //   reddit: true,
+      //   linkedin: true,
+      //   facebook: true,
+      //   twitter: true,
+      //   whatsapp: true,
+      //   telegram: true,
+      // },
+      // 加载 nav.md
+      // loadNavbar: 'nav.md',
+
+
+      markdown: {
+
+        //If you have defined the follow section, 
+        //then you need to follow the steps in the next section.
+        //(only the code section matters in this plugin)
+      renderer: {
+        code: function (code, lang) {
+          var html = '';
+          if (code.match(/^sequenceDiagram/) || code.match(/^graph/) || code.match(/^gantt/)) {
+            html = '<div class="mermaid">' + code + '</div>';
+          }
+          var hl = Prism.highlight(code, Prism.languages[lang] || Prism.languages.markup);
+          // return html + '<pre v-pre data-lang="' + lang + '"><code class="lang-' + lang + '">' + hl + '</code></pre>'; //展示流程图加代码
+          return html // 只展示流程图
+        
+
+        }
+        },
+        
+
+        code: function (code, lang) {
+          var renderer_func = function (code, lang, base = null) {
+            var pdf_renderer = function (code, lang, verify) {
+              function unique_id_generator() {
+                function rand_gen() {
+                  return Math.floor((Math.random() + 1) * 65536).toString(16).substring(1);
+                }
+                return rand_gen() + rand_gen() + '-' + rand_gen() + '-' + rand_gen() + '-' + rand_gen() + '-' + rand_gen() + rand_gen() + rand_gen();
+              }
+              if (lang && !lang.localeCompare('pdf', 'en', { sensitivity: 'base' })) {
+                if (verify) {
+                  return true;
+                } else {
+                  var divId = "markdown_code_pdf_container_" + unique_id_generator().toString();
+                  var container_list = new Array();
+                  if (localStorage.getItem('pdf_container_list')) {
+                    container_list = JSON.parse(localStorage.getItem('pdf_container_list'));
+                  }
+                  container_list.push({ "pdf_location": code, "div_id": divId });
+                  localStorage.setItem('pdf_container_list', JSON.stringify(container_list));
+                  return (
+                    '<div style="margin-top:' + PDF_MARGIN_TOP + '; margin-bottom:' + PDF_MARGIN_BOTTOM + ';" id="' + divId + '">'
+                    + '<a href="' + code + '"> Link </a> to ' + code +
+                    '</div>'
+                  );
+                }
+              }
+              return false;
+            }
+            if (pdf_renderer(code, lang, true)) {
+              return pdf_renderer(code, lang, false);
+            }
+            /* SECTION START: Put other custom code rendering functions here
+              i.e. If the language of the code block is LaTex, 
+              put the code below to replace original code block with the text: 
+              'Using LaTex is much better than handwriting!' inside a div container.
+          
+              if (lang == "latex") {
+                return ('<div class="container">Using LaTex is much better than handwriting!</div>');
+              }
+          
+            SECTION END */
+            return (base ? base : this.origin.code.apply(this, arguments));
+          }
+        }
+
+
+      },
+    }
+  </script>
+
+
+  <!-- 添加文档修改时间记录 -->
+ <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+ 
+ <!-- mermaid -->
+  <script type="text/javascript" src="//unpkg.com/mermaid/dist/mermaid.min.js"></script>
+
+  <!--valine评论系统-->
+  <!-- <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script> -->
+
+  <!-- <script defer src="https://cdn.commento.io/js/commento.js"></script> -->
+  <!-- <div id="commento"></div> -->
+  <!-- <script src="commento.js"></script> -->
+
+  <!-- pdf预览 -->
+  <!-- PDFObject.js is a required dependency of this plugin -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
+  <!-- This is the source code of the pdf embed plugin -->
+  <script src="path-to-file/docsify-pdf-embed.js"></script>
+  <!-- or use this if you are not hosting the file yourself -->
+  <script src="//unpkg.com/docsify-pdf-embed-plugin/src/docsify-pdf-embed.js"></script>
+
+  <!-- 上一页,下一页 -->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+  <!-- 图片放大 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
+  <!-- 访问量统计 -->
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  <!-- 全局搜索 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+
+  <!-- 全局搜索 -->
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- 侧边栏 -->
+  <!-- plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+
+  <!-- 代码渲染-->
+  <script src="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
+  <script src="//cdn.jsdelivr.net/npm/marked@4"></script>
+
+  <!-- CDN files for docsify-katex -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+  <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
+
+  <!--复制到剪切板-->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+
+  <!-- Markdown 引用样式美化 -->
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-java.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-python.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-cpp.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-c.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-javascript.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-css.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-powershell.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-sql.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-yaml.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-properties.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/matlab.min.js"></script>
+
+  <!-- 表情符号 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script src="//cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
+  <script>
+      var gitalk = new Gitalk({
+        clientID: 'Ov23liP9rWdAo1IRAhXK',
+          clientSecret: '6980d87ceb67abf4f34b196aa18f6667d721f6e8',
+          repo: 'blogs',  // 存放评论的仓库
+          owner: 'sunwuzhou03',  // 仓库的创建者，
+          admin: ['sunwuzhou03'],
+          // title: `comments ${location.hash.match(/#(.*?)([?]|$)/)[1]}`,
+          id: md5(location.hash.match(/#(.*?)([?]|$)/)[1]),  // 存放评论的仓库
+          // title: `comments ${location.hash.match(/#(.*?)([?]|$)/)[1].substring(0, 50)}`,
+          distractionFreeMode: false
+      })
+      // Listen for changes in hash in the URL. If an MD file is found to have changed,
+      // refresh the page to solve the problem of using a single digital comment issue for the entire website.
+      window.onhashchange = function (event) {
+          if (event.newURL.split('?')[0] !== event.oldURL.split('?')[0]) {
+              location.reload()
+          }
+      }
+  
+  </script>
+
+</body>
+
+</html>

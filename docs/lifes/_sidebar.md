@@ -1,0 +1,7 @@
+- [LIFES](./)
+	- [University dream](University%20dream.md)
+	- [obsidian-doccsify-onedrive 多端同步](obsidian-doccsify-onedrive%20多端同步.md)
+	- [好开心](好开心.md)
+	- [戒断反应](戒断反应.md)
+	- [域名买错na](域名买错na.md)
+	- [boring life](boring%20life.md)

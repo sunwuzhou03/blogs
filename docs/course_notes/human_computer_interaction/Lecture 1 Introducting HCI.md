@@ -1,0 +1,98 @@
+# Introducing HCI
+# Importance of HCI
+- human-computer interaction (hci)
+- computer-human interaction (chi)
+- user-centred design
+- interaction design
+- system development
+	- requirements
+	- analysis
+	- design
+	- code
+	- test
+	- implement/deploy
+- 63% of large software projects go over cost
+- usability engineering is software engineering
+- cost of change, due to rework
+	- waterfall, traditional development
+	- agile
+	- extrme programming
+- fail fast innovation, rapid prototype, user testing, stake holder co-design
+- Today: usability sell
+- consequences of bad design are large
+- problem
+	- fat fingers $\rightarrow$ ergonomic design
+	- information overload $\rightarrow$ reduce short time memory load
+	- human error $\rightarrow$ offer error prevention
+	- inflexible transaction system $\rightarrow$ permit easy reversal of action
+-  Importance of HCI
+	- offer informative feedback
+	- reduce short-term memory load
+	- offer error prevention
+	- support internal locus of context
+-  Definitions:
+	- hci is concerned with the design, evaluation and implementation of interactive computing systems for human use and with the study of major phenomena surrounding them
+	- an input language for user, an output language for the machine, and a protocol for interaction
+	- It's simply the parts of computer that you see, hear, touch or talk to. It is the set of all the things that allow you and your computer to communicate with each other
+	- a discipline concerned with the design, implementation, and evaluation of interactive computing systems for human use
+- history of hci
+	- from batch jobs to social robot
+	- from 'being an appendix to machine'  to 'machine tending to users' need'
+	- visionaries and scruffy first prototypes are nothing to laugh at
+- history of hci (detail)
+	- a closed-up the stretch (1961) technical control panel
+	- stretch circuit board 
+	- significant advances 1960-1980
+		- interaction starts to happen
+			- ergonomics
+			- interactive experience
+		- computer are getting cheaper
+	- AFIPS Fall joint computing conference
+	- the user become important
+	- famous paper: man-computer symbiosis
+	- brain-computer interface
+	- drawing tool (Ivan Sutherland sketchpad)
+	- personal computing (Alan kay)
+	- Xerox PARC
+	- Xerox Star 8010
+	- user take center stage (1988-current)
+- History or hci lessons learned
+	- before computer cost more than people, today : people cost far more than computers do
+	- applications can now afford to trade off processing power for huamn usability
+	- new ideas often don't make it into products straight away
+	- pioneer systems developed innovative designs, but often commercially unviale
+	- settel systems incorporated (many years later) well design researched (hci !!) designs
+- multidisciplinary
+	- computer science
+	- artificail intelligence
+	- engineering
+	- cognitive psychology
+	- ergonomics, human factors
+	- sociology
+	- communication
+	- anthropology
+	- linguistics
+	- industrial design
+Designing with Interactive Systems
+- Let humans focus on:
+	- sensing of low level stimuli
+	- pattern recognition
+	- Inductive reasoning
+	- Multiple strategeies
+	- Adapting
+	- Creating
+- While computer help with
+	- counting and measuring
+	- accurate storage and recall
+	- rapid and consistent responses
+	- data processing
+	- calculation
+	- repetitive actions
+# summary
+- In this course, we teach you why hci is crucial in system design and how to make sure the user becomes an integral part of your thinking
+- HCI is not only important to create a nice user experience, to avoid costly redesign, or to sell more products or services, there are shocking examples where bad design caused huamn diaster (e.g., Harriburg or American Airlines 965)
+- By definition, HCI concerns the design, implementation, and evaluation of interactive computing systems for human use and provides input language for the user, an output language for the machine, and a protocol for interaction
+- In historical context, the focus shifts from humans serving computer systems to systems servicing humans
+- various disciplines should collaborate if computer system want to fit for human use: computer science, social science and psychology, ergonomics, and interaction design
+- if not , poor hci desgin makes even the toufhest coder look stupid
+

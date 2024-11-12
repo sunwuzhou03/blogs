@@ -1,0 +1,13 @@
+# Human and Computer Interaction
+- [Lecture 1 Introducting HCI](Lecture%201%20Introducting%20HCI.md)
+- [Lecture 2 Human info proc](Lecture%202%20Human%20info%20proc.md)
+- [Lecture 3 Visual](Lecture%203%20Visual.md)
+- [Lecture 4 language](Lecture%204%20language.md)
+- [Lecture 5 Ergonomics, IO Devices](Lecture%205%20Ergonomics,%20IO%20Devices.md)
+- [Lecture 6 Testing](Lecture%206%20Testing.md)
+- [Tutorial 5 Feedback and constraints](Tutorial%205%20Feedback%20and%20constraints.md)
+- [Tutorial 6 virtual reality](Tutorial%206%20virtual%20reality.md)
+- [Tutorial 7 Specification for interface design](Tutorial%207%20Specification%20for%20interface%20design.md)
+- [Tutorial 8 Interface Design Principles](Tutorial%208%20Interface%20Design%20Principles.md)
+- [Tutorial 9 Usability by examples](Tutorial%209%20Usability%20by%20examples.md)
+- [Tutorial 10 Emerging Technologies and HCI](Tutorial%2010%20Emerging%20Technologies%20and%20HCI.md)

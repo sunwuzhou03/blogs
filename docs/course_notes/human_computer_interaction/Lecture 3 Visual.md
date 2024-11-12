@@ -1,0 +1,93 @@
+# Input: perception 
+- color is not property of the physical of light
+- color is the human interpretation of different energetic frequencies
+- 3D vision is no property of image on the retina 
+- the illusion of depth is so strong that it urge s our brains to resize objects so as to fit our conceptual interpretation of environment
+- expanding optic flow makes the body lean forward
+- contracting optic flow makes the body lean backward
+- optic flow is the brain's cue to calcualte position in space
+- **how to create the depth of illusion**
+	- the objects closest to the eye 'moves' the most because the retinal path is longer. the brain interprets this as: short path is behind long path; therefore, there must be depth
+	- the brain interprets this as: short path is behind long path; therefore, there must be depth
+- **motion parallax**
+	- the direction in which an object leave the visual field indicates the direction of object motion in the physical world. moon travels with you
+	- the direction of leaving the visual half-field cues object motion and desite conceptually knowing that the moon does not fly with tou , the simple everyday heuristics make us see it that way
+- conclusion
+	- visual angle indicate objects size
+	- related to size and distance from eye
+	- size constancy desipte changes in visual angle
+	- expanding optic flow indicate we go forward
+	- contracting optic flow indicate 'backward'
+	- long retina path indicate 'close by'
+	- short retine path indicate 'far away'
+	- side of leaving visual half field indicates motion direction
+		- side of your direction means object goes with me
+		- opposite side of your direction means object stays behind
+- pattern recognition
+	- similarity
+	- proximity
+	- symmetry
+	- continuty
+	- closure
+	- smallness
+	- surroundedness
+- pattern is no property of data
+- Text is an image with coded meaning
+	- syntactic
+	- semantic
+	- progmatic
+- semantics change due to pragmatics
+- how to read
+	- scan
+	- saccades
+	- fixations
+- decoding and interpretation in design
+	- lexical ambiguty in interface
+	- semantic priming
+	- the use of context
+- context is responsible for the proper semantic prime
+- random trail and error
+	- is a low level problem solving strategy but commonly found with non-expert users
+- with the right semantic priming, confused users can be avoided
+- Recommendations
+	- know your user groups
+	- labels are short
+	- avoid ambiguity
+	- don't use synonyms
+	- labels are self-explicating
+	- labels should prime high frequency meanings
+- CRAP
+	- contrast
+		- make different things different
+		- bring out  dominant elements
+		- mute lesser elements
+		- create dynamism
+	- repetition
+		- repeat design throughout the repeat
+		- be consisitent
+	- create unity
+		- alignment
+		- visually connetc elements
+		- create visual flow
+	- proximity
+		- group related elemnets
+		- separate unrelated ones
+- Grids is a good tool to use satisfy the above requirements
+- **Notice**
+	- present adequate and comprehensive information
+	- provide real choices
+	- avoid ambiguty and beging self-contradictory
+	- save users' time and efforts
+
+# summary
+
+- information is not neutral. The eye filters, selects and changes data so to make an interpretation of world about us. Color is not a property of light but of the eye's receptors. 3D vision results from manipulations by the brain to create a depth illusion. The brain uses heuristics such as similarity, continuity and proximity to make sense of information that passes the eye. Patterns are not the result of recognition but rather of human construction
+- Text is a form of visual input, most important to guide the user through the interface (labels to icons included). Text is strongly ambigupus. You should provide elements that semantically prime the intended meaning. This is ' context.' Pressing 'start' to stop a process is priming the wrong semantic associations
+- To make A GUI, work from 
+	- contrast 
+	- repetition 
+	- unity
+	- proximity
+- Grids are a good way to satisfy these requirements
+- Arrange functions as represented by icons and texts into families so that users can 'chunk up' the information into meaningful units and are not overwhelmed by numerous unrelated widgets
+- Remeber that an image says more than a thounsand words but what it says we don't know because words are way more precise than images (that's why humans invented language)

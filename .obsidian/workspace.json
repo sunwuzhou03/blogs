@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "8ea399af517b41e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7123db8beddea76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c90da58c5080c31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_notes/digital_signal_processing/数字信号处理期中复习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数字信号处理期中复习"
+            }
+          },
+          {
+            "id": "2ddc4060966d45e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/research_notes/_navbar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_navbar"
+            }
+          },
+          {
+            "id": "fe7c32fd82a5bbec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_notes/microcomputer_technology/第2章 8086微机系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第2章 8086微机系统"
+            }
+          },
+          {
+            "id": "07e02b41422b7b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/technical_notes/How to create new blog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to create new blog"
+            }
+          },
+          {
+            "id": "e947c71b4e3c13f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_notes/others/毛概报告草稿.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "毛概报告草稿"
+            }
+          },
+          {
+            "id": "28aa66d8b3890bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/course_notes/others/毛概报告草稿.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "毛概报告草稿"
+            }
+          },
+          {
+            "id": "e1f23c20ed50b963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/technical_notes/How to create new blog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to create new blog"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d75f21e6a6469dc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7917c55d997b105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efcc811381132d94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "199a8aa725a904bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c2d22d08b6a7687f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5bffc798f4755a21",
+    "type": "split",
+    "children": [
+      {
+        "id": "add25eb27a1b32e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b44a2b13848a558",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/course_notes/others/交通强国实践报告.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "交通强国实践报告 的出链列表"
+            }
+          },
+          {
+            "id": "4538e10e5366c1c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c94cdaf6cb08b664",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/course_notes/cloud_computing/作业1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 作业1"
+            }
+          },
+          {
+            "id": "59398b9c05a62fb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/course_notes/cloud_computing/作业1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 作业1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-secure:Remotely Sync": false
+    }
+  },
+  "active": "e1f23c20ed50b963",
+  "lastOpenFiles": [
+    "docs/research_notes/phd application.hd.md",
+    "docs/research_notes/research visiting program.hd.md",
+    "docs/research_notes/Polyu Summer Reaserch-Sports Analysis.md",
+    "docs/course_notes/others/毛概报告草稿.hd.md",
+    "docs/course_notes/others/交通强国实践报告.hd.md",
+    "docs/course_notes/cloud_computing/云计算课程心得与总结.hd.md",
+    "未命名文件夹",
+    "docs/lifes/关于读书.md",
+    "docs/course_notes/others/交通强国.md",
+    "docs/course_notes/others/交通强国.pptx",
+    "docs/course_notes/others/交通强国.html",
+    "docs/course_notes/others/交通强国.001.png",
+    "docs/course_notes/others/毛概报告.html",
+    "docs/attachments/Pasted image 20241110163855_副本.png",
+    "docs/attachments/Pasted image 20241110163855.png",
+    "docs/attachments/1000-3.jpg",
+    "docs/attachments/1000-2.jpg",
+    "docs/attachments/1000.jpg",
+    "docs/course_notes/cloud_computing/_sidebar.md",
+    "docs/course_notes/cloud_computing/README.md",
+    "docs/technical_notes/docsify blog 最近添加的功能.md",
+    "docs/technical_notes/How to create new blog.md",
+    "docs/technical_notes/VMware CentOS7 安装.md",
+    "docs/_navbar.md",
+    "docs/technical_notes/_navbar.md",
+    "docs/research_notes/_navbar.md",
+    "docs/course_notes/artificial_intelligence/_navbar.md",
+    "docs/course_notes/cloud_computing/_navbar.md",
+    "docs/course_notes/data_mining_and_data_warehousing/_navbar.md",
+    "docs/course_notes/digital_signal_processing/_navbar.md",
+    "docs/course_notes/human_computer_interaction/_navbar.md",
+    "docs/course_notes/human_computer_interaction/_sidebar.md",
+    "docs/course_notes/matrix_analysis/_navbar.md",
+    "docs/course_notes/microcomputer_technology/_navbar.md",
+    "docs/course_notes/others/_navbar.md",
+    "docs/course_notes/_navbar.md",
+    "commit_mac_secrete.sh.sb-2d8849e9-BYqwF2",
+    "commit_mac_secrete.sh",
+    "commit_mac_screte.sh",
+    "commit_mac_副本.sh",
+    "index.html.back",
+    "docs/course_notes/others",
+    "docs/attachments/Pasted image 20241106183647.png",
+    "docs/attachments/Pasted image 20241106183608.png",
+    "docs/attachments/Pasted image 20241106183534.png",
+    "docs/attachments/Pasted image 20241106183517.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
